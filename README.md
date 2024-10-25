@@ -1,0 +1,2 @@
+# BrickRigs-JapaneseTranslateMod
+BrickRigsというゲームの日本語訳
