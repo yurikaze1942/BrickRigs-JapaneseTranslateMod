@@ -485,7 +485,7 @@ msgstr "最初のインタラクションキー"
 
 msgctxt "/77962FFF44296264353C41A08D4B2203"
 msgid "Foam"
-msgstr "フォーム"
+msgstr "発砲ポリエチレン"
 
 msgctxt "/A80625E34B65A9876C92E2868F81A768"
 msgid "Focus Camera"
@@ -501,7 +501,7 @@ msgstr "フォローする"
 
 msgctxt "/1D719F464792F32E465535ADF56A79E3"
 msgid "Follow Location"
-msgstr "位置情報をフォローする"
+msgstr "位置情報を追跡する"
 
 msgctxt "/7B05DB7443B8AE274953F1BBC4904B64"
 msgid "Free Camera"
@@ -697,7 +697,7 @@ msgstr "最大スロー速度"
 
 msgctxt "/55ADFD574711DAE4380EAA9775B767E4"
 msgid "May conflict with"
-msgstr "と競合する可能性があります"
+msgstr "次と競合する可能性があります"
 
 msgctxt "/4DFDCAC540E8D0536E41209BAC32CCA8"
 msgid "Measurement System"
@@ -1973,7 +1973,7 @@ msgstr "ハンドブレーキあり"
 
 msgctxt "BrickProperties/HornPitch"
 msgid "Horn Pitch"
-msgstr "ホルンのピッチ"
+msgstr "警笛のピッチ"
 
 msgctxt "BrickProperties/OwningSeatDesc"
 msgid "If set the camera can only be used from this seat"
@@ -2633,7 +2633,7 @@ msgstr "プレイヤーはスイッチに近づいて押すことができます
 
 msgctxt "Bricks/SirenDescription"
 msgid "Plays different horn and siren sounds, what a pesky bee"
-msgstr "さまざまなクラクションとサイレンの音を鳴らします。なんて厄介なミツバチでしょう"
+msgstr "さまざまな警笛とサイレンの音を鳴らします。なんて厄介なミツバチでしょう"
 
 msgctxt "Bricks/Propeller"
 msgid "Propeller"
@@ -2717,7 +2717,7 @@ msgstr "スイッチ"
 
 msgctxt "Bricks/Tail"
 msgid "Tail"
-msgstr "しっぽ"
+msgstr "テール"
 
 msgctxt "Bricks/TargetMarker"
 msgid "Target Marker"
@@ -2761,7 +2761,7 @@ msgstr "ウィンドウ"
 
 msgctxt "Bricks/Wing"
 msgid "Wing"
-msgstr "翼"
+msgstr "ウィング"
 
 msgctxt "Bricks/CameraDescription"
 msgid "You can look through cameras while in a vehicle"
@@ -3661,7 +3661,7 @@ msgstr "ラウンド開始！"
 
 msgctxt "MatchState/Round tied"
 msgid "Round tied"
-msgstr "ラウンドタイ"
+msgstr "ラウンド引き分け"
 
 msgctxt "MatchState/WaitingForPlayers"
 msgid "Waiting for players"
