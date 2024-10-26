@@ -1389,7 +1389,7 @@ msgstr "スピードステップ"
 
 msgctxt "/993825C44E43F35C51A8DB9B934D716D"
 msgid "Sprint"
-msgstr "スプリント"
+msgstr "ダッシュ"
 
 msgctxt "/E304EBD64002226E7D8F75BC26A8DAA0"
 msgid "Stationary"
@@ -4345,7 +4345,7 @@ msgstr "しゃがみの切り替え"
 
 msgctxt "Settings/ToggleSprint"
 msgid "Toggle Sprint"
-msgstr "スプリントの切り替え"
+msgstr "ダッシュの切り替え"
 
 msgctxt "Settings/TransmissionMode"
 msgid "Transmission"
@@ -4933,7 +4933,7 @@ msgstr "インポート"
 
 msgctxt "UIStringTable/ZoomDirection_In"
 msgid "In"
-msgstr "で"
+msgstr "イン"
 
 msgctxt "UIStringTable/Menu_Credits"
 msgid "Info"
