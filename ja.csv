@@ -38,11 +38,11 @@ key,source,target
 /8A1525084BA2CA17CED12398DE1D9055,"Capture and hold flags to win points for your team",旗を掴んで保持してチームにポイントを獲得しましょう
 /2B7B3AE74528289983D529A2B13E50D7,"Captured Thumbnail",キャプチャされたサムネイル
 /8B82F5274A69B2689A2FCC8614B8126C,Car,車
-/806E45DD430325A9866CA58DF8126953,Carbon,炭素
+/806E45DD430325A9866CA58DF8126953,Carbon,カーボン
 /C16FAA4B4DF163215BAE2E8399E85B02,"Change the HUD/UI visibility level","HUD/UI 可視性レベルを変更する"
 /6E4FDD8245A55361C659FBB92966AF72,Character,キャラクター
 /9314DBCC4D7870B081E2BA9EBDC7DB44,Chat,チャット
-/272780374C1B1FFF986A0BB38E87B2DD,Chrome,クロム
+/272780374C1B1FFF986A0BB38E87B2DD,Chrome,メッキ
 /A319C6944FB51F38F1D0E780B2CBCB89,City,City
 /CE824B444A22D98E66043C8E245ADAA1,Cloudy,曇り
 /FC2DC23F4EF9BC17F9BEFD8327F3F778,"Cloudy Glass",曇ったガラス
@@ -82,8 +82,8 @@ key,source,target
 /A99C9DE744D13042591C6EBCCA01BB5F,"Downloading {0}",{0}をダウンロード中
 /306018AE460BC8ECC9BEA78DC491505D,Dummies,ダミー
 /6E3C4E1048371137B19FB18BD66D1992,Dummies,ダミー
-/FAF217394354684C2846ECB2915A6CB3,Duplicate,重複
-/8604442C4729653457FAEA8AC1267030,"Duplicate Mirrored",複製ミラーリング
+/FAF217394354684C2846ECB2915A6CB3,Duplicate,複製
+/8604442C4729653457FAEA8AC1267030,"Duplicate Mirrored",反対側に複製
 /B1BE41F24545E9EB5BA3B29A750DF3B1,"Edit or Revoke Ban",BANを編集または取り消す
 /7073B8A14922BAA4A42A888675DBF5F2,"Edit title, description etc.",タイトルや説明などを編集します。
 /12C59E454719E6E9C9DEBD9FD811518C,Editor,エディターで開く
@@ -250,8 +250,8 @@ key,source,target
 /787D70434B444BCD56E410A599F64F24,Rain,雨
 /1AF1FE8D4B0F25ECF2E080B483AF64D1,Ramps,スロープ
 /A7E4761D440E923DE80B999DC0A03825,"Recover Auto Save",自動保存を回復する
-/26129B014861619084FC3EBB3A8AC0C6,"Recover Here",ここで回復してください
-/502B1EB84C34E287AD19208242A54C94,"Recover at Garage",ガレージで回復する
+/26129B014861619084FC3EBB3A8AC0C6,"Recover Here",その場で復活
+/502B1EB84C34E287AD19208242A54C94,"Recover at Garage",ガレージで復活
 /2546FFF7445FC0FA715672981E8D41C0,Redirectors,リダイレクタ
 /D6A3341740D8A8FB5CBA6593E4E70256,Redo,やり直し
 /0DBFA0294AB6CEBFF254EAA6364327F1,Reload,リロード
@@ -264,7 +264,7 @@ key,source,target
 /BA2D663A476A4AC89EE08A8E449D189F,"Remove all dummies in the world",世界中のダミーをすべて削除する
 /A3B0F1CF42E33539754C09AA25754F45,"Remove binding",バインディングを削除する
 /4D5F74564A5354C5D19897B788DEE6D2,"Replace Vehicle",車両を交換する
-/8E77657648B00B76A3DBC280B95C113B,"Reset Pan and Zoom",パンとズームをリセット
+/8E77657648B00B76A3DBC280B95C113B,"Reset Pan and Zoom",移動と拡大をリセット
 /A6E6CAD14E79A5EB56AC069B7A0CBB0A,"Reset all input mappings to default values?",すべての入力マッピングをデフォルト値にリセットしますか?
 /D797C90D4CE94A76AFA50EB8AF40BCBE,"Respawn locked for {0}",{0}のリスポーンはロックされています
 /F79AF94C43C12A1838011CBBAB4070C2,"Restart Level",リスタートレベル
@@ -272,7 +272,7 @@ key,source,target
 /24E2CE2640B4CE47BF64FCB4A65E0CA4,"Revive Dummies",ダミーを復活させる
 /E4EDDA774AF9B1DAD2D949990337A83F,"Revive all dummies in the world",世界中のすべてのダミーを復活させます
 /069CAAD947412FBE5739EFAC179D6008,"Revive yourself and repair your vehicle at the current location",自分自身を復活させ、現在の場所で車を修理します
-/0A65F9F14ED9B6B2E03FA58552A91E24,Robbers,強盗
+/0A65F9F14ED9B6B2E03FA58552A91E24,Robbers,泥棒
 /D3255B5442FE842D9228BB8264131F44,"Rocket Launcher",ロケットランチャー
 /5487559445A70563D7F71485EC6F1D33,Rods,ロッド
 /E483EF6C41959066DEE69F9B741E4DD1,"Rotate Pawn",ポーンを回転する
@@ -422,7 +422,7 @@ key,source,target
 /A6CBC8464BE788AA1A87C1AFF2F7F6BF,"Zoom Step",ズームステップ
 /BD34E7F14D0A97BC26653F8766480C78,"Zoom Step",ズームステップ
 /B5C09D62488D3D14152C888B9AAE0DA6,"{0} Hidden","{0} 非表示"
-/1355090C4EB0D7E9C0D0E38566AEBAA8,"{0} with fluid dynamics","{0} と流体力学"
+/1355090C4EB0D7E9C0D0E38566AEBAA8,"{0} with fluid dynamics","{0} 個の空力/浮力"
 /33C73DAB42606C301A0B7997C0BE94F0,"{0} won the match!","{0} が試合に勝ちました!"
 AAMethod/FXAA,FXAA,FXAA
 AAMethod/None,Off,オフ
@@ -479,7 +479,7 @@ BrickProperties/MaxExpansion,"Extension Limit",延長制限
 BrickProperties/FilterCategory,Filter,フィルター
 BrickProperties/FlapInputScale,"Flap Speed",フラップ速度
 BrickProperties/FlashSequence,"Flash Pattern",フラッシュパターン
-BrickProperties/bGenerateLift,"Fluid Dynamic Surface",流体動的表面
+BrickProperties/bGenerateLift,"Fluid Dynamic Surface",空力と浮力
 BrickProperties/Font,Font,フォント
 BrickProperties/FontSize,"Font Size",フォントサイズ
 BrickProperties/NumFractionalDigits,"Fractional Digits",小数桁
@@ -1215,7 +1215,7 @@ UIStringTable/Action_EditMetaData,"Edit Information",情報の編集
 UIStringTable/Menu_EditorSettings,Editor,エディター
 UIStringTable/Action_EnterEditor,"Enter Editor",エディターに入る
 UIStringTable/Hint_EnterPassword,"Enter password",パスワードを入力してください
-UIStringTable/Name_Error,Error,エラー
+UIStringTable/Name_Error,Error,
 UIStringTable/Action_Exit,Exit,出口
 UIStringTable/Result_Failure,Failure,失敗
 UIStringTable/Action_Favorite,Favorite,お気に入り
@@ -1280,7 +1280,7 @@ UIStringTable/Hint_EnterText,"Type something",何かを入力してください
 UIStringTable/Action_Unfavorite,Unfavorite,気に入らない
 UIStringTable/Name_Unknown,Unknown,不明
 UIStringTable/Action_Unselect,Unselect,選択を解除
-UIStringTable/Action_Unsubscribe,Unsubscribe,サブスクを削除
+UIStringTable/Action_Unsubscribe,Unsubscribe,サブスクを解除
 UIStringTable/Direction_Up,Up,上
 UIStringTable/SpeedIncrease_Up,Up,上
 UIStringTable/Action_Update,Update,アップデート
