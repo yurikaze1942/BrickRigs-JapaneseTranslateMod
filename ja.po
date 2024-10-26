@@ -1,0 +1,5277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgctxt "key"
+msgid "source"
+msgstr "target"
+
+msgctxt "/3F311538455E862A56A29B9BF4659409"
+msgid "Actuators"
+msgstr "アクチュエーター"
+
+msgctxt "/171FA1BF4DFFA500C5EE0B89B41F7CD4"
+msgid "Add to Selection"
+msgstr "選択に追加"
+
+msgctxt "/2923834D4E2D5509AF8C3D88F92B2E66"
+msgid "Admin access granted"
+msgstr "管理者アクセスが許可されました"
+
+msgctxt "/06CEDF124D1BC4BE740514BC4DB84AF9"
+msgid "Aim"
+msgstr "標的"
+
+msgctxt "/65E849204944026ED51BD2B2B2DAFAE0"
+msgid "Aim your handheld gun"
+msgstr "手持ち銃を向けてください"
+
+msgctxt "/61ADF5954B3CB9F55B418C81D2214971"
+msgid "Alt"
+msgstr "オルタナティブ"
+
+msgctxt "/26E9A72B45048130E6356E9B01D3EA3E"
+msgid "Boost"
+msgstr "ブースト"
+
+msgctxt "/3B20EC7F4AD5B826381F2DBBD4C5FA75"
+msgid "Aluminium"
+msgstr "アルミニウム"
+
+msgctxt "/804F20774F4CB610364BDA9B2BDA99FB"
+msgid "Ammo Box (Heavy)"
+msgstr "弾薬箱(重)"
+
+msgctxt "/ACD3241944E4BEA51AE0B2B51982629C"
+msgid "Ammo Box (Missile)"
+msgstr "弾薬箱(ミサイル)"
+
+msgctxt "/287A10A2425E5E0E22D6AAA42816F472"
+msgid "Auto Counter Steering"
+msgstr "オートカウンターステアリング"
+
+msgctxt "/0288A00548B06F6B7F67FB9614A75E34"
+msgid "Auto saved"
+msgstr "自動保存"
+
+msgctxt "/562C11D64CBDBD3F9A64AD9C126FBD30"
+msgid "Auxiliary"
+msgstr "補助"
+
+msgctxt "/AD825B4E46F16BE30AFCF4B2245F07D8"
+msgid "Aviation"
+msgstr "航空"
+
+msgctxt "/1845DF2C4A124F808639B5BFBE498B16"
+msgid "BR-15"
+msgstr "BR-15"
+
+msgctxt "/F07A2BBF4748D6ECF8F24B8E24E99E08"
+msgid "BRAF"
+msgstr "BRAF"
+
+msgctxt "/94A8513C4671F674F85B89B65FEADB63"
+msgid "Ban Player by ID"
+msgstr "ID によるプレーヤーのBAN"
+
+msgctxt "/4E5B1DB14048B21DE0F61C84BE95F829"
+msgid "Barrel"
+msgstr "バレル"
+
+msgctxt "/B4D887D54417507E711C5795C0B16484"
+msgid "Battle"
+msgstr "バトル"
+
+msgctxt "/5F56E7874AB8DBFFEDF365855EEDAAA8"
+msgid "Beacon"
+msgstr "ビーコン"
+
+msgctxt "/53D478E34D75102C754745882471F187"
+msgid "Bind {0}"
+msgstr "{0}をバインド"
+
+msgctxt "/887341F64AC4B70BB0DF67AC947221F1"
+msgid "Blinker"
+msgstr "ウインカー"
+
+msgctxt "/28376D914D8DB596139B41928C1A587F"
+msgid "Brake"
+msgstr "ブレーキ"
+
+msgctxt "/8B07278A46B7E26AF1AC4D98C37F868C"
+msgid "Bricks"
+msgstr "Bricks"
+
+msgctxt "/D27C818C446D61CDC19A8689324A80EF"
+msgid "Bricksville"
+msgstr "Bricksville"
+
+msgctxt "/E09AE7414572100A8591D6A34AEDBB0A"
+msgid "Browser"
+msgstr "ブラウザー"
+
+msgctxt "/9C5C14444F619EB9497E5296BBF04428"
+msgid "Brushed Aluminium"
+msgstr "磨いたアルミニウム"
+
+msgctxt "/5DB3009A4F0110DB88B020B25D4CD9C2"
+msgid "Camera"
+msgstr "カメラ"
+
+msgctxt "/C894DE3B4898F6BD42D243BD2E8CB6E2"
+msgid "Cameras"
+msgstr "カメラ"
+
+msgctxt "/172D411C450963E21A6E099CA1EA88FB"
+msgid "Can be used for additional features such as winches"
+msgstr "ウインチなどの追加機能に使用可能"
+
+msgctxt "/641A583B4585BE49585D61A9777C9FD6"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "/410BA3B14EE6A56106220EBBB6093700"
+msgid "Cancelling join"
+msgstr "参加のキャンセル"
+
+msgctxt "/1116A8684A4AF10CB7F4AB89A7AF2CF9"
+msgid "Canyon"
+msgstr "キャニオン"
+
+msgctxt "/080689C4408F35FFDFDDA699EBB2E4B1"
+msgid "Capture Thumbnail"
+msgstr "サムネイルのキャプチャ"
+
+msgctxt "/76EDB7454F8A5CCA2D96B4805D1F85B6"
+msgid "Capture Vehicle Thumbnail"
+msgstr "車両のサムネイルをキャプチャする"
+
+msgctxt "/74D28A1F4074D7F2C8D9D7A45F4C2842"
+msgid "Capture a new thumbnail from the current perspective"
+msgstr "現在の視点から新しいサムネイルをキャプチャします"
+
+msgctxt "/8A1525084BA2CA17CED12398DE1D9055"
+msgid "Capture and hold flags to win points for your team"
+msgstr "旗を掴んで保持してチームにポイントを獲得しましょう"
+
+msgctxt "/2B7B3AE74528289983D529A2B13E50D7"
+msgid "Captured Thumbnail"
+msgstr "キャプチャされたサムネイル"
+
+msgctxt "/8B82F5274A69B2689A2FCC8614B8126C"
+msgid "Car"
+msgstr "車"
+
+msgctxt "/806E45DD430325A9866CA58DF8126953"
+msgid "Carbon"
+msgstr "カーボン"
+
+msgctxt "/C16FAA4B4DF163215BAE2E8399E85B02"
+msgid "Change the HUD/UI visibility level"
+msgstr "HUD/UI 可視性レベルを変更する"
+
+msgctxt "/6E4FDD8245A55361C659FBB92966AF72"
+msgid "Character"
+msgstr "キャラクター"
+
+msgctxt "/9314DBCC4D7870B081E2BA9EBDC7DB44"
+msgid "Chat"
+msgstr "チャット"
+
+msgctxt "/272780374C1B1FFF986A0BB38E87B2DD"
+msgid "Chrome"
+msgstr "メッキ"
+
+msgctxt "/A319C6944FB51F38F1D0E780B2CBCB89"
+msgid "City"
+msgstr "City"
+
+msgctxt "/CE824B444A22D98E66043C8E245ADAA1"
+msgid "Cloudy"
+msgstr "曇り"
+
+msgctxt "/FC2DC23F4EF9BC17F9BEFD8327F3F778"
+msgid "Cloudy Glass"
+msgstr "曇ったガラス"
+
+msgctxt "/6851A9CD40598F14F523C0A7A21996CE"
+msgid "Cmd"
+msgstr "コマンド"
+
+msgctxt "/28EA376A400B20ADAA7AB8B646052ACB"
+msgid "Commit"
+msgstr "専念"
+
+msgctxt "/8D25759648D7B2E071FF08AF76BA7F04"
+msgid "Common"
+msgstr "一般"
+
+msgctxt "/89307B4B4EF8900B1E314D845881678A"
+msgid "Communicate with mutual respect and do not share personal information!"
+msgstr "相互尊重を持ってコミュニケーションをとり、個人情報を共有しないでください。"
+
+msgctxt "/3D4F84A34FD91923BE78A5BA8320D858"
+msgid "Conquest"
+msgstr "コンクエスト"
+
+msgctxt "/C4E7712F4053A36E784F67BFDACD3D4C"
+msgid "Copper"
+msgstr "銅"
+
+msgctxt "/1505093A4DD407036992D8B9A32F1091"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "/021BF85E48DE6AFB7A91AABC83F63978"
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+msgctxt "/8365D88245F3EB14A6FE019B981844D9"
+msgid "Couplings"
+msgstr "カップリング"
+
+msgctxt "/23451C2249A9F4600AD32A926E3A8828"
+msgid "Create New"
+msgstr "新規作成"
+
+msgctxt "/0BC40E15423069B60FF84C9110C7BA8A"
+msgid "Crouch"
+msgstr "しゃがむ"
+
+msgctxt "/EEE3E9BD4DFDF0D79767F590CC7EBC2A"
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgctxt "/19AF881247D1708F5CE4CF99DC6464F5"
+msgid "Cycle Free Cam Mode"
+msgstr "サイクルフリーカムモード"
+
+msgctxt "/D86C3F41400A069D6FE821B3BF30E1D6"
+msgid "Cycle Siren"
+msgstr "サイクルサイレン"
+
+msgctxt "/7A8FFD52419D43C98F267995F75B3537"
+msgid "Cycle available free camera modes"
+msgstr "利用可能なフリーカメラモードを切り替える"
+
+msgctxt "/05CF30CB4DFCE3CCF60D65A7110A755B"
+msgid "Cycle between available siren sounds"
+msgstr "利用可能なサイレン音を切り替える"
+
+msgctxt "/ED65C7C641DA133CD154D5A4A15C3C7C"
+msgid "Deathmatch"
+msgstr "デスマッチ"
+
+msgctxt "/88FCB5E641895208C5E5E0A93149F451"
+msgid "Decoration"
+msgstr "装飾"
+
+msgctxt "/6E689B1E4A83AED135EA55B28E696A54"
+msgid "Default"
+msgstr "デフォルト"
+
+msgctxt "/4D9D312E4FD03CECF638778CD9FD44E4"
+msgid "Delete"
+msgstr "削除"
+
+msgctxt "/7F4196B1478841FD6593D09CF946D1A1"
+msgid "Delete all empty vehicles from the world"
+msgstr "世界中から空の車両をすべて削除する"
+
+msgctxt "/19E240A7453BA268A972628C2C5C9F70"
+msgid "Delete all vehicles from the world"
+msgstr "世界からすべての車両を削除する"
+
+msgctxt "/BD7CEB3449FEEB207DC48191DE6098C2"
+msgid "Delete your current Bob from the world"
+msgstr "現在のボブを世界から削除します"
+
+msgctxt "/5F3DD8EA4717954FC6EC60A49518CCAE"
+msgid "Delete your current vehicle from the world"
+msgstr "現在の車両を世界から削除します"
+
+msgctxt "/7B0673F040821907F16141A6E8889E2F"
+msgid "Desert"
+msgstr "Desert"
+
+msgctxt "/66DD54EB4950F1678C5AB3AE6ED490BB"
+msgid "Desert Worm"
+msgstr "デザートワーム"
+
+msgctxt "/85033D6242D67849F4D0EEBCC407BCCD"
+msgid "Desert Worms"
+msgstr "デザートワーム"
+
+msgctxt "/C760300F46543E4167B1EBB9D3DFA8F4"
+msgid "Disable Snapping"
+msgstr "スナップを無効にする"
+
+msgctxt "/DDD0A1124F2021B693A0DC80BADE7A60"
+msgid "Disable Steering"
+msgstr "ステアリングを無効にする"
+
+msgctxt "/C6EDA92C4C5924BCA40A07A3C8E01A78"
+msgid "Disable steering on selected axles"
+msgstr "選択した車軸のステアリングを無効にする"
+
+msgctxt "/BCB526E14AB77108EDDC7A875B75F930"
+msgid "Disabled"
+msgstr "無効"
+
+msgctxt "/DA8B59FA467125AB139BF3A341C9091A"
+msgid "Disliked"
+msgstr "嫌い"
+
+msgctxt "/2B6D98E641935C0E3B0D9FA68D7E21D7"
+msgid "Do whatever you want!"
+msgstr "やりたいことは何でもやってください！"
+
+msgctxt "/A99C9DE744D13042591C6EBCCA01BB5F"
+msgid "Downloading {0}"
+msgstr "{0}をダウンロード中"
+
+msgctxt "/306018AE460BC8ECC9BEA78DC491505D"
+msgid "Dummies"
+msgstr "ダミー"
+
+msgctxt "/6E3C4E1048371137B19FB18BD66D1992"
+msgid "Dummies"
+msgstr "ダミー"
+
+msgctxt "/FAF217394354684C2846ECB2915A6CB3"
+msgid "Duplicate"
+msgstr "複製"
+
+msgctxt "/8604442C4729653457FAEA8AC1267030"
+msgid "Duplicate Mirrored"
+msgstr "反対側に複製"
+
+msgctxt "/B1BE41F24545E9EB5BA3B29A750DF3B1"
+msgid "Edit or Revoke Ban"
+msgstr "BANを編集または取り消す"
+
+msgctxt "/7073B8A14922BAA4A42A888675DBF5F2"
+msgid "Edit title, description etc."
+msgstr "タイトルや説明などを編集します。"
+
+msgctxt "/12C59E454719E6E9C9DEBD9FD811518C"
+msgid "Editor"
+msgstr "エディターで開く"
+
+msgctxt "/2B42C8A24A634E56831CFABB55A1644F"
+msgid "Electric Motor"
+msgstr "電動モーター"
+
+msgctxt "/4BE11C0A47101D7275C19D9B237A9F22"
+msgid "Eliminate enemies to win points for your team"
+msgstr "敵を排除してチームのポイントを獲得しましょう"
+
+msgctxt "/70448A4D4CD4CE96148ED082018E2ECD"
+msgid "Eliminate increasingly large waves of zombies"
+msgstr "ますます大規模になるゾンビの波を排除する"
+
+msgctxt "/C8DE1D7E472B0ADB8F2D68B3431EFE2B"
+msgid "Eliminate the enemy team to win rounds"
+msgstr "敵チームを排除してラウンドに勝利します"
+
+msgctxt "/34354B53495A96919A38ADB7A0384205"
+msgid "Enabled"
+msgstr "有効"
+
+msgctxt "/FD10A77F4E28F30752E7D98670C4BDA0"
+msgid "Enter admin password"
+msgstr "管理者パスワードを入力してください"
+
+msgctxt "/AD457A3947895A10374B8CBC7BDA3D05"
+msgid "Enter or exit free camera (allows you to fly around and place vehicles or dummies)"
+msgstr "フリーカメラの出入り（飛び回ったり、車両やダミーを配置したりできます）"
+
+msgctxt "/E190B0FD43ECE3AB1D6F058013C75048"
+msgid "Enter the vehicle editor to build or modify vehicles"
+msgstr "車両エディターに入って車両を構築または変更します"
+
+msgctxt "/EDE4739A4033EC2E0027B183F1244BA3"
+msgid "Equip the next explosive item"
+msgstr "次の爆発物アイテムを装備する"
+
+msgctxt "/79BCBF0746C915C39BD18FA292CA0636"
+msgid "Equip the next inventory item"
+msgstr "次のインベントリアイテムを装備する"
+
+msgctxt "/CD911979470073952939DE8FFC225720"
+msgid "Equip the previous explosive item"
+msgstr "前の爆発物アイテムを装備する"
+
+msgctxt "/414DE85B4DC3B090C7E8C79C0F716997"
+msgid "Equip the previous inventory item"
+msgstr "前のインベントリアイテムを装備する"
+
+msgctxt "/28C1C4CE40EC7E938E273A8025D37626"
+msgid "Equip your primary weapon"
+msgstr "メイン武器を装備する"
+
+msgctxt "/4475B5CF43CDEC8AA299AB8E541D250D"
+msgid "Equip your secondary weapon"
+msgstr "副武器を装備する"
+
+msgctxt "/5B73A3E8433577CFB684CC976CF5C777"
+msgid "Equip your special weapon"
+msgstr "特別な武器を装備する"
+
+msgctxt "/EE41F76C432BDF79EA462EA5B6B16F01"
+msgid "Exit Editor"
+msgstr "エディターを終了する"
+
+msgctxt "/A824E5BD4D4D0F1BD250FD8BBA0761B3"
+msgid "Exit Vehicle"
+msgstr "車両の出口"
+
+msgctxt "/EC6A221E4451AE08F7465D8AA6801AB2"
+msgid "Exit the current match?"
+msgstr "現在の試合を終了しますか?"
+
+msgctxt "/A72A6D584316D547847AB68BEF28B95B"
+msgid "Exit the editor with the currently opened vehicle"
+msgstr "現在開いている車両を使用してエディタを終了します"
+
+msgctxt "/3CA917C44D3AC0A86D90899016CD430F"
+msgid "Exit the editor without a vehicle"
+msgstr "車を持たずにエディターを終了する"
+
+msgctxt "/321E72A74944F85F3C0723BD859BF9A5"
+msgid "Exit with Vehicle"
+msgstr "車で出る"
+
+msgctxt "/FB0E770245A942262A5F05BE05AC7F00"
+msgid "Explode Vehicle"
+msgstr "車両を爆発させる"
+
+msgctxt "/275BCC014327FAFAFD9A3688ADC08EE8"
+msgid "Explode your current vehicle into pieces"
+msgstr "現在の車両を粉々に分解します"
+
+msgctxt "/7DDAB57F4F6060BCCD5BD8A67E20E6B9"
+msgid "Explosive Grenade"
+msgstr "爆発性手榴弾"
+
+msgctxt "/BBD848734190BA1E79989C9B12287276"
+msgid "File"
+msgstr "ファイル"
+
+msgctxt "/871D6AA54C888FA81F7F1FA2C45A5F38"
+msgid "Fire"
+msgstr "火"
+
+msgctxt "/FA77288D42B9A244C0ED4C9A9BFC67DC"
+msgid "Fire Fighters"
+msgstr "消防士"
+
+msgctxt "/6855A7014AFCCD2BCDDCD3BF98D1E30B"
+msgid "Fire and Water"
+msgstr "火と水"
+
+msgctxt "/89F4C97D4852F24A3D57DFB7D6C28E99"
+msgid "Fire the current weapon"
+msgstr "現在の武器を発射する"
+
+msgctxt "/A11AFDBB4EBDD4C1588B328F74D9A31F"
+msgid "First interaction key"
+msgstr "最初のインタラクションキー"
+
+msgctxt "/77962FFF44296264353C41A08D4B2203"
+msgid "Foam"
+msgstr "フォーム"
+
+msgctxt "/A80625E34B65A9876C92E2868F81A768"
+msgid "Focus Camera"
+msgstr "フォーカスカメラ"
+
+msgctxt "/794D72C64CDD4462307DD98235DF6C75"
+msgid "Focus the camera on selected bricks"
+msgstr "フォーカスカメラ"
+
+msgctxt "/EC9D80844C388C5BA7B10AB1992CE7EC"
+msgid "Follow"
+msgstr "フォローする"
+
+msgctxt "/1D719F464792F32E465535ADF56A79E3"
+msgid "Follow Location"
+msgstr "位置情報をフォローする"
+
+msgctxt "/7B05DB7443B8AE274953F1BBC4904B64"
+msgid "Free Camera"
+msgstr "フリーカメラ"
+
+msgctxt "/B563C5B64630591DB82E33A66403F912"
+msgid "Free Camera"
+msgstr "フリーカメラ"
+
+msgctxt "/D0522F1947A8992857BF7194890E0E8F"
+msgid "Free Camera"
+msgstr "フリーカメラ"
+
+msgctxt "/18E1618C47E1118F794F61888AA34E0F"
+msgid "Freeze Vehicle"
+msgstr "乗り物を固定"
+
+msgctxt "/7F999C64432EFB46CFC414A6FA150F9F"
+msgid "Freeze all parts of the vehicle"
+msgstr "乗り物のすべてのパーツを固定"
+
+msgctxt "/F40007694D82835FA8967586770519F2"
+msgid "German Fire Department"
+msgstr "ドイツ消防署"
+
+msgctxt "/872E47014CA4D5AF0A11938FCA7E3594"
+msgid "German Police"
+msgstr "ドイツ警察"
+
+msgctxt "/CA3294FB421432E72582BBA36F1BA271"
+msgid "Give Up"
+msgstr "あきらめる"
+
+msgctxt "/03D9E85849CC6BEF1B7B8B8A08B3D377"
+msgid "Glass"
+msgstr "ガラス"
+
+msgctxt "/FD841B0C481F0DE083C30EB52754A04D"
+msgid "Glow"
+msgstr "発光"
+
+msgctxt "/69754D574DF8AAC3F971138FE28BC860"
+msgid "Go to main menu?"
+msgstr "メインメニューに行きますか？"
+
+msgctxt "/D3FF1826475F71F9F25726B16E5E618F"
+msgid "Go to next Level"
+msgstr "次のレベルに進む"
+
+msgctxt "/8BE6E53245EE2D33C41F059DFC3EE24E"
+msgid "Gold"
+msgstr "金"
+
+msgctxt "/4039EA4549D064A6768318ADCA7F719B"
+msgid "Grid Map"
+msgstr "Grid Map"
+
+msgctxt "/DAEA47B540807F30DBD64DBD7E4F5383"
+msgid "Guns"
+msgstr "銃"
+
+msgctxt "/36E9B24645A33E5743BA8F986CB68C27"
+msgid "Hand Brake"
+msgstr "ハンドブレーキ"
+
+msgctxt "/822D78734534CB024F0DAB8F62B138F8"
+msgid "Hazard Lights"
+msgstr "ハザードランプ"
+
+msgctxt "/2D15217E4B2B5F5EACC6B2A8F870CE33"
+msgid "Headlights"
+msgstr "ヘッドライト"
+
+msgctxt "/483D557C46382A019EF701915B228103"
+msgid "Hide"
+msgstr "隠す"
+
+msgctxt "/010840B642D0B1FB5E88DDBD7E27C133"
+msgid "High fog"
+msgstr "濃霧"
+
+msgctxt "/473FB3E04A058D135BB280996B5C37DF"
+msgid "Holo Sight"
+msgstr "ホロサイト"
+
+msgctxt "/4D9CA66F497C08F3AA4178B7EC10647B"
+msgid "Horizontal View"
+msgstr "水平方向のビュー"
+
+msgctxt "/53B19189458462518C6277873052199D"
+msgid "Horn"
+msgstr "警笛"
+
+msgctxt "/81780678446F9958D83E5F975C19BA3A"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "/15F03C32412D88A2A0B0F0AAF217E0D4"
+msgid "Incendiary Grenade"
+msgstr "焼夷手榴弾"
+
+msgctxt "/901FA17C44BEEE8FA2383485C216A784"
+msgid "Input Help"
+msgstr "入力ヘルプ"
+
+msgctxt "/501221D649A13FC69485FE867474F4E9"
+msgid "Input and Output"
+msgstr "入出力"
+
+msgctxt "/623D1C054EC504035F2013AE4141A8C3"
+msgid "Interact Axis"
+msgstr "インタラクト軸"
+
+msgctxt "/9BCD43AE470152A4FF665FA02BD3A99F"
+msgid "Inventory"
+msgstr "インベントリ"
+
+msgctxt "/DEDBD2FC42B1EA2BF02220B2A52776C6"
+msgid "Inventory"
+msgstr "インベントリ"
+
+msgctxt "/FFBD944948BB5C42E02291959C8EF5BF"
+msgid "Invert Selection"
+msgstr "選択範囲を反転"
+
+msgctxt "/7D27D7B24BFCA68F13DB048216E3F36C"
+msgid "Invert Steering"
+msgstr "ステアリング反転"
+
+msgctxt "/E2F877CC4BD6C710DDD62896331FE22B"
+msgid "Invert steering on selected axles"
+msgstr "選択した車軸でステアリングを反転します"
+
+msgctxt "/602F7D5D41D01413DC87A3926B42F129"
+msgid "Join session {0}?"
+msgstr "セッション {0} に参加しますか?"
+
+msgctxt "/20758B784601D5BBF36B76B77FBD745F"
+msgid "Joining {0}"
+msgstr "{0}に参加しています"
+
+msgctxt "/8B54D7E74C7166DDDD6DE081E51E8770"
+msgid "Jump"
+msgstr "ジャンプ"
+
+msgctxt "/E4F3BC9E46BA9AFAA25C2FA05B944EE0"
+msgid "Keep the new resolution and video mode? Reverting in {0}."
+msgstr "新しい解像度とビデオモードを維持しますか? {0} で元に戻します。"
+
+msgctxt "/AE92B9C74DB3CAD49F49A0B0320B84EA"
+msgid "LED Matrix"
+msgstr "LED"
+
+msgctxt "/744D9B7F4A471694C8ACAA8AEC9A2211"
+msgid "Leave the match?"
+msgstr "試合から退出しますか？"
+
+msgctxt "/2D9A01B44E76021BCF9AD19E6A1BC0AA"
+msgid "Let your Bob collapse"
+msgstr "ボブを崩壊させましょう"
+
+msgctxt "/19DB6CD34C1D67377FD3D7BCAB9C9863"
+msgid "Lights"
+msgstr "ライト"
+
+msgctxt "/23ECD61340CD3A3E9EA130A930790F3C"
+msgid "Lights"
+msgstr "ライト"
+
+msgctxt "/6CE973F747CACA8E31B294B8FC8B259C"
+msgid "Like"
+msgstr "好き"
+
+msgctxt "/9317B43C40F1B990643CFCB4087A8567"
+msgid "Liked"
+msgstr "好き"
+
+msgctxt "/2047E15B476860C75C9690830F6FCA9E"
+msgid "Look At"
+msgstr "見てください"
+
+msgctxt "/89FD1A7640BAA857BB143286C3C81A9D"
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+msgctxt "/B12A07534125867F9849D59B91E4BDF5"
+msgid "Map"
+msgstr "マップ"
+
+msgctxt "/88124BAB4C5B33392515A6837A166069"
+msgid "Max Slomo Speed"
+msgstr "最大スロー速度"
+
+msgctxt "/55ADFD574711DAE4380EAA9775B767E4"
+msgid "May conflict with"
+msgstr "と競合する可能性があります"
+
+msgctxt "/4DFDCAC540E8D0536E41209BAC32CCA8"
+msgid "Measurement System"
+msgstr "測定システム"
+
+msgctxt "/258DE7CA43AB50ED3D1914A0E9F199E2"
+msgid "Menu"
+msgstr "メニュー"
+
+msgctxt "/BB433CC54E13800E1C87BB8652590919"
+msgid "Min Slomo Speed"
+msgstr "最小スロー速度"
+
+msgctxt "/40FA953C4C4D7426E615A68CE2433AA3"
+msgid "Mirror Selection"
+msgstr "反対側に移動させる"
+
+msgctxt "/8AF1646348D6B539F92FFC9D3FCA79BC"
+msgid "Mirror selected bricks along the current mirror axis"
+msgstr "現在のミラー軸に沿って選択したBrickをミラーリングします"
+
+msgctxt "/16C431EC4FB5259AFAEFAD99D84B60EC"
+msgid "Modify"
+msgstr "修正する"
+
+msgctxt "/0A5708B44A32353C45C6F8B2E34B180A"
+msgid "Move"
+msgstr "動く"
+
+msgctxt "/1576303245B94D43CEE21EAB3D805E9E"
+msgid "Move"
+msgstr "動く"
+
+msgctxt "/34713BBE461EF272D3343A92C82CE2E0"
+msgid "Move"
+msgstr "動く"
+
+msgctxt "/63AA85DA4D11378241307084C5C8D5D4"
+msgid "Move"
+msgstr "動く"
+
+msgctxt "/A91984444E2B2240C2A7FAAE0D1C1F43"
+msgid "Move"
+msgstr "動く"
+
+msgctxt "/AA6AFC0044595B2581B409ACBB3BB59F"
+msgid "Move Along X Axis"
+msgstr "X 軸に沿って移動"
+
+msgctxt "/F3232F2844B2188D5230D5BA2EE413E9"
+msgid "Move Along Y Axis"
+msgstr "Y 軸に沿って移動"
+
+msgctxt "/72F55AF94E73D98DD1854C9AC39FD299"
+msgid "Move Along Z Axis"
+msgstr "Z軸に沿って移動"
+
+msgctxt "/B51A1344472F880786B82A85E0105E22"
+msgid "Move Camera"
+msgstr "カメラを移動する"
+
+msgctxt "/D69AEEB44D62211AF1438B95B7C649C5"
+msgid "Move Perpendicular"
+msgstr "垂直に移動"
+
+msgctxt "/1ED73E704F79CBCD2D14D18601E81318"
+msgid "Next Camera"
+msgstr "次のカメラ"
+
+msgctxt "/FED3CA3F4973926D5F1CA2B28924336F"
+msgid "Next Dummy"
+msgstr "次のダミー"
+
+msgctxt "/B94836244D64BC7E1E0C4ABFCC4A1121"
+msgid "Next Explosive"
+msgstr "次の爆発物"
+
+msgctxt "/E70DDC7C414C73E24BA5FFA8A206E15F"
+msgid "Next Fire Action"
+msgstr "次の射撃アクション"
+
+msgctxt "/C1D65FA649ADC263FFE26283F9BE80B6"
+msgid "Next Seat"
+msgstr "隣の席"
+
+msgctxt "/8D390BEF4F52F10EEF3C5D8C4A4D5FF8"
+msgid "Next Slot"
+msgstr "次のスロット"
+
+msgctxt "/B44C36B749605CCECC410CB0CB2C175E"
+msgid "Next Vehicle"
+msgstr "次の車両"
+
+msgctxt "/A1CD481B48AC163A5B782C9A873C90A9"
+msgid "Nitro"
+msgstr "ニトロ"
+
+msgctxt "/168DC4EA4F275F59BD153891A778D066"
+msgid "No Team"
+msgstr "チームがありません"
+
+msgctxt "/F5249A084CEE08D3C868E8B79A343738"
+msgid "Not in conflict"
+msgstr "矛盾していない"
+
+msgctxt "/2B93F1FC47287BAE38474DA15377FC5C"
+msgid "Oak"
+msgstr "オーク"
+
+msgctxt "/A73A40AF49297B6018CD929C4A939EBB"
+msgid "Oil Slick"
+msgstr "油膜"
+
+msgctxt "/904A2BFE40CA70185866F69E6DA8023F"
+msgid "Old Wood"
+msgstr "オールドウッド"
+
+msgctxt "/19506C984D1D2E1784FB248B2BDADC3C"
+msgid "Open"
+msgstr "開く"
+
+msgctxt "/67DC1152438FD2CFB20601AE2179AD11"
+msgid "Open Containing Folder"
+msgstr "乗り物データがあるフォルダーを開く"
+
+msgctxt "/C211ECBA442062FE88AEFF952CD70DA3"
+msgid "Open in Editor"
+msgstr "エディターで開く"
+
+msgctxt "/040DE0AC42C904027B5C96805B380FC2"
+msgid "Open multiplayer chat"
+msgstr "マルチプレイヤーチャットを開く"
+
+msgctxt "/58AA38304B4EF715B3733DB4FDC70332"
+msgid "Open or close the inventory screen"
+msgstr "インベントリ画面を開くまたは閉じる"
+
+msgctxt "/7288817D4A69CE24B4EE649E0AE9A3C5"
+msgid "Open or close the scoreboard screen"
+msgstr "スコアボード画面を開くまたは閉じる"
+
+msgctxt "/E5736233490F6CF68B8A29990C96688F"
+msgid "Open or close the top down map screen"
+msgstr "トップダウンマップ画面の開閉"
+
+msgctxt "/9833CEAD429AA7DADDB01AAF96B62CA2"
+msgid "Open the vehicle browser to spawn or replace a vehicle"
+msgstr "車両ブラウザを開いて車両を生成または置き換えます"
+
+msgctxt "/5BE2A7FB4AB0BC8EC3FA819E75B71396"
+msgid "Operation Mode"
+msgstr "動作モード"
+
+msgctxt "/19DB56B44954BA8AA831EEAD2B8DD0F9"
+msgid "Overwrite"
+msgstr "上書き"
+
+msgctxt "/3E8FDA0F4D16803547DB149C7C2071FE"
+msgid "Paint"
+msgstr "ペイント"
+
+msgctxt "/8EF5D0784D006E90D021C59934AB354D"
+msgid "Paint"
+msgstr "ペイント"
+
+msgctxt "/7879AFB7455EDC0819D8999C1BCC109C"
+msgid "Pants"
+msgstr "パンツ"
+
+msgctxt "/A4381E5748884CD0501FE1967ED0336B"
+msgid "Pants"
+msgstr "パンツ"
+
+msgctxt "/F4551BCA452D8A8F19DFEF8401312CFF"
+msgid "Partly cloudy"
+msgstr "所により曇り"
+
+msgctxt "/2F86E58E47A6501C0EBF47BEEA71DF74"
+msgid "Paste"
+msgstr "ペースト"
+
+msgctxt "/E6E252E84AE9DAD19D67099C322F2568"
+msgid "Paste from clipboard"
+msgstr "クリップボードから貼り付け"
+
+msgctxt "/DF93248447432CAAA53566990D01A184"
+msgid "Pause Game"
+msgstr "ゲームを一時停止する"
+
+msgctxt "/A95088CF43296DA632B226A8E3B7FDED"
+msgid "Petrol"
+msgstr "ガソリン"
+
+msgctxt "/42F173B541E72A2AA0C2B0A0D36ED33A"
+msgid "Photosensitivity warning: This game contains bright and flashing imagery."
+msgstr "光過敏症に関する警告: このゲームには明るく点滅する画像が含まれています。"
+
+msgctxt "/70EEDE0F4B7DECCE2496378BC552EE0F"
+msgid "Pick Value"
+msgstr "値の選択"
+
+msgctxt "/72CED81D4642597F4D647F8B85ADD1C5"
+msgid "Pick an object to copy the value from"
+msgstr "値のコピー元のオブジェクトを選択してください"
+
+msgctxt "/7F95D429478EDB6DC65DE4B196692659"
+msgid "Pin Vehicle"
+msgstr "ピンビークル"
+
+msgctxt "/398EA83D41DAFBE7D49B198E1C340C30"
+msgid "Pin the main part of the vehicle"
+msgstr "車両の主要部分をピンで固定します"
+
+msgctxt "/2FF4748346AD3E12B0406E8703E46714"
+msgid "Pine"
+msgstr "パイン"
+
+msgctxt "/7BA4668249777D86717ECBB20C41A79B"
+msgid "Pitch"
+msgstr "ピッチ"
+
+msgctxt "/56A7CCBD47AEFA34232BFCB40E0FBD7D"
+msgid "Pivot Camera"
+msgstr "ピボットカメラ"
+
+msgctxt "/829600C5417687E65BB688851FE452AE"
+msgid "Plastic"
+msgstr "プラスチック"
+
+msgctxt "/EB769C354AFE40841832B08CA76231BD"
+msgid "Player"
+msgstr "プレーヤー"
+
+msgctxt "/7E75D1C643BDC64F2853EBBECCFA42B6"
+msgid "Player Invincible"
+msgstr "プレイヤー無敵"
+
+msgctxt "/7515F0234975F88D9229F3BA57147439"
+msgid "Police"
+msgstr "警察"
+
+msgctxt "/22A38826486801B0FC8FD996029E0A5A"
+msgid "Possess the next dummy"
+msgstr "次のダミーを所有する"
+
+msgctxt "/D2CF217F47C80544BF04A4AC9A7BD535"
+msgid "Possess the previous dummy"
+msgstr "前のダミーを所有する"
+
+msgctxt "/2D03558C49C18028A71110B77F8C60EA"
+msgid "Previous Camera"
+msgstr "以前のカメラ"
+
+msgctxt "/DD233E83464BB7AB6CF68A9FE52D603B"
+msgid "Previous Dummy"
+msgstr "前のダミー"
+
+msgctxt "/C7ED5EBC43CDAA8E2E518990AD0431B5"
+msgid "Previous Explosive"
+msgstr "前の爆発物"
+
+msgctxt "/B8BD787E498ED7AD864EAAAA08E3F84E"
+msgid "Previous Fire Action"
+msgstr "前の火災アクション"
+
+msgctxt "/E615DB6240BC98AF69B49E81FEDD689B"
+msgid "Previous Seat"
+msgstr "前の席"
+
+msgctxt "/B09B189D4A2DC119D063448B033AE861"
+msgid "Previous Slot"
+msgstr "前のスロット"
+
+msgctxt "/6BD65FDB4C53B2454FC4FBB61BFFCEAE"
+msgid "Previous Vehicle"
+msgstr "前の車両"
+
+msgctxt "/50BF9AB44F682ED1E1F4BFA3D61816D7"
+msgid "Primary"
+msgstr "メインスロット"
+
+msgctxt "/CEFE686C4D7B41E479985886F0B37B79"
+msgid "Primary"
+msgstr "メインスロット"
+
+msgctxt "/EECBC57641CEBCA43C85259B5195E646"
+msgid "Primary Weapon"
+msgstr "プライマリ武器"
+
+msgctxt "/B45B46EA44231E68451686ACB9D140F3"
+msgid "Projectile Camera"
+msgstr "発射体カメラ"
+
+msgctxt "/7C04E17845A5B34B2067B484C2B91DDF"
+msgid "Quit Game"
+msgstr "ゲームを終了する"
+
+msgctxt "/6CDCDF7B4E437551DE2595B0E284782C"
+msgid "Quit to desktop?"
+msgstr "デスクトップを終了しますか?"
+
+msgctxt "/D574E4954DD7993B018022B986177FB8"
+msgid "Racetrack"
+msgstr "Racetrack"
+
+msgctxt "/787D70434B444BCD56E410A599F64F24"
+msgid "Rain"
+msgstr "雨"
+
+msgctxt "/1AF1FE8D4B0F25ECF2E080B483AF64D1"
+msgid "Ramps"
+msgstr "スロープ"
+
+msgctxt "/A7E4761D440E923DE80B999DC0A03825"
+msgid "Recover Auto Save"
+msgstr "自動保存を回復する"
+
+msgctxt "/26129B014861619084FC3EBB3A8AC0C6"
+msgid "Recover Here"
+msgstr "その場で復活"
+
+msgctxt "/502B1EB84C34E287AD19208242A54C94"
+msgid "Recover at Garage"
+msgstr "ガレージで復活"
+
+msgctxt "/2546FFF7445FC0FA715672981E8D41C0"
+msgid "Redirectors"
+msgstr "リダイレクタ"
+
+msgctxt "/D6A3341740D8A8FB5CBA6593E4E70256"
+msgid "Redo"
+msgstr "やり直し"
+
+msgctxt "/0DBFA0294AB6CEBFF254EAA6364327F1"
+msgid "Reload"
+msgstr "リロード"
+
+msgctxt "/9C20367545B5B1EA8C05B8A3C988EFD3"
+msgid "Reload your current gun"
+msgstr "現在の銃をリロードする"
+
+msgctxt "/FC84076E4335582F18BC81B427B27D8E"
+msgid "Remove All Vehicles"
+msgstr "すべての車両を削除する"
+
+msgctxt "/473464A24D51279899F640B0E7A9F731"
+msgid "Remove Bob"
+msgstr "ボブを削除する"
+
+msgctxt "/5B76259144F2CE00A762739A3A7CA6A3"
+msgid "Remove Dummies"
+msgstr "ダミーを削除"
+
+msgctxt "/C1418F414BB8C65B7250CCB6E286E5DA"
+msgid "Remove Empty Vehicles"
+msgstr "空車の撤去"
+
+msgctxt "/FD239AC146CEF48253762EAA1C1FCEC6"
+msgid "Remove Vehicle"
+msgstr "車両の削除"
+
+msgctxt "/BA2D663A476A4AC89EE08A8E449D189F"
+msgid "Remove all dummies in the world"
+msgstr "世界中のダミーをすべて削除する"
+
+msgctxt "/A3B0F1CF42E33539754C09AA25754F45"
+msgid "Remove binding"
+msgstr "バインディングを削除する"
+
+msgctxt "/4D5F74564A5354C5D19897B788DEE6D2"
+msgid "Replace Vehicle"
+msgstr "車両を交換する"
+
+msgctxt "/8E77657648B00B76A3DBC280B95C113B"
+msgid "Reset Pan and Zoom"
+msgstr "移動と拡大をリセット"
+
+msgctxt "/A6E6CAD14E79A5EB56AC069B7A0CBB0A"
+msgid "Reset all input mappings to default values?"
+msgstr "すべての入力マッピングをデフォルト値にリセットしますか?"
+
+msgctxt "/D797C90D4CE94A76AFA50EB8AF40BCBE"
+msgid "Respawn locked for {0}"
+msgstr "{0}のリスポーンはロックされています"
+
+msgctxt "/F79AF94C43C12A1838011CBBAB4070C2"
+msgid "Restart Level"
+msgstr "リスタートレベル"
+
+msgctxt "/3FFE6F214118E4BB63D087B8F1910DF6"
+msgid "Return to the game area!"
+msgstr "ゲームエリアに戻りましょう！"
+
+msgctxt "/24E2CE2640B4CE47BF64FCB4A65E0CA4"
+msgid "Revive Dummies"
+msgstr "ダミーを復活させる"
+
+msgctxt "/E4EDDA774AF9B1DAD2D949990337A83F"
+msgid "Revive all dummies in the world"
+msgstr "世界中のすべてのダミーを復活させます"
+
+msgctxt "/069CAAD947412FBE5739EFAC179D6008"
+msgid "Revive yourself and repair your vehicle at the current location"
+msgstr "自分自身を復活させ、現在の場所で車を修理します"
+
+msgctxt "/0A65F9F14ED9B6B2E03FA58552A91E24"
+msgid "Robbers"
+msgstr "泥棒"
+
+msgctxt "/D3255B5442FE842D9228BB8264131F44"
+msgid "Rocket Launcher"
+msgstr "ロケットランチャー"
+
+msgctxt "/5487559445A70563D7F71485EC6F1D33"
+msgid "Rods"
+msgstr "ロッド"
+
+msgctxt "/E483EF6C41959066DEE69F9B741E4DD1"
+msgid "Rotate Pawn"
+msgstr "ポーンを回転する"
+
+msgctxt "/00ED2D3D477A5027F50D09B485F3BD26"
+msgid "Rotate the camera around selected bricks"
+msgstr "ポーンを回転する"
+
+msgctxt "/1CE9D3604D8918B14DD402ACDDF33CE9"
+msgid "Rotate the free cam placement box"
+msgstr "フリーカム配置ボックスを回転させます"
+
+msgctxt "/D5DD059F4F43B03A5388F58E39E0AEF1"
+msgid "Round Stuff"
+msgstr "丸いもの"
+
+msgctxt "/8427212046626950596D508ACA5DDE7B"
+msgid "Rubber"
+msgstr "ゴム"
+
+msgctxt "/3BC0F13547F3BE46713960860FD4900A"
+msgid "Run faster"
+msgstr "より速く走る"
+
+msgctxt "/D72FF5714291E1EF5E38D2BDCB96676F"
+msgid "Rusted Steel"
+msgstr "錆びたスチール"
+
+msgctxt "/5C8B6DF245789D45E54F8CAC955899BA"
+msgid "Sandbox"
+msgstr "サンドボックス"
+
+msgctxt "/C84B2825475BB6D5479C0F9753F1D285"
+msgid "Sandbox"
+msgstr "サンドボックス"
+
+msgctxt "/5F6BC21B41F1E411BA255591569CAC4B"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "/A3A08B53433E1CB48E81C9AACA2C3CC7"
+msgid "Save As"
+msgstr "名前を付けて保存"
+
+msgctxt "/A4A42DA74BD7676C13983FABF1AEFAD6"
+msgid "Save a screenshot as the thumbnail for your current vehicle"
+msgstr "スクリーンショットを現在の車両のサムネイルとして保存します"
+
+msgctxt "/440023034B95CF0B6160A581BBB91DDD"
+msgid "Save new"
+msgstr "新規保存"
+
+msgctxt "/D8C4A6E347A76DD352CA9194C878B691"
+msgid "Save video settings?"
+msgstr "ビデオ設定を保存しますか?"
+
+msgctxt "/DAE8E30048452542407108AF1F7505DB"
+msgid "Saved"
+msgstr "保存されました"
+
+msgctxt "/328DE4A24C874F5650591D9A2ABE7911"
+msgid "Saving failed"
+msgstr "保存に失敗しました"
+
+msgctxt "/446319C145E3635E9F9F6F8A50E3F870"
+msgid "Scalables"
+msgstr "サイズ調整可能"
+
+msgctxt "/235741624E396D8DD2825EB7D4329E4A"
+msgid "Scoreboard"
+msgstr "スコアボード"
+
+msgctxt "/200E7AFB4134762554553AA14C37AC80"
+msgid "Second interaction key"
+msgstr "2 番目のインタラクション キー"
+
+msgctxt "/E41DA3EA446E258D332856B30A9984EE"
+msgid "Secondary"
+msgstr "サブスロット"
+
+msgctxt "/E8CF41B64E2466A226098694462CDECD"
+msgid "Secondary"
+msgstr "サブスロット"
+
+msgctxt "/A8A653A14BA3B032072CF6AD16D5DE5A"
+msgid "Secondary Weapon"
+msgstr "副武器"
+
+msgctxt "/9B1BC3EA44AA33D6B658759FA94AB9D9"
+msgid "Select"
+msgstr "選択"
+
+msgctxt "/611A958245EB5ED96589D3BA532B665D"
+msgid "Select All"
+msgstr "すべて選択"
+
+msgctxt "/2B7BF1D144F59B9F67E246A98022B937"
+msgid "Select Connected"
+msgstr "接続済みを選択"
+
+msgctxt "/771D99BE4F5D58FA615DFFBE67A73576"
+msgid "Select Recursively Connected"
+msgstr "再帰的に接続を選択"
+
+msgctxt "/90C17DE04F3DB4E8C179DE8C2FD3D032"
+msgid "Select all bricks of the same class"
+msgstr "再帰的に接続を選択"
+
+msgctxt "/CBFBD09A43811FB832A91185D248ED7A"
+msgid "Select all bricks with the same color"
+msgstr "同じクラスのすべてのBrickを選択します"
+
+msgctxt "/01412189417FED002B1A31B5CA57FCF4"
+msgid "Select all bricks with the same material"
+msgstr "同じ色のBrickをすべて選択します"
+
+msgctxt "/C2A45D484FD7088E0169F7B0416FE181"
+msgid "Select all bricks with the same pattern"
+msgstr "同じ材質のBrickをすべて選択します"
+
+msgctxt "/159D041148C91BDA5DB97CBB9B542FCD"
+msgid "Select all objects with the same property value"
+msgstr "同じプロパティ値を持つすべてのオブジェクトを選択します"
+
+msgctxt "/01EFD37641B096916F4C7D87A4E8992B"
+msgid "Select all or nothing"
+msgstr "すべてを選択するか何も選択しない"
+
+msgctxt "/59DED9F1472078BCFD8B02A006B5A60D"
+msgid "Select bricks directly connected to the current selection"
+msgstr "すべてを選択するか何も選択しない"
+
+msgctxt "/A7069FC04E22A65BF03C93A586D18FAE"
+msgid "Select bricks directly or indirectly connected to the current selection"
+msgstr "現在の選択に直接接続されているBrickを選択します"
+
+msgctxt "/6B1BDA274DE008CC7FDFD5B2394C5D37"
+msgid "Select by Class"
+msgstr "クラスから選ぶ"
+
+msgctxt "/82E8EA3B46B1DBDBD0EE73AD99D54D2F"
+msgid "Select by Color"
+msgstr "色で選ぶ"
+
+msgctxt "/474A511548C2BF67A2EF61BBADF204A0"
+msgid "Select by Material"
+msgstr "素材から選ぶ"
+
+msgctxt "/CBE6F8F749AE77D1A82999A4CD94F91A"
+msgid "Select by Pattern"
+msgstr "パターンで選ぶ"
+
+msgctxt "/6C92FF894D73BC1C67FE0DA723E8FB67"
+msgid "Select by Type"
+msgstr "タイプから選ぶ"
+
+msgctxt "/3413D39A411E4E7A6ACC6FA00526AE79"
+msgid "Select by Value"
+msgstr "値による選択"
+
+msgctxt "/5C6293644EBBE5C27EAC19B7DA313855"
+msgid "Select the next fire action, allows using the primary fire action instead of actions 1-8"
+msgstr "次の発射アクションを選択します。アクション 1 ～ 8 の代わりに主な発射アクションを使用できます。"
+
+msgctxt "/602F93A24C46938BE037778274C5E066"
+msgid "Select the previous fire action, allows using the primary fire action instead of actions 1-8"
+msgstr "前の射撃アクションを選択すると、アクション 1 ～ 8 の代わりに主な射撃アクションを使用できます。"
+
+msgctxt "/0196BF234EB36B3855CC898AED80E225"
+msgid "Selection"
+msgstr "選択"
+
+msgctxt "/77FE7D7F431D4F41E0A2A4A6923ED23B"
+msgid "Shift"
+msgstr "シフト"
+
+msgctxt "/BE6AAD34433EFFF6AAB4C3A055D2B811"
+msgid "Shift Down"
+msgstr "シフトダウン"
+
+msgctxt "/18BB4D6C47E07538B9675CAA8028E9DB"
+msgid "Shift Up"
+msgstr "シフトアップ"
+
+msgctxt "/603303D14327D1C5C0C7F6916F1C2A9C"
+msgid "Shirt"
+msgstr "シャツ"
+
+msgctxt "/FDECCB1B44F24B8B2B89ECBC0AAAB400"
+msgid "Shirt"
+msgstr "シャツ"
+
+msgctxt "/C62DA1574465F1977807E497AC41ED41"
+msgid "Sight"
+msgstr "サイト"
+
+msgctxt "/68CFA41E4B66EC32850737BBE61EB4FF"
+msgid "Slomo Speed Down"
+msgstr "スローモーションスピードダウン"
+
+msgctxt "/85D2D3B14892F2105937BDB04966C2F7"
+msgid "Slomo Speed Up"
+msgstr "スローモスピードアップ"
+
+msgctxt "/8A49FDF242E76A1C92FCC59E486B598A"
+msgid "Slow Motion"
+msgstr "スローモーション"
+
+msgctxt "/D7A2970C42F1A1D9691E7B9C49B17F50"
+msgid "Slow Motion"
+msgstr "スローモーション"
+
+msgctxt "/422BB4F74E03EE74093DD2A34ACB8477"
+msgid "Sniper"
+msgstr "スナイパー"
+
+msgctxt "/A173F72F4F502D59119DD0A5DD174D1A"
+msgid "Sniper Scope"
+msgstr "スナイパースコープ"
+
+msgctxt "/12DEC8AB4D6D4B30F74E9E9B0809B561"
+msgid "Snowfall"
+msgstr "降雪"
+
+msgctxt "/26126AF64E055870A0C057A6807ED1FE"
+msgid "Space"
+msgstr "宇宙"
+
+msgctxt "/702D16514A6DC809F59E8797D4D7A8FA"
+msgid "Spawn Dummy"
+msgstr "スポーンダミー"
+
+msgctxt "/16C3BF704313360193FF53A7D4B3BB57"
+msgid "Spawn Mode"
+msgstr "スポーンモード"
+
+msgctxt "/184D834047DC0F8AD3D7EEA50C362410"
+msgid "Spawn Vehicle"
+msgstr "スポーン車両"
+
+msgctxt "/EFD74D01485984DB56B47B94120314BC"
+msgid "Spawn Vehicle"
+msgstr "スポーン車両"
+
+msgctxt "/83B258404E1FD4903D593F9847F7A0A7"
+msgid "Spawn a new dummy in free cam"
+msgstr "フリーカメラに新しいダミーをスポーンする"
+
+msgctxt "/1DFF05824265BED21B244386A936CBD7"
+msgid "Special"
+msgstr "特殊スロット"
+
+msgctxt "/A76D0DD14A34FE968492309BEE00880E"
+msgid "Special Weapon"
+msgstr "特殊武器"
+
+msgctxt "/835F1D98435570A85718DC9BD791D5EC"
+msgid "Spectating {0}"
+msgstr "{0}を観戦中"
+
+msgctxt "/32D2D63546E1E417D34723AB08F7B414"
+msgid "Speed Axis"
+msgstr "速度軸"
+
+msgctxt "/68ABE07741A3E1B59B1A55ABE8A0089D"
+msgid "Speed Step"
+msgstr "スピードステップ"
+
+msgctxt "/93487F99441BFE72AC386E95D01B2AC1"
+msgid "Speed Step"
+msgstr "スピードステップ"
+
+msgctxt "/993825C44E43F35C51A8DB9B934D716D"
+msgid "Sprint"
+msgstr "スプリント"
+
+msgctxt "/E304EBD64002226E7D8F75BC26A8DAA0"
+msgid "Stationary"
+msgstr "固定式"
+
+msgctxt "/0ECC142848542E39F12F1FBBE295DF59"
+msgid "Steel"
+msgstr "鋼鉄"
+
+msgctxt "/85A4496A419AE32867C0BA908F58510D"
+msgid "Steering"
+msgstr "操舵"
+
+msgctxt "/BAB4F2474D39923C1217BC91E0FA53A2"
+msgid "Strobe"
+msgstr "ストロボ"
+
+msgctxt "/12CC93CC4E39AC0A8BFC8FBB9131B257"
+msgid "Sunny"
+msgstr "晴れ"
+
+msgctxt "/1E3933794A648029B8A7969E11AF4ACA"
+msgid "Sunny and snowy"
+msgstr "晴れたり雪が降ったり"
+
+msgctxt "/46C6F91B457304B1D94A10A9561B1DF8"
+msgid "Sunny and wet"
+msgstr "晴れて濡れている"
+
+msgctxt "/62B5BA9449846A5DB32871BB70F7EAD3"
+msgid "Suppressor"
+msgstr "サプレッサー"
+
+msgctxt "/E7923B2647EA91D7F720A386A78A7797"
+msgid "Switch the siren on or off"
+msgstr "サイレンをオンまたはオフに切り替えます"
+
+msgctxt "/3705A2614B369FC33016349B4E5C9153"
+msgid "Switch to the next vacant seat"
+msgstr "次の空席に切り替える"
+
+msgctxt "/C05A64FF4AABC515E92660A33874B371"
+msgid "Switch to the previous vacant seat"
+msgstr "前の空席に切り替える"
+
+msgctxt "/EDC243C14AD65C140D69BDB31A203FA9"
+msgid "Teleport Player"
+msgstr "テレポートプレイヤー"
+
+msgctxt "/8CD0F82A46A20E39156527896B947206"
+msgid "Teleport the player and their vehicle in front of the camera"
+msgstr "プレイヤーとその車両をカメラの前にテレポートします"
+
+msgctxt "/C98005A149654728FD54F8933F304746"
+msgid "Teleport to the next vehicle with a vacant seat"
+msgstr "空席のある次の車両にテレポートします"
+
+msgctxt "/0D3B083D41DAF8AAAE264C9DE3C75092"
+msgid "Teleport to the previous vehicle with a vacant seat"
+msgstr "空席のある前の車両にテレポート"
+
+msgctxt "/3A643C9342126E74CC4C4A95BF8908ED"
+msgid "Teleport youself and your vehicle to the nearest garage"
+msgstr "あなた自身とあなたの車を最寄りのガレージにテレポートします"
+
+msgctxt "/647780E14379426009A98AA64C089056"
+msgid "Tertiary"
+msgstr "三次"
+
+msgctxt "/90AC752F4A4AE0288520FBA8160E5661"
+msgid "The file has originally been created by user \"{0}\". You should ask for their permission before uploading a copy. Continue anyways?"
+msgstr "このファイルは元々ユーザー「{0}」によって作成されました。コピーをアップロードする前に、許可を求める必要があります。とにかく続けますか？"
+
+msgctxt "/CB01239C4822ACFDE013EFB1A3EA1A33"
+msgid "There are unsaved changes, do you want to save them now?"
+msgstr "未保存の変更があります。今すぐ保存しますか?"
+
+msgctxt "/338B84FC4D941F44258154A667DE024A"
+msgid "Third interaction key"
+msgstr "3 番目のインタラクション キー"
+
+msgctxt "/45087C114585DF2048F78BABD86E3775"
+msgid "Throttle"
+msgstr "スロットル"
+
+msgctxt "/C0B3CC1844D6FA02151D3991D8803B2B"
+msgid "Throw Item"
+msgstr "アイテムを投げる"
+
+msgctxt "/1B2A467448896F047626218350D56612"
+msgid "Throw your carried item"
+msgstr "持っていたアイテムを投げる"
+
+msgctxt "/7211ACC04B4B006C6EDAC58F44BE9894"
+msgid "Thrusters"
+msgstr "スラスター"
+
+msgctxt "/81E3194743C728CA3C740294C996E91A"
+msgid "Thunderstorm"
+msgstr "雷雨"
+
+msgctxt "/5925A4414D07DBD693F3D19AB45DF962"
+msgid "Tiger"
+msgstr "虎"
+
+msgctxt "/AAABFF654BDAF6992D4FD2B0A3EF1C7F"
+msgid "Toggle Mirror Mode"
+msgstr "ミラーモードの切り替え"
+
+msgctxt "/16C5BE6E4CB7B545B4EA1B8203EB0A33"
+msgid "Toggle Projectile Camera"
+msgstr "発射物カメラの切り替え"
+
+msgctxt "/FD21D9804E212518EA33AB9A15F4FF55"
+msgid "Toggle Selection"
+msgstr "選択の切り替え"
+
+msgctxt "/8DC991A44133E672654BDB95134EF9DD"
+msgid "Toggle Siren"
+msgstr "サイレンの切り替え"
+
+msgctxt "/DE7444224681A30A7EE885807DE73E9B"
+msgid "Toggle Transform Space"
+msgstr "変換スペースの切り替え"
+
+msgctxt "/7694781C4742B5A3F4F3D0AC2D3BC3CA"
+msgid "Toggle beacon lights"
+msgstr "ビーコンライトの切り替え"
+
+msgctxt "/9D6BA52A458F1E53C1C3969C67000C12"
+msgid "Toggle between world and local space"
+msgstr "ワールド空間とローカル空間を切り替えます"
+
+msgctxt "/730C751348CAE24A7BA55E8D6908D589"
+msgid "Toggle grid and connector snapping"
+msgstr "グリッドとコネクタのスナップを切り替えます"
+
+msgctxt "/67F7A68B4B6B87376C810381C3A34C70"
+msgid "Toggle lights"
+msgstr "ライトの切り替え"
+
+msgctxt "/440677704C380B54F92560AF497576B3"
+msgid "Toggle operation (or alt) mode, some vehicles use this for additional input"
+msgstr "操作 (または alt) モードを切り替えます。一部の車両は追加の入力にこれを使用します。"
+
+msgctxt "/C510F37241D61E2D56EBB880B1CD77B4"
+msgid "Toggle warning/hazard lights"
+msgstr "警告灯/ハザードランプを切り替えます"
+
+msgctxt "/04F73246417EB3E21417DF9DDA0D52C1"
+msgid "Toggle your Bobs invincibility state"
+msgstr "ボブの無敵状態を切り替える"
+
+msgctxt "/3794F3F54192512E14793D88A0607883"
+msgid "Toggle your vehicle invincibility state"
+msgstr "車両の無敵状態を切り替える"
+
+msgctxt "/D0C596B445D63EA7A24B7A85A6D3A619"
+msgid "Tools"
+msgstr "ツール"
+
+msgctxt "/4BF2D62B4F2A3572A2A6D3948FC4EBAF"
+msgid "Traction Plate"
+msgstr "チェッカープレート"
+
+msgctxt "/12464EB745E2170FF3716F99915615AC"
+msgid "Transmission Mode"
+msgstr "送信モード"
+
+msgctxt "/8F31AA5A4D0B2533EDA894A00A8833AB"
+msgid "Truck"
+msgstr "トラック"
+
+msgctxt "/5EE4025F49C05476281D6FA327319E43"
+msgid "Tungsten"
+msgstr "タングステン"
+
+msgctxt "/62EA46604DCB8BDCBA617AACAE1D582B"
+msgid "US Siren"
+msgstr "USサイレン"
+
+msgctxt "/59D0C1BD42053A67028A2AB746C2A902"
+msgid "Unbound"
+msgstr "縛りなし"
+
+msgctxt "/2A52711A4647F95405BC218917EE2D05"
+msgid "Uncategorized"
+msgstr "未分類"
+
+msgctxt "/A56595A4448108D4A92677BC6530B514"
+msgid "Undo"
+msgstr "元に戻す"
+
+msgctxt "/2B66981F4C2FACB1281D93831B82B7B3"
+msgid "Unhide All"
+msgstr "すべて再表示"
+
+msgctxt "/E1FC96164BB221AD576917B96B3FC446"
+msgid "Unsaved"
+msgstr "未保存"
+
+msgctxt "/ACCA46F74A813910B5F2269F70C6CDD8"
+msgid "Upload"
+msgstr "アップロード"
+
+msgctxt "/D86A57224B619EDCAF499BBCE936DAA2"
+msgid "Upload As"
+msgstr "名前を付けてアップロード"
+
+msgctxt "/7C096AD544EF27E44DFA4DB7FA89E483"
+msgid "Upload a new creation to the Workshop or overwrite an existing one"
+msgstr "新しい作品をワークショップにアップロードするか、既存のものを上書きします"
+
+msgctxt "/FE4139A44F100A74D8E4879DBB5A8235"
+msgid "Upload a new creation to the Workshop or update it"
+msgstr "新しい作品をワークショップにアップロードするか、更新します"
+
+msgctxt "/219A4A374A78CFF3AB81BAA9164F699C"
+msgid "Used for aircraft pitch input for example"
+msgstr "航空機のピッチ入力などに使用されます。"
+
+msgctxt "/01127E0C48967E5355D53393926454F0"
+msgid "Used for aircraft yaw input for example"
+msgstr "航空機のヨー入力などに使用されます"
+
+msgctxt "/4B78462741BF3A44012053A5B2906207"
+msgid "Used to interact with winches etc."
+msgstr "ウインチなどとのやり取りに使用します。"
+
+msgctxt "/4C1E9A98489E3FD3F71D188EC52A1066"
+msgid "User Interface"
+msgstr "ユーザーインターフェース"
+
+msgctxt "/8644856E4FDCB9BD360AEDA0F142B901"
+msgid "Vehicle"
+msgstr "車両"
+
+msgctxt "/AF25AD9C4B6FDF8B01DBB8A479517E35"
+msgid "Vehicle"
+msgstr "車両"
+
+msgctxt "/39A3D4704B0E8EC8B66993919C80475A"
+msgid "Vehicle Advanced"
+msgstr "ビークルアドバンスト"
+
+msgctxt "/57BF4285419FCE95C6439DB72EC71127"
+msgid "Vehicle Editor"
+msgstr "車両エディター"
+
+msgctxt "/86290D90480C769C0C084290B75424EE"
+msgid "Vehicle Invincible"
+msgstr "車両無敵"
+
+msgctxt "/22EC823F4C55693BB9AB758072233480"
+msgid "Version {0}"
+msgstr "バージョン {0}"
+
+msgctxt "/B2DF7EE14E5FD3046352FAB850D1CB61"
+msgid "Vertical View"
+msgstr "垂直方向のビュー"
+
+msgctxt "/30EC1D51407B54E8739FBC857D0DD526"
+msgid "View Mode"
+msgstr "ビューモード"
+
+msgctxt "/8278BA21416CACE78F6EDEBF13227F10"
+msgid "View Vehicle in Workshop"
+msgstr "ワークショップで車両を見る"
+
+msgctxt "/530DF77E41FE684A26ED06B595EFD045"
+msgid "Walk"
+msgstr "歩く"
+
+msgctxt "/63F389BB42CACE571DED71AC1B5CFB1B"
+msgid "Walk"
+msgstr "歩く"
+
+msgctxt "/FA352BF549B04E034F78AE97C03DDD48"
+msgid "When activated the camera fill follow fired projectiles"
+msgstr "アクティブ化すると、カメラは発射された発射体を追跡します"
+
+msgctxt "/F9F6A09B49E51CD7F7D72C9302D5045B"
+msgid "Windows"
+msgstr "窓"
+
+msgctxt "/C27C32124D5B68136194E7917C309AE5"
+msgid "Yaw"
+msgstr "ヨー"
+
+msgctxt "/84DD8067480D27EDDB1404B7C22636EA"
+msgid "Zombie Survival"
+msgstr "ゾンビサバイバル"
+
+msgctxt "/72E610B444A16E63534EC8B1E93A0CBD"
+msgid "Zombies"
+msgstr "ゾンビ"
+
+msgctxt "/6DD15EAF45A4D84801B2C991B2736F4F"
+msgid "Zoom Axis"
+msgstr "ズーム軸"
+
+msgctxt "/A6CBC8464BE788AA1A87C1AFF2F7F6BF"
+msgid "Zoom Step"
+msgstr "ズームステップ"
+
+msgctxt "/BD34E7F14D0A97BC26653F8766480C78"
+msgid "Zoom Step"
+msgstr "ズームステップ"
+
+msgctxt "/B5C09D62488D3D14152C888B9AAE0DA6"
+msgid "{0} Hidden"
+msgstr "{0} 非表示"
+
+msgctxt "/1355090C4EB0D7E9C0D0E38566AEBAA8"
+msgid "{0} with fluid dynamics"
+msgstr "{0} 個の空力/浮力"
+
+msgctxt "/33C73DAB42606C301A0B7997C0BE94F0"
+msgid "{0} won the match!"
+msgstr "{0} が試合に勝ちました!"
+
+msgctxt "AAMethod/FXAA"
+msgid "FXAA"
+msgstr "FXAA"
+
+msgctxt "AAMethod/None"
+msgid "Off"
+msgstr "オフ"
+
+msgctxt "AAMethod/TAA"
+msgid "TAA"
+msgstr "TAA"
+
+msgctxt "ActuatorMode/Accumulated"
+msgid "Accumulated"
+msgstr "蓄積された"
+
+msgctxt "ActuatorMode/Cycle"
+msgid "Cycle"
+msgstr "サイクル"
+
+msgctxt "ActuatorMode/PhysicsDriven"
+msgid "Physics Driven"
+msgstr "物理学駆動"
+
+msgctxt "ActuatorMode/Seeking"
+msgid "Seeking"
+msgstr "探しています"
+
+msgctxt "ActuatorMode/Spring"
+msgid "Spring"
+msgstr "春"
+
+msgctxt "ActuatorMode/Static"
+msgid "Static"
+msgstr "静的"
+
+msgctxt "AmmoType/HighExplosive"
+msgid "Explosive"
+msgstr "爆発物"
+
+msgctxt "AmmoType/TargetSeeking"
+msgid "Heat Seeking"
+msgstr "熱を求める"
+
+msgctxt "AmmoType/Incendiary"
+msgid "Incendiary"
+msgstr "焼夷性"
+
+msgctxt "AmmoType/Guided"
+msgid "Laser Guided"
+msgstr "レーザー誘導"
+
+msgctxt "AmmoType/Default"
+msgid "Standard"
+msgstr "標準"
+
+msgctxt "BrickEditor/BasicCategory"
+msgid "Basic"
+msgstr "基本"
+
+msgctxt "BrickEditor/NoSelection"
+msgid "Nothing Selected"
+msgstr "何も選択されていません"
+
+msgctxt "BrickEditor/CannotUpdateFileFromOtherAuthor"
+msgid "The item ID is associated with a different user. Use 'Upload As' and manually select the item to update on your Workshop to fix this."
+msgstr "アイテム ID は別のユーザーに関連付けられています。この問題を修正するには、「名前を付けてアップロード」を使用し、ワークショップで更新するアイテムを手動で選択します。"
+
+msgctxt "BrickEditor/CannotUploadWithModdedBricks"
+msgid "You are not allowed to upload creations with modded bricks."
+msgstr "アイテム ID は別のユーザーに関連付けられています。この問題を修正するには、「名前を付けてアップロード」を使用し、ワークショップで更新するアイテムを手動で選択します。"
+
+msgctxt "BrickEditor/ElementsInFilterFormat"
+msgid "{0} Elements"
+msgstr "{0} 要素"
+
+msgctxt "BrickProperties/bFlapAccumulateInput"
+msgid "Accumulate Angle"
+msgstr "角度の累積"
+
+msgctxt "BrickProperties/bAccumulated"
+msgid "Accumulate Input"
+msgstr "入力を蓄積する"
+
+msgctxt "BrickProperties/PowerInputChannel"
+msgid "Activation Input"
+msgstr "アクティベーション入力"
+
+msgctxt "BrickProperties/AdvancedCategory"
+msgid "Advanced"
+msgstr "高度な"
+
+msgctxt "BrickProperties/BrickMaterialDesc"
+msgid "Affects appearance and physical properties"
+msgstr "外観と物理的特性に影響を与える"
+
+msgctxt "BrickProperties/AllowDifferentMods"
+msgid "Allows different Mods"
+msgstr "さまざまな Mod を許可します"
+
+msgctxt "BrickProperties/AmmoType"
+msgid "Ammunition"
+msgstr "弾薬"
+
+msgctxt "BrickProperties/Author"
+msgid "Author"
+msgstr "著者"
+
+msgctxt "BrickProperties/AutoHoverInputChannel"
+msgid "Auto Hover"
+msgstr "オートホバー"
+
+msgctxt "BrickProperties/BrakeCategory"
+msgid "Brake"
+msgstr "ブレーキ"
+
+msgctxt "BrickProperties/BrakeInputChannel"
+msgid "Brake Input Channel"
+msgstr "ブレーキ入力チャンネル"
+
+msgctxt "BrickProperties/BrakeStrength"
+msgid "Brake Strength"
+msgstr "ブレーキの強さ"
+
+msgctxt "BrickProperties/Brightness"
+msgid "Brightness"
+msgstr "輝度"
+
+msgctxt "BrickProperties/bCanDisableSteering"
+msgid "Can Disable Steering"
+msgstr "ステアリングを無効にすることができます"
+
+msgctxt "BrickProperties/bCanInvertSteering"
+msgid "Can Invert Steering"
+msgstr "反転ステアリング可能"
+
+msgctxt "BrickProperties/BrickColor"
+msgid "Color"
+msgstr "色"
+
+msgctxt "BrickProperties/ConnectorSpacing"
+msgid "Connector Spacing"
+msgstr "コネクタの間隔"
+
+msgctxt "BrickProperties/MaxContraction"
+msgid "Contraction Limit"
+msgstr "収縮限界"
+
+msgctxt "BrickProperties/OutputChannelChildren"
+msgid "Controlled Input Channels (Read Only)"
+msgstr "制御された入力チャンネル (読み取り専用)"
+
+msgctxt "BrickProperties/CouplingMode"
+msgid "Coupling Mode"
+msgstr "カップリングモード"
+
+msgctxt "BrickProperties/CreationDate"
+msgid "Created"
+msgstr "作成されました"
+
+msgctxt "BrickProperties/SwitchName"
+msgid "Custom Name"
+msgstr "カスタム名"
+
+msgctxt "BrickProperties/IsDedicated"
+msgid "Dedicated Server"
+msgstr "専用サーバー"
+
+msgctxt "BrickProperties/Description"
+msgid "Description"
+msgstr "説明"
+
+msgctxt "BrickProperties/VotesDown"
+msgid "Dislikes"
+msgstr "嫌い"
+
+msgctxt "BrickProperties/DisplayColor"
+msgid "Display Color"
+msgstr "表示色"
+
+msgctxt "BrickProperties/DriveCategory"
+msgid "Drive"
+msgstr "ドライブ"
+
+msgctxt "BrickProperties/IsDriverSeat"
+msgid "Driver Seat"
+msgstr "運転席"
+
+msgctxt "BrickProperties/KickDuration"
+msgid "Duration"
+msgstr "間隔"
+
+msgctxt "BrickProperties/EnabledInputChannel"
+msgid "Enable Input Channel"
+msgstr "入力チャンネルを有効にする"
+
+msgctxt "BrickProperties/OwningSeat"
+msgid "Exclusive Seat"
+msgstr "専用シート"
+
+msgctxt "BrickProperties/ExitLocation"
+msgid "Exit Location"
+msgstr "出口の場所"
+
+msgctxt "BrickProperties/MaxExpansion"
+msgid "Extension Limit"
+msgstr "延長制限"
+
+msgctxt "BrickProperties/FilterCategory"
+msgid "Filter"
+msgstr "フィルター"
+
+msgctxt "BrickProperties/FlapInputScale"
+msgid "Flap Speed"
+msgstr "フラップ速度"
+
+msgctxt "BrickProperties/FlashSequence"
+msgid "Flash Pattern"
+msgstr "フラッシュパターン"
+
+msgctxt "BrickProperties/bGenerateLift"
+msgid "Fluid Dynamic Surface"
+msgstr "空力と浮力"
+
+msgctxt "BrickProperties/Font"
+msgid "Font"
+msgstr "フォント"
+
+msgctxt "BrickProperties/FontSize"
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+msgctxt "BrickProperties/NumFractionalDigits"
+msgid "Fractional Digits"
+msgstr "小数桁"
+
+msgctxt "BrickProperties/FuelType"
+msgid "Fuel"
+msgstr "燃料"
+
+msgctxt "BrickProperties/GameMode"
+msgid "Game Mode"
+msgstr "ゲームモード"
+
+msgctxt "BrickProperties/GearRatioScale"
+msgid "Gear Reduction"
+msgstr "減速機"
+
+msgctxt "BrickProperties/GenerateLiftDesc"
+msgid "Generates lift and drag if enabled, use sparingly because it affects performance"
+msgstr "有効にすると揚力と抗力が生成されます。パフォーマンスに影響するため、使用は控えめにしてください"
+
+msgctxt "BrickProperties/bHasBrake"
+msgid "Has Brake"
+msgstr "ブレーキあり"
+
+msgctxt "BrickProperties/bHasHandBrake"
+msgid "Has Hand Brake"
+msgstr "ハンドブレーキあり"
+
+msgctxt "BrickProperties/HornPitch"
+msgid "Horn Pitch"
+msgstr "ホルンのピッチ"
+
+msgctxt "BrickProperties/OwningSeatDesc"
+msgid "If set the camera can only be used from this seat"
+msgstr "設定すると、この座席からのみカメラを使用できます"
+
+msgctxt "BrickProperties/InputChannelDesc"
+msgid "If this channel is enabled, it will drive the switch value instead of interaction"
+msgstr "このチャネルが有効な場合、インタラクションの代わりにスイッチ値を駆動します。"
+
+msgctxt "BrickProperties/Image"
+msgid "Image"
+msgstr "画像"
+
+msgctxt "BrickProperties/ImageColor"
+msgid "Image Color"
+msgstr "画像の色"
+
+msgctxt "BrickProperties/InputChannelA"
+msgid "Input A"
+msgstr "入力A"
+
+msgctxt "BrickProperties/InputChannelB"
+msgid "Input B"
+msgstr "入力B"
+
+msgctxt "BrickProperties/InputChannel"
+msgid "Input Channel"
+msgstr "入力チャンネル"
+
+msgctxt "BrickProperties/InputScale"
+msgid "Input Scale"
+msgstr "入力スケール"
+
+msgctxt "BrickProperties/InputAxis"
+msgid "Input Type"
+msgstr "入力タイプ"
+
+msgctxt "BrickProperties/bInvertDrive"
+msgid "Invert Direction"
+msgstr "方向を反転"
+
+msgctxt "BrickProperties/bInvertTankSteering"
+msgid "Invert Tank Steering"
+msgstr "戦車ステアリングを反転"
+
+msgctxt "BrickProperties/bDriven"
+msgid "Is Driven"
+msgstr "駆動輪"
+
+msgctxt "BrickProperties/KickTime"
+msgid "Kicked"
+msgstr "キックされた"
+
+msgctxt "BrickProperties/Level"
+msgid "Level"
+msgstr "レベル"
+
+msgctxt "BrickProperties/LightConeAngle"
+msgid "Light Cone Angle"
+msgstr "ライトコーンアングル"
+
+msgctxt "BrickProperties/LightDirection"
+msgid "Light Direction"
+msgstr "光の方向"
+
+msgctxt "BrickProperties/VotesUp"
+msgid "Likes"
+msgstr "いいね！"
+
+msgctxt "BrickProperties/ActuatorLimitsCategory"
+msgid "Limits"
+msgstr "限界"
+
+msgctxt "BrickProperties/Location"
+msgid "Location"
+msgstr "位置"
+
+msgctxt "BrickProperties/BrickMaterial"
+msgid "Material"
+msgstr "材料"
+
+msgctxt "BrickProperties/MaxAngle"
+msgid "Max Angle"
+msgstr "最大角度"
+
+msgctxt "BrickProperties/MaxIn"
+msgid "Max In"
+msgstr "マックスイン"
+
+msgctxt "BrickProperties/MaxOut"
+msgid "Max Out"
+msgstr "マックスアウト"
+
+msgctxt "BrickProperties/MinAngle"
+msgid "Min Angle"
+msgstr "最小角度"
+
+msgctxt "BrickProperties/MinIn"
+msgid "Min In"
+msgstr "ミンイン"
+
+msgctxt "BrickProperties/MinOut"
+msgid "Min Out"
+msgstr "最小アウト"
+
+msgctxt "BrickProperties/ActuatorMode"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "BrickProperties/MathOperation"
+msgid "Operation"
+msgstr "手術"
+
+msgctxt "BrickProperties/OutlineThickness"
+msgid "Outline Thickness"
+msgstr "外形の太さ"
+
+msgctxt "BrickProperties/OutputChannel"
+msgid "Output Channel"
+msgstr "出力チャンネル"
+
+msgctxt "BrickProperties/IsPasswordProtected"
+msgid "Password Protected"
+msgstr "パスワードで保護されています"
+
+msgctxt "BrickProperties/BrickPattern"
+msgid "Pattern"
+msgstr "パターン"
+
+msgctxt "BrickProperties/Ping"
+msgid "Ping"
+msgstr "ピン"
+
+msgctxt "BrickProperties/PitchInputChannel"
+msgid "Pitch Input"
+msgstr "ピッチ入力"
+
+msgctxt "BrickProperties/PlayerId"
+msgid "Player"
+msgstr "プレーヤー"
+
+msgctxt "BrickProperties/bSearchPrivateServers"
+msgid "Private Servers"
+msgstr "プライベートサーバー"
+
+msgctxt "BrickProperties/bReturnToZero"
+msgid "Reset when Disabled"
+msgstr "無効時にリセット"
+
+msgctxt "BrickProperties/ReturnToZero"
+msgid "Return to Zero"
+msgstr "ゼロに戻る"
+
+msgctxt "BrickProperties/RollInputChannel"
+msgid "Roll Input"
+msgstr "ロール入力"
+
+msgctxt "BrickProperties/Rotation"
+msgid "Rotation"
+msgstr "回転"
+
+msgctxt "BrickProperties/SearchText"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "BrickProperties/TraceMask"
+msgid "Sensor Mask"
+msgstr "センサーマスク"
+
+msgctxt "BrickProperties/SensorType"
+msgid "Sensor Type"
+msgstr "センサーの種類"
+
+msgctxt "BrickProperties/AverageFrameRate"
+msgid "Server Tick Rate"
+msgstr "サーバーティックレート"
+
+msgctxt "BrickProperties/SearchSessionType"
+msgid "Server Type"
+msgstr "サーバーの種類"
+
+msgctxt "BrickProperties/bSearchServersWithDifferentMods"
+msgid "Servers with different Mods"
+msgstr "違うModを導入しているサーバー"
+
+msgctxt "BrickProperties/NextMatchSettings"
+msgid "Settings"
+msgstr "設定"
+
+msgctxt "BrickProperties/SirenType"
+msgid "Siren Type"
+msgstr "サイレンの種類"
+
+msgctxt "BrickProperties/BrickSize"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "BrickProperties/SmokeColor"
+msgid "Smoke Color"
+msgstr "スモークカラー"
+
+msgctxt "BrickProperties/SpawnScale"
+msgid "Smoke Density"
+msgstr "煙の密度"
+
+msgctxt "BrickProperties/SortMethod"
+msgid "Sort by"
+msgstr "並べ替え"
+
+msgctxt "BrickProperties/SourceBricks"
+msgid "Source"
+msgstr "ソース"
+
+msgctxt "BrickProperties/SpeedFactor"
+msgid "Speed"
+msgstr "スピード"
+
+msgctxt "BrickProperties/NoFlashSequence"
+msgid "Static"
+msgstr "静的"
+
+msgctxt "BrickProperties/SteeringCategory"
+msgid "Steering"
+msgstr "操舵"
+
+msgctxt "BrickProperties/SteeringAngle"
+msgid "Steering Angle"
+msgstr "ステアリング角度"
+
+msgctxt "BrickProperties/SteeringInputChannel"
+msgid "Steering Input Channel"
+msgstr "ステアリング入力チャンネル"
+
+msgctxt "BrickProperties/SteeringSpeed"
+msgid "Steering Speed"
+msgstr "ステアリング速度"
+
+msgctxt "BrickProperties/SpringStiffness"
+msgid "Stiffness"
+msgstr "剛性"
+
+msgctxt "BrickProperties/SuspensionCategory"
+msgid "Suspension"
+msgstr "サスペンション"
+
+msgctxt "BrickProperties/SuspensionDamping"
+msgid "Suspension Damping"
+msgstr "サスペンションダンピング"
+
+msgctxt "BrickProperties/SuspensionLength"
+msgid "Suspension Length"
+msgstr "サスペンションの長さ"
+
+msgctxt "BrickProperties/SuspensionStiffness"
+msgid "Suspension Stiffness"
+msgstr "サスペンションの剛性"
+
+msgctxt "BrickProperties/UGCTags"
+msgid "Tags"
+msgstr "タグ"
+
+msgctxt "BrickProperties/bTankDrive"
+msgid "Tank Steering"
+msgstr "タンクステアリング"
+
+msgctxt "BrickProperties/Text"
+msgid "Text"
+msgstr "文章"
+
+msgctxt "BrickProperties/TextColor"
+msgid "Text Color"
+msgstr "文字の色"
+
+msgctxt "BrickProperties/AutoHoverInputChannelDesc"
+msgid "The engine will try to keep the helicopter level while this channel is > 0.5"
+msgstr "このチャンネルが 0.5 以上である間、エンジンはヘリコプターを水平に保とうとします。"
+
+msgctxt "BrickProperties/EnabledInputChannelDesc"
+msgid "The sensor will update its output value while this channel is > 0.5"
+msgstr "このチャンネルが 0.5 以上である間、センサーは出力値を更新します。"
+
+msgctxt "BrickProperties/OutputChannelChildrenDesc"
+msgid "This cannot be modified! Lists other bricks which have an input channel referencing this brick"
+msgstr "これは変更できません。このブリックを参照する入力チャネルを持つ他のブリックをリストします。"
+
+msgctxt "BrickProperties/ThrottleInputChannel"
+msgid "Throttle Input"
+msgstr "スロットル入力"
+
+msgctxt "BrickProperties/MinutesPlayedWeek"
+msgid "Time played (last 7 days)"
+msgstr "プレイ時間 (過去 7 日間)"
+
+msgctxt "BrickProperties/MinutesPlayedTotal"
+msgid "Time played (total)"
+msgstr "プレイ時間（合計）"
+
+msgctxt "BrickProperties/TirePressureRatio"
+msgid "Tire Pressure"
+msgstr "タイヤ空気圧"
+
+msgctxt "BrickProperties/Title"
+msgid "Title"
+msgstr "タイトル"
+
+msgctxt "BrickProperties/EditorMoveTransformCategory"
+msgid "Transform"
+msgstr "変身"
+
+msgctxt "BrickProperties/LastUpdateDate"
+msgid "Updated"
+msgstr "更新されました"
+
+msgctxt "BrickProperties/UseExitLocation"
+msgid "Use Custom Exit Location"
+msgstr "カスタム出口位置を使用する"
+
+msgctxt "BrickProperties/Value"
+msgid "Value"
+msgstr "価値"
+
+msgctxt "BrickProperties/WorkshopVisibility"
+msgid "Visibility"
+msgstr "可視性"
+
+msgctxt "BrickProperties/WheelDiameter"
+msgid "Wheel Diameter"
+msgstr "車輪径"
+
+msgctxt "BrickProperties/WheelWidth"
+msgid "Wheel Width"
+msgstr "ホイール幅"
+
+msgctxt "BrickProperties/WinchSpeed"
+msgid "Winch Speed"
+msgstr "ウインチ速度"
+
+msgctxt "BrickProperties/YawInputChannel"
+msgid "Yaw Input"
+msgstr "ヨー入力"
+
+msgctxt "BrickProps/UGCType"
+msgid "Category"
+msgstr "カテゴリ"
+
+msgctxt "BrickProps/IdlerWheels"
+msgid "Idler Wheels"
+msgstr "アイドラーホイール"
+
+msgctxt "BrickProps/SearchText"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "BrickProps/IdlerWheelsDesc"
+msgid "Select wheels to wrap the track around in clockwise direction."
+msgstr "時計回りにトラックを巻き付けるホイールを選択します。"
+
+msgctxt "BrickProps/bShowLegacyItems"
+msgid "Show Legacy Items"
+msgstr "レガシーアイテムを表示"
+
+msgctxt "BrickProps/SortMethod"
+msgid "Sort by"
+msgstr "並べ替え"
+
+msgctxt "BrickProps/UGCTags"
+msgid "Tags"
+msgstr "タグ"
+
+msgctxt "BrickProps/TrackColor"
+msgid "Track Color"
+msgstr "トラックの色"
+
+msgctxt "BrickProps/bUpdateDescription"
+msgid "Update Description"
+msgstr "アップデートの説明"
+
+msgctxt "BrickProps/bUpdateThumbnail"
+msgid "Update Thumbnail"
+msgstr "サムネイルを更新"
+
+msgctxt "BrickProps/bUpdateTitle"
+msgid "Update Title"
+msgstr "タイトルを更新"
+
+msgctxt "Bricks/Actuator"
+msgid "Actuator"
+msgstr "アクチュエーター"
+
+msgctxt "Bricks/ReceiverDescription"
+msgid "Allows controlling parts of the vehicle that are not connected to the driver seat"
+msgstr "運転席に接続されていない車両の部分を制御できるようにします"
+
+msgctxt "Bricks/Antenna"
+msgid "Antenna"
+msgstr "アンテナ"
+
+msgctxt "Bricks/Arch"
+msgid "Arch"
+msgstr "アーチ"
+
+msgctxt "Bricks/WheelDescription"
+msgid "Attaches to axles"
+msgstr "車軸に取り付けます"
+
+msgctxt "Bricks/RotorDescription"
+msgid "Attaches to helicopter engines"
+msgstr "ヘリコプターのエンジンに取り付けます"
+
+msgctxt "Bricks/CouplingDescription"
+msgid "Attaches two parts with a loose connection"
+msgstr "2 つのパーツを接続が緩く接続している"
+
+msgctxt "Bricks/AutoFireMode"
+msgid "Automatic"
+msgstr "自動"
+
+msgctxt "Bricks/Axle"
+msgid "Axle"
+msgstr "車軸"
+
+msgctxt "Bricks/Barrel"
+msgid "Barrel"
+msgstr "バレル"
+
+msgctxt "Bricks/BarrelDescription"
+msgid "Barrels can increase the range and precision of guns"
+msgstr "バレルは銃の射程と精度を向上させることができます"
+
+msgctxt "Bricks/RotorBlade"
+msgid "Blade"
+msgstr "ブレード"
+
+msgctxt "Bricks/BladeHolder"
+msgid "Blade Holder"
+msgstr "ブレードホルダー"
+
+msgctxt "Bricks/Brick"
+msgid "Brick"
+msgstr "ブレードホルダー"
+
+msgctxt "Bricks/Bumper"
+msgid "Bumper"
+msgstr "バンパー"
+
+msgctxt "Bricks/ThrusterDescription"
+msgid "Burns fuel to generate thrust"
+msgstr "燃料を燃焼させて推力を発生させる"
+
+msgctxt "Bricks/Camera"
+msgid "Camera"
+msgstr "カメラ"
+
+msgctxt "Bricks/WheelHubDescription"
+msgid "Can be used to build custom wheels or other spinny things"
+msgstr "カスタムホイールやその他のスピニーなものを構築するために使用できます"
+
+msgctxt "Bricks/FlapDescription"
+msgid "Can be used to steer vehicles in air or water"
+msgstr "空中または水中で車両を操縦するために使用可能"
+
+msgctxt "Bricks/TurbineDescription"
+msgid "Combine this engine with a rotor and blades to build a helicopter"
+msgstr "このエンジンとローターやブレードを組み合わせてヘリコプターを組み立てます"
+
+msgctxt "Bricks/Compressor"
+msgid "Compressor"
+msgstr "コンプレッサー"
+
+msgctxt "Bricks/Cone"
+msgid "Cone"
+msgstr "円錐"
+
+msgctxt "Bricks/ActuatorDescription"
+msgid "Connects to an actuator counterpart to apply force or torque"
+msgstr "対応するアクチュエータに接続して力またはトルクを加えます"
+
+msgctxt "Bricks/Coupling"
+msgid "Coupling"
+msgstr "カップリング"
+
+msgctxt "Bricks/ScalableDescription"
+msgid "Customizable size and connector spacing"
+msgstr "カスタマイズ可能なサイズとコネクタ間隔"
+
+msgctxt "Bricks/Cylinder"
+msgid "Cylinder"
+msgstr "シリンダー"
+
+msgctxt "Bricks/Detonator"
+msgid "Detonator"
+msgstr "雷管"
+
+msgctxt "Bricks/Display"
+msgid "Display"
+msgstr "画面"
+
+msgctxt "Bricks/TextBrickDescription"
+msgid "Displays customizable text"
+msgstr "カスタマイズ可能なテキストを表示します"
+
+msgctxt "Bricks/DisplayDescription"
+msgid "Displays the value of an output channel"
+msgstr "出力チャンネルの値を表示します。"
+
+msgctxt "Bricks/MathBrickDescription"
+msgid "Does mathematical operations on one or two inputs"
+msgstr "1 つまたは 2 つの入力に対して数学的演算を実行します"
+
+msgctxt "Bricks/Door"
+msgid "Door"
+msgstr "ドア"
+
+msgctxt "Bricks/MotorDescription"
+msgid "Drives wheels, propellers and other spinny objects"
+msgstr "車輪、プロペラ、その他の回転物体を駆動します"
+
+msgctxt "Bricks/ExhaustDescription"
+msgid "Emits customizable smoke"
+msgstr "カスタマイズ可能な煙を放出します"
+
+msgctxt "Bricks/Exhaust"
+msgid "Exhaust"
+msgstr "排気"
+
+msgctxt "Bricks/DetonatorDescription"
+msgid "Explodes connected fuel tanks when activated, can also be used to detach parts"
+msgstr "作動すると接続された燃料タンクが爆発し、パーツの取り外しにも使用可能"
+
+msgctxt "Bricks/GunFireMode"
+msgid "Fire Mode"
+msgstr "ファイアモード"
+
+msgctxt "Bricks/GunDescription"
+msgid "Fires bullets"
+msgstr "弾丸を発射する"
+
+msgctxt "Bricks/LauncherDescription"
+msgid "Fires missiles"
+msgstr "ミサイルを発射する"
+
+msgctxt "Bricks/Flamethrower"
+msgid "Flamethrower"
+msgstr "火炎放射器"
+
+msgctxt "Bricks/Flap"
+msgid "Flap"
+msgstr "フラップ"
+
+msgctxt "Bricks/Flare"
+msgid "Flares"
+msgstr "フレア"
+
+msgctxt "Bricks/Float"
+msgid "Float"
+msgstr "フロート"
+
+msgctxt "Bricks/FloatDescription"
+msgid "Floats on water"
+msgstr "水に浮かびます"
+
+msgctxt "Bricks/FuelTank"
+msgid "Fuel Tank"
+msgstr "燃料タンク"
+
+msgctxt "Bricks/RotorBladeDescription"
+msgid "Generates lift in combination with a helicopter engine and rotor"
+msgstr "ヘリコプターのエンジンとローターと組み合わせて揚力を発生"
+
+msgctxt "Bricks/PropellerDescription"
+msgid "Generates thrust when spinning quickly, attaches to an axle and requires a motor"
+msgstr "高速回転時に推力を発生し、車軸に取り付けられ、モーターが必要です"
+
+msgctxt "Bricks/TargetMarkerDescription"
+msgid "Gives a 360� field of vision and shows the predicted impact points of guns"
+msgstr "360 度の視野を提供し、銃の予測着弾点を表示します。"
+
+msgctxt "Bricks/LightDescription"
+msgid "Glows and emits light"
+msgstr "光って発光する"
+
+msgctxt "Bricks/Grille"
+msgid "Grille"
+msgstr "グリル"
+
+msgctxt "Bricks/Gun"
+msgid "Gun"
+msgstr "銃"
+
+msgctxt "Bricks/Handle"
+msgid "Handle"
+msgstr "ハンドル"
+
+msgctxt "Bricks/Turbine"
+msgid "Helicopter Engine"
+msgstr "ヘリコプターのエンジン"
+
+msgctxt "Bricks/Hemisphere"
+msgid "Hemisphere"
+msgstr "半球"
+
+msgctxt "Bricks/IdlerWheel"
+msgid "Idler Wheel"
+msgstr "アイドラーホイール"
+
+msgctxt "Bricks/ImageBrick"
+msgid "Image Brick"
+msgstr "イメージブリック"
+
+msgctxt "Bricks/CompressorDescription"
+msgid "Increases the power of engines"
+msgstr "エンジンの出力を向上させます"
+
+msgctxt "Bricks/BladeHolderDescription"
+msgid "Interface between blades and the large rotor"
+msgstr "ブレードと大型ローター間のインターフェース"
+
+msgctxt "Bricks/Launcher"
+msgid "Launcher"
+msgstr "ランチャー"
+
+msgctxt "Bricks/Ledge"
+msgid "Ledge"
+msgstr "レッジ"
+
+msgctxt "Bricks/Light"
+msgid "Light Brick"
+msgstr "ライトブリック"
+
+msgctxt "Bricks/MathBrick"
+msgid "Math Brick"
+msgstr "数学ブロック"
+
+msgctxt "Bricks/SensorDescription"
+msgid "Measures various metrics and outputs them to custom input channels"
+msgstr "さまざまなメトリクスを測定し、カスタム入力チャンネルに出力します。"
+
+msgctxt "Bricks/Motor"
+msgid "Motor"
+msgstr "モーター"
+
+msgctxt "Bricks/Mudguard"
+msgid "Mudguard"
+msgstr "マッドガード"
+
+msgctxt "Bricks/BrickDescription"
+msgid "No special behavior"
+msgstr "特別な動作はありません"
+
+msgctxt "Bricks/TrackWheelDescription"
+msgid "Place multiple idler wheels and a single sprocket wheel. Then select the idler wheels on the sprocket to wrap a track around them"
+msgstr "複数のアイドラー ホイールと 1 つのスプロケット ホイールを配置します。次に、スプ​​ロケット上のアイドラー ホイールを選択して、その周りにトラックを巻き付けます。"
+
+msgctxt "Bricks/SwitchDescription"
+msgid "Players can walk up to switches to press them"
+msgstr "プレイヤーはスイッチに近づいて押すことができます"
+
+msgctxt "Bricks/SirenDescription"
+msgid "Plays different horn and siren sounds, what a pesky bee"
+msgstr "さまざまなクラクションとサイレンの音を鳴らします。なんて厄介なミツバチでしょう"
+
+msgctxt "Bricks/Propeller"
+msgid "Propeller"
+msgstr "プロペラ"
+
+msgctxt "Bricks/Pump"
+msgid "Pump"
+msgstr "ポンプ"
+
+msgctxt "Bricks/PumpDescription"
+msgid "Puts out fires in close proximity when activated"
+msgstr "作動すると近くの火災を消し止めます"
+
+msgctxt "Bricks/Receiver"
+msgid "RC Receiver"
+msgstr "RC受信機"
+
+msgctxt "Bricks/Ramp"
+msgid "Ramp"
+msgstr "ランプ"
+
+msgctxt "Bricks/Redirector"
+msgid "Redirector"
+msgstr "リダイレクタ"
+
+msgctxt "Bricks/SeatDescription"
+msgid "Required for players to sit in"
+msgstr "プレイヤーが座るには必須"
+
+msgctxt "Bricks/Rod"
+msgid "Rod"
+msgstr "ロッド"
+
+msgctxt "Bricks/Rotor"
+msgid "Rotor"
+msgstr "ローター"
+
+msgctxt "Bricks/Scalable"
+msgid "Scalable Brick"
+msgstr "サイズ調整可能なブリック"
+
+msgctxt "Bricks/Seat"
+msgid "Seat"
+msgstr "シート"
+
+msgctxt "Bricks/SemiAutoFireMode"
+msgid "Semi Automatic"
+msgstr "半自動"
+
+msgctxt "Bricks/Sensor"
+msgid "Sensor"
+msgstr "センサー"
+
+msgctxt "Bricks/FlamethrowerDescription"
+msgid "Shoots a large flame"
+msgstr "大きな炎を放つ"
+
+msgctxt "Bricks/ImageBrickDescription"
+msgid "Shows a selectable image"
+msgstr "選択可能な画像を表示します"
+
+msgctxt "Bricks/Siren"
+msgid "Siren"
+msgstr "サイレン"
+
+msgctxt "Bricks/SprocketWheel"
+msgid "Sprocket Wheel"
+msgstr "スプロケットホイール"
+
+msgctxt "Bricks/SteeringWheel"
+msgid "Steering Wheel"
+msgstr "ハンドル"
+
+msgctxt "Bricks/FuelTankDescription"
+msgid "Stores fuel or other explosive materials"
+msgstr "燃料またはその他の爆発性物質を保管する"
+
+msgctxt "Bricks/Switch"
+msgid "Switch"
+msgstr "スイッチ"
+
+msgctxt "Bricks/Tail"
+msgid "Tail"
+msgstr "しっぽ"
+
+msgctxt "Bricks/TargetMarker"
+msgid "Target Marker"
+msgstr "ターゲットマーカー"
+
+msgctxt "Bricks/TextBrick"
+msgid "Text Brick"
+msgstr "テキストブリック"
+
+msgctxt "Bricks/Thruster"
+msgid "Thruster"
+msgstr "スラスター"
+
+msgctxt "Bricks/TrainWheel"
+msgid "Train Wheel"
+msgstr "電車の車輪"
+
+msgctxt "Bricks/Truss"
+msgid "Truss"
+msgstr "トラス"
+
+msgctxt "Bricks/AxleDescription"
+msgid "Use axles to attach wheels"
+msgstr "車軸を使用して車輪を取り付ける"
+
+msgctxt "Bricks/Wheel"
+msgid "Wheel"
+msgstr "車輪"
+
+msgctxt "Bricks/WheelHub"
+msgid "Wheel Hub"
+msgstr "ホイールハブ"
+
+msgctxt "Bricks/Winch"
+msgid "Winch"
+msgstr "ウインチ"
+
+msgctxt "Bricks/Window"
+msgid "Window"
+msgstr "ウィンドウ"
+
+msgctxt "Bricks/Wing"
+msgid "Wing"
+msgstr "翼"
+
+msgctxt "Bricks/CameraDescription"
+msgid "You can look through cameras while in a vehicle"
+msgstr "車に乗っている間もカメラを通して見ることができます"
+
+msgctxt "Bricks/WinchDescription"
+msgid "You can pick up and attach the hook to pull something"
+msgstr "フックを持ち上げて取り付けて何かを引っ張ることができます"
+
+msgctxt "CameraMode/Velocity"
+msgid "Default"
+msgstr "デフォルト"
+
+msgctxt "CameraMode/Global"
+msgid "Global"
+msgstr "グローバル"
+
+msgctxt "CameraMode/Local"
+msgid "Local"
+msgstr "ローカル"
+
+msgctxt "CameraMode/Orbital"
+msgid "Orbital"
+msgstr "オービタル"
+
+msgctxt "Chat/PlayerUnbannedFormat"
+msgid "Player {0} has been unbanned from the server."
+msgstr "プレイヤー {0} はサーバーからBANを解除されました"
+
+msgctxt "Chat/PlayerJoinedFormat"
+msgid "Player {0} joined the server."
+msgstr "プレーヤー {0} がサーバーに参加しました。"
+
+msgctxt "Chat/PlayerLeftFormat"
+msgid "Player {0} left the server."
+msgstr "プレーヤー {0} がサーバーから離れました。"
+
+msgctxt "Chat/PlayerJoinBannedFormat"
+msgid "Player {0} tried to join but has an active ban."
+msgstr "プレーヤー {0} は参加しようとしましたが、このサーバーからBANされています。"
+
+msgctxt "Chat/PlayerKickedFormat"
+msgid "Player {0} was banned from the server."
+msgstr "プレーヤー {0} はサーバーからBANされました。"
+
+msgctxt "Chat/MatchSettingsChangedFormat"
+msgid "{0} changed the match settings."
+msgstr "{0} が試合設定を変更しました。"
+
+msgctxt "Chat/PlayerDiedFormat"
+msgid "{0} has died."
+msgstr "{0}が亡くなりました。"
+
+msgctxt "Chat/VehicleSpawnFailureFormat"
+msgid "{Player} failed to spawn vehicle \"{Vehicle}\"."
+msgstr "{Player} は車両「{Vehicle}」を生成できませんでした。"
+
+msgctxt "Chat/VehicleSpawnStartFormat"
+msgid "{Player} is trying to spawn \"{Vehicle}\"."
+msgstr "{Player} は「{Vehicle}」をスポーンしようとしています。"
+
+msgctxt "Chat/VehicleSpawnSuccessFormat"
+msgid "{Player} spawned vehicle \"{Vehicle}\" with {BrickCount} bricks."
+msgstr "{Player} は「{Vehicle}」をスポーンしようとしています。"
+
+msgctxt "Chat/PlayerKilledByFormat"
+msgid "{Victim} was eliminated by {Killer}."
+msgstr "{Victim} は {Killer} によって排除されました。"
+
+msgctxt "ChatContext/Admin"
+msgid "Admin"
+msgstr "管理者"
+
+msgctxt "ChatContext/Global"
+msgid "Global"
+msgstr "グローバル"
+
+msgctxt "ChatContext/Team"
+msgid "Team"
+msgstr "チーム"
+
+msgctxt "ColorStringTable/Azure"
+msgid "Azure"
+msgstr "アズール"
+
+msgctxt "ColorStringTable/Black"
+msgid "Black"
+msgstr "黒"
+
+msgctxt "ColorStringTable/Blue"
+msgid "Blue"
+msgstr "青"
+
+msgctxt "ColorStringTable/Bronze"
+msgid "Bronze"
+msgstr "ブロンズ"
+
+msgctxt "ColorStringTable/Chartreuse"
+msgid "Chartreuse"
+msgstr "シャルトルーズ"
+
+msgctxt "ColorStringTable/Cyan"
+msgid "Cyan"
+msgstr "シアン"
+
+msgctxt "ColorStringTable/DesertCamo"
+msgid "Desert"
+msgstr "砂漠"
+
+msgctxt "ColorStringTable/FireCamo"
+msgid "Fire"
+msgstr "火"
+
+msgctxt "ColorStringTable/ForestCamo"
+msgid "Forest"
+msgstr "森"
+
+msgctxt "ColorStringTable/Gold"
+msgid "Gold"
+msgstr "金"
+
+msgctxt "ColorStringTable/Gray"
+msgid "Gray"
+msgstr "グレー"
+
+msgctxt "ColorStringTable/Green"
+msgid "Green"
+msgstr "緑"
+
+msgctxt "ColorStringTable/Magenta"
+msgid "Magenta"
+msgstr "マゼンタ"
+
+msgctxt "ColorStringTable/CamoNavy"
+msgid "Navy"
+msgstr "海軍"
+
+msgctxt "ColorStringTable/Olive"
+msgid "Olive"
+msgstr "オリーブ"
+
+msgctxt "ColorStringTable/Orange"
+msgid "Orange"
+msgstr "オレンジ"
+
+msgctxt "ColorStringTable/Pink"
+msgid "Pink"
+msgstr "ピンク"
+
+msgctxt "ColorStringTable/Red"
+msgid "Red"
+msgstr "赤"
+
+msgctxt "ColorStringTable/Silver"
+msgid "Silver"
+msgstr "銀"
+
+msgctxt "ColorStringTable/SnowCamo"
+msgid "Snow"
+msgstr "雪"
+
+msgctxt "ColorStringTable/SpringGreen"
+msgid "Spring"
+msgstr "春"
+
+msgctxt "ColorStringTable/Tan"
+msgid "Tan"
+msgstr "タン"
+
+msgctxt "ColorStringTable/Violet"
+msgid "Violet"
+msgstr "バイオレット"
+
+msgctxt "ColorStringTable/White"
+msgid "White"
+msgstr "白"
+
+msgctxt "ColorStringTable/Yellow"
+msgid "Yellow"
+msgstr "黄色"
+
+msgctxt "Contexts/SimpleUGCEditor"
+msgid "SimpleUGCEditor Plugin"
+msgstr "SimpleUGCEditor プラグイン"
+
+msgctxt "CouplingMode/Default"
+msgid "Default"
+msgstr "デフォルト"
+
+msgctxt "CouplingMode/Static"
+msgid "Static"
+msgstr "静的"
+
+msgctxt "DLSSMode/Auto"
+msgid "Auto"
+msgstr "自動"
+
+msgctxt "DLSSMode/Balanced"
+msgid "Balanced"
+msgstr "バランスの取れた"
+
+msgctxt "DLSSMode/DLAA"
+msgid "DLAA"
+msgstr "DLAA"
+
+msgctxt "DLSSMode/Off"
+msgid "Off"
+msgstr "オフ"
+
+msgctxt "DLSSMode/Performance"
+msgid "Performance"
+msgstr "パフォーマンス"
+
+msgctxt "DLSSMode/Quality"
+msgid "Quality"
+msgstr "品質"
+
+msgctxt "DLSSMode/UltraPerformance"
+msgid "Ultra Performance"
+msgstr "ウルトラパフォーマンス"
+
+msgctxt "DLSSMode/UltraQuality"
+msgid "Ultra Quality"
+msgstr "超高品質"
+
+msgctxt "DriverSeatProperty/OtherSeat"
+msgid "Other"
+msgstr "他の"
+
+msgctxt "DriverSeatProperty/RandomSeat"
+msgid "Random"
+msgstr "ランダム"
+
+msgctxt "DriverSeatProperty/SelectedSeat"
+msgid "Selected"
+msgstr "選択済み"
+
+msgctxt "Editor/ToggleMoveMode"
+msgid "Toggle Move Mode"
+msgstr "移動モードの切り替え"
+
+msgctxt "Editor/Format_SaveOverwriteWarning"
+msgid "You are about to overwrite \"{0}\", continue?"
+msgstr "「{0}」を上書きしようとしています、続けますか?"
+
+msgctxt "Editor/Format_UploadOverwriteWarning"
+msgid "You are about to update \"{0}\", continue?"
+msgstr "「{0}」を更新しようとしています、続行しますか?"
+
+msgctxt "EditorMirrorMode/None"
+msgid "None"
+msgstr "なし"
+
+msgctxt "EditorViewMode/Default"
+msgid "Default"
+msgstr "デフォルト"
+
+msgctxt "EditorViewMode/InputChannels"
+msgid "Input Channels"
+msgstr "入力チャンネル"
+
+msgctxt "EditorViewMode/Physics"
+msgid "Physics"
+msgstr "物理"
+
+msgctxt "EditorViewMode/Wireframe"
+msgid "Wireframe"
+msgstr "ワイヤーフレーム"
+
+msgctxt "EngineMessage/ChangedNameFormat"
+msgid "Player \"{0}\" changed name to \"{1}\"."
+msgstr "プレーヤー「{0}」は名前を「{1}」に変更しました。"
+
+msgctxt "EngineMessage/SpecEnteredFormat"
+msgid "Player \"{0}\" is now spectating,"
+msgstr "プレーヤー「{0}」は現在観戦中です。"
+
+msgctxt "EngineMessage/EnteredFormat"
+msgid "Player \"{0}\" joined the server!"
+msgstr "プレーヤー「{0}」がサーバーに参加しました!"
+
+msgctxt "EngineMessage/LeftFormat"
+msgid "Player \"{0}\" left the server!"
+msgstr "プレーヤー「{0}」がサーバーから離脱しました。"
+
+msgctxt "FireModes/Auto"
+msgid "Auto"
+msgstr "自動"
+
+msgctxt "FireModes/Burst"
+msgid "Burst"
+msgstr "バースト"
+
+msgctxt "FireModes/Semi"
+msgid "Semi"
+msgstr "セミ"
+
+msgctxt "FireModes/Single"
+msgid "Single"
+msgstr "シングル"
+
+msgctxt "FlashSequence/Inverted"
+msgid "Inverted"
+msgstr "反転"
+
+msgctxt "FlashSequences/DoubleFlash"
+msgid "Double Flash"
+msgstr "ダブルフラッシュ"
+
+msgctxt "FlashSequences/RunningLight"
+msgid "Running Light"
+msgstr "ランニングライト"
+
+msgctxt "FlashSequences/437D50C04271681CA4E4C0A83FFE0A8E"
+msgid "Running Light Inverted"
+msgstr "ランニングライト反転"
+
+msgctxt "FlashSequences/78AF78F543382B26F51CFF87048838F0"
+msgid "Running Light Inverted"
+msgstr "ランニングライト反転"
+
+msgctxt "FSimpleUGCCreator/NewUGCTabHeader"
+msgid "Create New UGC Package"
+msgstr "新しいUGCパッケージを作成する"
+
+msgctxt "FSimpleUGCCreator/PluginBrowserDisabled"
+msgid "Creating a game mod requires the use of the Plugin Browser, but it is currently disabled."
+msgstr "ゲーム MOD を作成するにはプラグイン ブラウザを使用する必要がありますが、現在は無効になっています。"
+
+msgctxt "FSimpleUGCEditorModule/PackageUGCMenu_Label"
+msgid "Package UGC"
+msgstr "パッケージUGC"
+
+msgctxt "FSimpleUGCEditorModule/PackageUGC_Label"
+msgid "Package UGC"
+msgstr "パッケージUGC"
+
+msgctxt "FSimpleUGCEditorModule/PackageUGCMenu_Tooltip"
+msgid "Share and distribute UGC"
+msgstr "UGC の共有と配布"
+
+msgctxt "FSimpleUGCEditorModule/PackageUGC_Tooltip"
+msgid "Share and distribute UGC"
+msgstr "UGC の共有と配布"
+
+msgctxt "GameMode/Multiplayer"
+msgid "Multiplayer"
+msgstr "マルチプレイヤー"
+
+msgctxt "GameMode/RoundBased"
+msgid "Round Based"
+msgstr "ラウンドベース"
+
+msgctxt "GameMode/Singleplayer"
+msgid "Singleplayer"
+msgstr "シングルプレイヤー"
+
+msgctxt "HostServerType/Private"
+msgid "Friends Only"
+msgstr "友達のみ"
+
+msgctxt "HostServerType/None"
+msgid "No"
+msgstr "いいえ"
+
+msgctxt "HostServerType/Public"
+msgid "Public"
+msgstr "公共"
+
+msgctxt "HUDVisibility/Full"
+msgid "Full"
+msgstr "最大"
+
+msgctxt "HUDVisibility/Minimal"
+msgid "Minimal"
+msgstr "最小限"
+
+msgctxt "HUDVisibility/Off"
+msgid "Off"
+msgstr "オフ"
+
+msgctxt "InputAxis/BrakeLight"
+msgid "Brake Light"
+msgstr "ブレーキライト"
+
+msgctxt "InputAxis/AlwaysOn"
+msgid "Constant Value"
+msgstr "定数値"
+
+msgctxt "InputAxis/None"
+msgid "None"
+msgstr "なし"
+
+msgctxt "InputAxis/Custom"
+msgid "Output Channel"
+msgstr "出力チャンネル"
+
+msgctxt "InputAxis/ReversingLight"
+msgid "Reversing Light"
+msgstr "リバースライト"
+
+msgctxt "InputAxis/Taillight"
+msgid "Taillight"
+msgstr "テールライト"
+
+msgctxt "InputAxis/AltAxisFormat"
+msgid "{0} (Alt)"
+msgstr "{0} (Alt)"
+
+msgctxt "Interaction/Actuate"
+msgid "Actuate"
+msgstr "作動する"
+
+msgctxt "Interaction/AttachWinch"
+msgid "Attach Winch"
+msgstr "ウインチを取り付ける"
+
+msgctxt "Interaction/CloseSilo"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "Interaction/DetachWinch"
+msgid "Detach Winch"
+msgstr "ウィンチを外す"
+
+msgctxt "Interaction/TriggerDetonator"
+msgid "Detonate"
+msgstr "爆破する"
+
+msgctxt "Interaction/DisengageCoupling"
+msgid "Disengage"
+msgstr "外す"
+
+msgctxt "Interaction/ElevatorDown"
+msgid "Down"
+msgstr "下"
+
+msgctxt "Interaction/SwitchDown"
+msgid "Down"
+msgstr "下"
+
+msgctxt "Interaction/EngageCoupling"
+msgid "Engage"
+msgstr "付ける"
+
+msgctxt "Interaction/Enter"
+msgid "Enter"
+msgstr "入る"
+
+msgctxt "Interaction/EnterDriverSeat"
+msgid "Enter As Driver"
+msgstr "運転手として入る"
+
+msgctxt "Interaction/EnterPassengerSeat"
+msgid "Enter As Passenger"
+msgstr "乗客として入る"
+
+msgctxt "Interaction/EnterEditor"
+msgid "Enter Editor"
+msgstr "エディターに入る"
+
+msgctxt "Interaction/SwitchOff"
+msgid "Off"
+msgstr "オフ"
+
+msgctxt "Interaction/OpenOption"
+msgid "Open"
+msgstr "開く"
+
+msgctxt "Interaction/PickUpFormat"
+msgid "Pick Up {0}"
+msgstr "{0}を取る"
+
+msgctxt "Interaction/PickUpBrickFormat"
+msgid "Pick up {0}"
+msgstr "{0}を持つ"
+
+msgctxt "Interaction/PossessCharacter"
+msgid "Possess"
+msgstr "操作する"
+
+msgctxt "Interaction/ScrapVehicle"
+msgid "Remove Vehicle"
+msgstr "車両の削除"
+
+msgctxt "Interaction/AccessInventoryFormat"
+msgid "Search {0}"
+msgstr "{0}を検索"
+
+msgctxt "Interaction/Spawn"
+msgid "Spawn"
+msgstr "スポーン"
+
+msgctxt "Interaction/SpawnVehicle"
+msgid "Spawn Vehicle"
+msgstr "スポーン車両"
+
+msgctxt "Interaction/SpawnTimerFormat"
+msgid "Spawn in {0}"
+msgstr "{0}でスポーン"
+
+msgctxt "Interaction/StartRace"
+msgid "Start Race"
+msgstr "レースを開始する"
+
+msgctxt "Interaction/StopElevator"
+msgid "Stop"
+msgstr "停止"
+
+msgctxt "Interaction/Switch"
+msgid "Switch"
+msgstr "スイッチ"
+
+msgctxt "Interaction/Teleport"
+msgid "Teleport"
+msgstr "テレポート"
+
+msgctxt "Interaction/ElevatorUp"
+msgid "Up"
+msgstr "上"
+
+msgctxt "Interaction/SwitchUp"
+msgid "Up"
+msgstr "上"
+
+msgctxt "Inventory/Name_Inventory"
+msgid "Inventory"
+msgstr "インベントリ"
+
+msgctxt "Inventory/LoadoutContainer"
+msgid "Loadout"
+msgstr "装備品"
+
+msgctxt "Inventory/InventoryQuantityFormat"
+msgid "Qty: {0}"
+msgstr "数量: {0}"
+
+msgctxt "Inventory/Format_Slot"
+msgid "Slot {0}"
+msgstr "スロット {0}"
+
+msgctxt "Inventory/VehicleInventory"
+msgid "Vehicle"
+msgstr "車両"
+
+msgctxt "ItemNames/Name_AmmoBox"
+msgid "Ammo Box"
+msgstr "弾薬箱"
+
+msgctxt "ItemNames/Name_FireExtinguisher"
+msgid "Fire Extinguisher"
+msgstr "消火器"
+
+msgctxt "ItemNames/Name_FirstAidKit"
+msgid "First Aid Kit"
+msgstr "応急処置キット"
+
+msgctxt "ItemNames/Name_Grenade"
+msgid "Grenade"
+msgstr "手榴弾"
+
+msgctxt "JoinSessionErrors/FailedToJoinSession"
+msgid "Failed to join session"
+msgstr "セッションに参加できませんでした"
+
+msgctxt "JoinSessionErrors/FailedToResolveConnectString"
+msgid "Failed to resolve session connection info"
+msgstr "セッション接続情報を解決できませんでした"
+
+msgctxt "KickedError/KickReason"
+msgid "Reason"
+msgstr "理由"
+
+msgctxt "KickedError/KickTimeRemaining"
+msgid "Time Remaining"
+msgstr "残り時間"
+
+msgctxt "KickedError/YouHaveBeenKicked"
+msgid "You have been kicked from the server"
+msgstr "サーバーからキックされました"
+
+msgctxt "KickPopup/KickDuration"
+msgid "Duration"
+msgstr "間隔"
+
+msgctxt "KickPopup/PlayerName"
+msgid "Nickname"
+msgstr "ニックネーム"
+
+msgctxt "KickPopup/PlayerId"
+msgid "Player"
+msgstr "プレーヤー"
+
+msgctxt "KickPopup/KickReason"
+msgid "Reason"
+msgstr "理由"
+
+msgctxt "KickReason/TooManyFailedAdminLogins"
+msgid "Too many failed admin login attempts"
+msgstr "管理者ログイン試行の失敗回数が多すぎます"
+
+msgctxt "LightDirection/NoneHint"
+msgid "Best for performance!"
+msgstr "パフォーマンスに最適！"
+
+msgctxt "LightDirection/None"
+msgid "Off"
+msgstr "オフ"
+
+msgctxt "LightDirection/Omnidirectional"
+msgid "Omnidirectional"
+msgstr "全方向性"
+
+msgctxt "Loading/LoadingLevel"
+msgid "Loading level"
+msgstr "レベルを読み込み中"
+
+msgctxt "Loading/StreamingLevels"
+msgid "Streaming levels"
+msgstr "レベルをストリーミング"
+
+msgctxt "Loading/WaitingForServer"
+msgid "Waiting for game info"
+msgstr "ゲーム情報を待ってます"
+
+msgctxt "Loading/WaitingForPlayerController"
+msgid "Waiting for player info"
+msgstr "プレイヤー情報を待ってます"
+
+msgctxt "MatchSettings/bAllowBuildingDamage"
+msgid "Allow Building Damage"
+msgstr "建物の損傷を許可する"
+
+msgctxt "MatchSettings/bAllowEnterVehicleWithoutSeat"
+msgid "Allow Entering Vehicles without Seats"
+msgstr "座席のない車両の入場を許可する"
+
+msgctxt "MatchSettings/bAllowExplosions"
+msgid "Allow Explosions"
+msgstr "爆発を許可する"
+
+msgctxt "MatchSettings/bAllowFreeCam"
+msgid "Allow Free Camera"
+msgstr "フリーカメラを許可する"
+
+msgctxt "MatchSettings/bAllowInvincibility"
+msgid "Allow Invincibility"
+msgstr "無敵を許可する"
+
+msgctxt "MatchSettings/bAllowRemoveVehicleFromOtherPlayer"
+msgid "Allow Removing Vehicles from other Players"
+msgstr "他のプレイヤーからの車両の撤去を許可する"
+
+msgctxt "MatchSettings/bAllowSpawnAnywhere"
+msgid "Allow Respawn Anywhere"
+msgstr "どこでもリスポーンを許可する"
+
+msgctxt "MatchSettings/bAllowWeapons"
+msgid "Allow Weapons"
+msgstr "武器を許可する"
+
+msgctxt "MatchSettings/SunAngleDesc"
+msgid "Angle of the sun orbit to the vertical axis, at 0 degrees the sun will pass through the zenith"
+msgstr "垂直軸に対する太陽の軌道の角度。0 度で太陽は天頂を通過します。"
+
+msgctxt "MatchSettings/AtmosphereDensity"
+msgid "Atmosphere"
+msgstr "大気"
+
+msgctxt "MatchSettings/bAutoBalanceTeams"
+msgid "Auto Balance Teams"
+msgstr "チームのバランスを自動調整"
+
+msgctxt "MatchSettings/RestartDelayDesc"
+msgid "Blocks players from respawning/teleporting for a set delay"
+msgstr "一定の遅延時間の間、プレイヤーのリスポーン/テレポートをブロックします"
+
+msgctxt "MatchSettings/DayLength"
+msgid "Day Length"
+msgstr "日の長さ"
+
+msgctxt "MatchSettings/VehicleFilterDesc"
+msgid "Determines what type of vehicles are allowed to be spawned. Avoid disabling this as it might allow other players to spawn overpowered or exploitative creations"
+msgstr "どのタイプの車両を生成できるかを決定します。他のプレイヤーが強力な作品や搾取的な作品を生み出す可能性があるため、これを無効にしないでください。"
+
+msgctxt "MatchSettings/VehicleRemovalDelayDesc"
+msgid "Empty vehicles are despawned automatically after this amount of time. Try to keep this below {0}"
+msgstr "この時間が経過すると、空の車両は自動的にデスポーンされます。これを {0} 未満に保つようにしてください"
+
+msgctxt "MatchSettings/VehicleWhitelistDesc"
+msgid "Exclusive list of vehicles, which are allowed to be spawned"
+msgstr "スポーンが許可されている車両のリスト"
+
+msgctxt "MatchSettings/bExemptAdminsFromRestrictions"
+msgid "Exempt Admins from Restrictions"
+msgstr "管理者を制限から除外する"
+
+msgctxt "MatchSettings/GameMode"
+msgid "Game Mode"
+msgstr "ゲームモード"
+
+msgctxt "MatchSettings/DayLengthDesc"
+msgid "How long a day lasts in game"
+msgstr "ゲーム内の 1 日の長さはどれくらいですか"
+
+msgctxt "MatchSettings/bAllowBuildingDamageDesc"
+msgid "If disabled buildings will not take visual damage or collapse"
+msgstr "障害のある建物が視覚的なダメージを受けたり倒壊したりしない場合"
+
+msgctxt "MatchSettings/bAllowExplosionsDesc"
+msgid "If disabled explosions will not occur"
+msgstr "無効にすると爆発は発生しません"
+
+msgctxt "MatchSettings/bAllowWeaponsDesc"
+msgid "If disabled players won't be able to fire weapons"
+msgstr "無効化された場合、プレイヤーは武器を発砲できなくなります"
+
+msgctxt "MatchSettings/bAllowInfiniteAmmo"
+msgid "Infinite Ammo"
+msgstr "無限の弾薬"
+
+msgctxt "MatchSettings/bAllowInfiniteFuel"
+msgid "Infinite Fuel"
+msgstr "無限の燃料"
+
+msgctxt "MatchSettings/Level"
+msgid "Level"
+msgstr "レベル"
+
+msgctxt "MatchSettings/MatchSettings"
+msgid "Match"
+msgstr "マッチ"
+
+msgctxt "MatchSettings/MaxBricksPerVehicle"
+msgid "Maximum Bricks per Vehicle"
+msgstr "車両あたりの最大Brick数"
+
+msgctxt "MatchSettings/MaxDummies"
+msgid "Maximum Dummies"
+msgstr "ダミーの最大数"
+
+msgctxt "MatchSettings/MaxVehicleMass"
+msgid "Maximum Vehicle Mass"
+msgstr "最大車両重量"
+
+msgctxt "MatchSettings/MaxVehicleSize"
+msgid "Maximum Vehicle Size"
+msgstr "車両の最大サイズ"
+
+msgctxt "MatchSettings/MaxVehiclesPerPlayer"
+msgid "Maximum Vehicles per Player"
+msgstr "プレイヤーあたりの最大車両数"
+
+msgctxt "MatchSettings/MaxVehicleMassDesc"
+msgid "Maximum mass of a vehicle. Try to keep this below {0}"
+msgstr "車両の最大質量。これを {0} 未満に保つようにしてください"
+
+msgctxt "MatchSettings/MaxBricksPerVehicleDesc"
+msgid "Maximum number of bricks a vehicle may be spawned with. Try to keep this below {0}"
+msgstr "車両が生成できるBrickの最大数。これを {0} 未満に保つようにしてください"
+
+msgctxt "MatchSettings/MaxDummiesDesc"
+msgid "Maximum number of dummies allowed to be spawned at once"
+msgstr "一度にスポーンできるダミーの最大数"
+
+msgctxt "MatchSettings/MaxVehiclesPerPlayerDesc"
+msgid "Maximum number of vehicles a player is allowed to have spawned at once. Try to keep this below {0}"
+msgstr "プレイヤーが一度にスポーンできる車両の最大数。これを {0} 未満に保つようにしてください"
+
+msgctxt "MatchSettings/MaxVehicleSizeDesc"
+msgid "Maximum size of a vehicle in any direction. Try to keep this below {0}"
+msgstr "車両のあらゆる方向の最大サイズ。これを {0} 未満に保つようにしてください"
+
+msgctxt "MatchSettings/VehiclePriceFactorDesc"
+msgid "Multiplies vehicle prices to make them more affordable or expensive"
+msgstr "車両価格を掛け算して、より手頃な価格または高価な価格にする"
+
+msgctxt "MatchSettings/NumPlayerSlotsDesc"
+msgid "Number of players allowed to join the server. Too many players can cause high latency and low frame rates"
+msgstr "サーバーへの参加を許可されるプレイヤーの数。プレーヤーが多すぎると、遅延が長くなり、フレーム レートが低下する可能性があります"
+
+msgctxt "MatchSettings/NumPlayerSlots"
+msgid "Player Slots"
+msgstr "プレイヤースロット"
+
+msgctxt "MatchSettings/RestartDelay"
+msgid "Respawn Delay"
+msgstr "リスポーン遅延"
+
+msgctxt "MatchSettings/SunYawDesc"
+msgid "Rotates the path of the sun relative to the world"
+msgstr "世界に対して太陽の軌道を回転させます"
+
+msgctxt "MatchSettings/RoundDuration"
+msgid "Round Duration"
+msgstr "ラウンド時間"
+
+msgctxt "MatchSettings/SandboxSettingsCategory"
+msgid "Sandbox"
+msgstr "サンドボックス"
+
+msgctxt "MatchSettings/ServerDescription"
+msgid "Server Description"
+msgstr "サーバーの説明"
+
+msgctxt "MatchSettings/ServerName"
+msgid "Server Name"
+msgstr "サーバー名"
+
+msgctxt "MatchSettings/bFadeInMatchSettings"
+msgid "Smooth Transition"
+msgstr "スムーズな移行"
+
+msgctxt "MatchSettings/EnableAITrains"
+msgid "Spawn AI Train"
+msgstr "AI トレインをスポーンする"
+
+msgctxt "MatchSettings/SunYaw"
+msgid "Sun Direction"
+msgstr "太陽の方向"
+
+msgctxt "MatchSettings/SunAngle"
+msgid "Sun Elevation"
+msgstr "太陽の高度"
+
+msgctxt "MatchSettings/TimeOfDay"
+msgid "Time of Day"
+msgstr "時刻"
+
+msgctxt "MatchSettings/VehicleRemovalDelay"
+msgid "Vehicle Auto Removal Delay"
+msgstr "車両の自動撤去の遅延"
+
+msgctxt "MatchSettings/VehicleFilter"
+msgid "Vehicle Filter"
+msgstr "車両フィルター"
+
+msgctxt "MatchSettings/VehiclePriceFactor"
+msgid "Vehicle Price"
+msgstr "車両価格"
+
+msgctxt "MatchSettings/VehicleWhitelist"
+msgid "Vehicle Whitelist"
+msgstr "車両のホワイトリスト"
+
+msgctxt "MatchSettings/VehicleRestrictionsCategory"
+msgid "Vehicles"
+msgstr "乗り物"
+
+msgctxt "MatchSettings/Weather"
+msgid "Weather"
+msgstr "天気"
+
+msgctxt "MatchSettings/bExemptAdminsFromRestrictionsDesc"
+msgid "Whether admins should be allowed to ignore most rules"
+msgstr "管理者がほとんどのルールを無視できるようにするかどうか"
+
+msgctxt "MatchSettings/bAllowFreeCamDesc"
+msgid "Whether players are allowed to enter free cam"
+msgstr "プレーヤーがフリーカムに入ることができるかどうか"
+
+msgctxt "MatchSettings/bAllowEnterVehicleWithoutSeatVehicles"
+msgid "Whether players are allowed to enter vehicles without any seats"
+msgstr "プレイヤーが座席のない車両に乗車できるかどうか"
+
+msgctxt "MatchSettings/bAllowRemoveVehicleFromOtherPlayerPlayers"
+msgid "Whether players are allowed to remove and/or enter the editor with vehicles they haven't spawned themselves"
+msgstr "プレイヤーが自分で生成していない車両を削除したり、エディターに入ることができるかどうか"
+
+msgctxt "MatchSettings/bAllowSpawnAnywhereDesc"
+msgid "Whether players are allowed to respawn/teleport anywhere in the world"
+msgstr "プレイヤーが世界中のどこにでもリスポーン/テレポートできるかどうか"
+
+msgctxt "MatchSettings/bAllowInfiniteAmmoDesc"
+msgid "Whether vehicles and handguns should have infinite ammo"
+msgstr "車両と拳銃の弾薬は無限であるべきかどうか"
+
+msgctxt "MatchSettings/bAllowInfiniteFuelDesc"
+msgid "Whether vehicles should have unlimited fuel"
+msgstr "車両に無制限の燃料を搭載すべきかどうか"
+
+msgctxt "MatchState/WaitingToStart"
+msgid "Get ready..."
+msgstr "準備をしましょう..."
+
+msgctxt "MatchState/Intermission"
+msgid "Intermission"
+msgstr "休憩"
+
+msgctxt "MatchState/MatchTied"
+msgid "Match tied"
+msgstr "試合は引き分け"
+
+msgctxt "MatchState/InProgress"
+msgid "Round started!"
+msgstr "ラウンド開始！"
+
+msgctxt "MatchState/Round tied"
+msgid "Round tied"
+msgstr "ラウンドタイ"
+
+msgctxt "MatchState/WaitingForPlayers"
+msgid "Waiting for players"
+msgstr "プレイヤーを待っています"
+
+msgctxt "MatchState/Waiting"
+msgid "Waiting..."
+msgstr "待っている..."
+
+msgctxt "MatchState/Warmup"
+msgid "Warm up"
+msgstr "準備し始める"
+
+msgctxt "MatchState/MatchWinnerFormat"
+msgid "{0} won the match!"
+msgstr "{0} が試合に勝ちました!"
+
+msgctxt "MatchState/RoundWinnerFormat"
+msgid "{0} won the round!"
+msgstr "{0} がラウンドに勝ちました!"
+
+msgctxt "MatchVehicleFilter/None"
+msgid "Disabled"
+msgstr "無効"
+
+msgctxt "MatchVehicleFilter/WhitelistDesc"
+msgid "Only vehicles from your defined whitelist may be spawned"
+msgstr "定義されたホワイトリストにある車両のみが生成される可能性があります"
+
+msgctxt "MatchVehicleFilter/PublicOnlineDesc"
+msgid "Only vehicles, which have been uploaded to the Workshop and set to public, are allowed to be spawned"
+msgstr "ワークショップにアップロードされ公開設定されている車両のみがスポーンできます。"
+
+msgctxt "MatchVehicleFilter/PublicOnline"
+msgid "Public Workshop Only"
+msgstr "公開ワークショップのみ"
+
+msgctxt "MatchVehicleFilter/Whitelist"
+msgid "Whitelist Only"
+msgstr "ホワイトリストのみ"
+
+msgctxt "MathOperations/Abs"
+msgid "Abs"
+msgstr "絶対値"
+
+msgctxt "MathOperations/Acos"
+msgid "Acos"
+msgstr "Acos"
+
+msgctxt "MathOperations/Add"
+msgid "Add"
+msgstr "足し算"
+
+msgctxt "MathOperations/Asin"
+msgid "Asin"
+msgstr "Asin"
+
+msgctxt "MathOperations/Atan"
+msgid "Atan"
+msgstr "Atan"
+
+msgctxt "MathOperations/Ceil"
+msgid "Ceil"
+msgstr "切り上げ"
+
+msgctxt "MathOperations/Cos"
+msgid "Cos"
+msgstr "Cos"
+
+msgctxt "MathOperations/Degrees"
+msgid "Deg"
+msgstr "度"
+
+msgctxt "MathOperations/Divide"
+msgid "Divide"
+msgstr "割り算"
+
+msgctxt "MathOperations/Floor"
+msgid "Floor"
+msgstr "切り捨て"
+
+msgctxt "MathOperations/Greater"
+msgid "Greater"
+msgstr "大なり (上 > 下)"
+
+msgctxt "MathOperations/Less"
+msgid "Less"
+msgstr "小なり (上 < 下)"
+
+msgctxt "MathOperations/Max"
+msgid "Max"
+msgstr "大きい"
+
+msgctxt "MathOperations/Min"
+msgid "Min"
+msgstr "小さい"
+
+msgctxt "MathOperations/Fmod"
+msgid "Modulo"
+msgstr "あまり"
+
+msgctxt "MathOperations/Multiply"
+msgid "Multiply"
+msgstr "掛け算"
+
+msgctxt "MathOperations/Power"
+msgid "Power"
+msgstr "べき乗"
+
+msgctxt "MathOperations/Radians"
+msgid "Rad"
+msgstr "ラジアン"
+
+msgctxt "MathOperations/Round"
+msgid "Round"
+msgstr "四捨五入"
+
+msgctxt "MathOperations/Sign"
+msgid "Sign"
+msgstr "符号"
+
+msgctxt "MathOperations/Sin"
+msgid "Sin"
+msgstr "Sin"
+
+msgctxt "MathOperations/Sqrt"
+msgid "Square Root"
+msgstr "平方根"
+
+msgctxt "MathOperations/Subtract"
+msgid "Subtract"
+msgstr "引き算"
+
+msgctxt "MathOperations/Tan"
+msgid "Tan"
+msgstr "Tan"
+
+msgctxt "MeasurementSystem/Imperial"
+msgid "Imperial"
+msgstr "ヤードポンド法"
+
+msgctxt "MeasurementSystem/Metric"
+msgid "Metric"
+msgstr "メートル法"
+
+msgctxt "Misc/ExplosiveArmed"
+msgid "Armed"
+msgstr "武器がアクティブ"
+
+msgctxt "Misc/DefaultSource"
+msgid "Auto"
+msgstr "自動"
+
+msgctxt "Misc/CopiedFile"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "Misc/MaterialDensity"
+msgid "Density"
+msgstr "密度"
+
+msgctxt "Misc/VolumeIncrease"
+msgid "Explosivity"
+msgstr "爆発性"
+
+msgctxt "Misc/FailedToSpawnVehicleFormat"
+msgid "Failed to spawn your vehicle: {0}"
+msgstr "車両を生成できませんでした: {0}"
+
+msgctxt "Misc/MaterialFriction"
+msgid "Friction"
+msgstr "摩擦"
+
+msgctxt "Misc/HoldKey"
+msgid "Hold"
+msgstr "長押し"
+
+msgctxt "Misc/ImpactResistance"
+msgid "Impact Resistance"
+msgstr "耐衝撃性"
+
+msgctxt "Misc/NoDescription"
+msgid "No description"
+msgstr "説明なし"
+
+msgctxt "Misc/NoObject"
+msgid "None"
+msgstr "なし"
+
+msgctxt "Misc/None"
+msgid "None"
+msgstr "なし"
+
+msgctxt "Misc/NothingSelected"
+msgid "Nothing Selected"
+msgstr "何も選択されていません"
+
+msgctxt "Misc/AdminLoginFailedFormat"
+msgid "Password incorrect, {Num} {Num}|plural(one=attempt,other=attempts) remaining"
+msgstr "パスワードが正しくありません。残りは {Num} {Num}|plural(one=回,other=回) です"
+
+msgctxt "Misc/MaterialPriceFactor"
+msgid "Price"
+msgstr "価格"
+
+msgctxt "Misc/FuelPrice"
+msgid "Price per Liter"
+msgstr "1リットルあたりの価格"
+
+msgctxt "Misc/MaterialRestitution"
+msgid "Restitution"
+msgstr "弾力性"
+
+msgctxt "Misc/MaterialStrength"
+msgid "Strength"
+msgstr "強さ"
+
+msgctxt "Misc/SupportedCharacters"
+msgid "Supported Characters"
+msgstr "サポートされている文字"
+
+msgctxt "Misc/TapKey"
+msgid "Tap"
+msgstr "タップ"
+
+msgctxt "Misc/MatchAbortedMessage"
+msgid "The host has aborted the match"
+msgstr "ホストが試合を中止しました"
+
+msgctxt "Misc/Name_Unknown"
+msgid "Unknown"
+msgstr "未知"
+
+msgctxt "Misc/Unlimited"
+msgid "Unlimited"
+msgstr "無制限"
+
+msgctxt "Misc/Unnamed"
+msgid "Unnamed"
+msgstr "無名"
+
+msgctxt "Misc/AutoSavedFile"
+msgid "Unsaved Creation"
+msgstr "未保存の作品"
+
+msgctxt "Network/JoinSessionIncompatibleBuild"
+msgid "The server is running on a different version of the game, please update or ask the host to update."
+msgstr "サーバーは別のバージョンのゲームで実行されています。更新するか、ホストに更新を依頼してください。"
+
+msgctxt "NetworkErrors/VersionMismatch"
+msgid "Client and server version mismatch"
+msgstr "クライアントとサーバーのバージョンが一致しない"
+
+msgctxt "NetworkErrors/ConnectionLost"
+msgid "Connection lost"
+msgstr "接続が失われました"
+
+msgctxt "NetworkErrors/ConnectionTimeout"
+msgid "Connection timed out"
+msgstr "接続がタイムアウトしました"
+
+msgctxt "NetworkErrors/ConnectionTimeoutFormat"
+msgid "Connection timed out after {0}. There is either a problem with the host or your connection to the host."
+msgstr "{0} の後に接続がタイムアウトしました。ホストまたはホストへの接続に問題があります。"
+
+msgctxt "NetworkErrors/GenericFailure"
+msgid "Network failure"
+msgstr "ネットワーク障害"
+
+msgctxt "Online/SteamLoginFailed"
+msgid "Steam Login Failed"
+msgstr "Steam ログインに失敗しました"
+
+msgctxt "Online/SteamLoginFailedMessage"
+msgid "You will not be able to use online features like multiplayer or the Workshop. Please exit the game and restart it through Steam."
+msgstr "マルチプレイヤーやワークショップなどのオンライン機能は使用できなくなります。ゲームを終了し、Steam から再起動してください。"
+
+msgctxt "PlayerSpawnResult/Failure"
+msgid "Cannot spawn vehicle"
+msgstr "車両をスポーンできません"
+
+msgctxt "PlayerSpawnResult/CorruptFile"
+msgid "File is corrupt"
+msgstr "ファイルが壊れています"
+
+msgctxt "PlayerSpawnResult/OnlyAdminsCanSpawn"
+msgid "Only admins are allowed to spawn vehicles"
+msgstr "管理者のみが車両をスポーンできます"
+
+msgctxt "PlayerSpawnResult/VehicleNotPublicOnline"
+msgid "Only public Workshop creations can be spawned"
+msgstr "公開ワークショップの作成のみを生成できます"
+
+msgctxt "PlayerSpawnResult/VehicleNotWhitelisted"
+msgid "Only whitelisted creations can be spawned"
+msgstr "ホワイトリストに登録された作成のみを生成できます"
+
+msgctxt "PlayerSpawnResult/NoObjects"
+msgid "Vehicle does not have any bricks"
+msgstr "ホワイトリストに登録された作成のみを生成できます"
+
+msgctxt "PlayerSpawnResult/BrickLimitExceeded"
+msgid "Vehicle has too many bricks"
+msgstr "車両のBrickが多すぎます"
+
+msgctxt "PlayerSpawnResult/SizeExceeded"
+msgid "Vehicle is too big"
+msgstr "車両が大きすぎる"
+
+msgctxt "PlayerSpawnResult/MassExceeded"
+msgid "Vehicle is too heavy"
+msgstr "車両が重すぎる"
+
+msgctxt "PlayerSpawnResult/Cooldown"
+msgid "You are on a respawn cooldown"
+msgstr "リスポーンのクールダウン中です"
+
+msgctxt "PlayerSpawnResult/VehicleLimitExceeded"
+msgid "You cannot spawn more vehicles"
+msgstr "これ以上車両を生成することはできません"
+
+msgctxt "PlayerSpawnResult/InsufficientFunds"
+msgid "You don't have enough money"
+msgstr "お金が足りない"
+
+msgctxt "ProximitySensorMask/All"
+msgid "All"
+msgstr "全て"
+
+msgctxt "ProximitySensorMask/Vehicles"
+msgid "All Vehicles"
+msgstr "すべての車両"
+
+msgctxt "ProximitySensorMask/OtherVehicles"
+msgid "Other Vehicles"
+msgstr "その他の車両"
+
+msgctxt "ProximitySensorMask/Pawn,"
+msgid "Players"
+msgstr "プレイヤー"
+
+msgctxt "ProximitySensorMask/Static"
+msgid "Static Objects"
+msgstr "静的オブジェクト"
+
+msgctxt "ProximitySensorMask/Water"
+msgid "Water"
+msgstr "水"
+
+msgctxt "QualityLevels/Custom"
+msgid "Custom"
+msgstr "カスタム"
+
+msgctxt "QualityLevels/Epic"
+msgid "Epic"
+msgstr "すごい"
+
+msgctxt "QualityLevels/High"
+msgid "High"
+msgstr "高い"
+
+msgctxt "QualityLevels/Low"
+msgid "Low"
+msgstr "低い"
+
+msgctxt "QualityLevels/Medium"
+msgid "Medium"
+msgstr "中くらい"
+
+msgctxt "SearchSessionType/Server"
+msgid "Dedicated Servers"
+msgstr "専用サーバー"
+
+msgctxt "SearchSessionType/Lobby"
+msgid "Player Lobbies"
+msgstr "プレイヤーのロビー"
+
+msgctxt "SensorType/Acceleration"
+msgid "Acceleration"
+msgstr "加速度"
+
+msgctxt "SensorType/Altitude"
+msgid "Altitude"
+msgstr "高度"
+
+msgctxt "SensorType/AngularSpeed"
+msgid "Angular Speed"
+msgstr "角速度"
+
+msgctxt "SensorType/Distance"
+msgid "Distance"
+msgstr "距離"
+
+msgctxt "SensorType/SeekingProjectileDistance"
+msgid "Distance of Heat Seeker"
+msgstr "ヒートシーカーの距離"
+
+msgctxt "SensorType/DistanceToGround"
+msgid "Distance to Ground"
+msgstr "地面までの距離"
+
+msgctxt "SensorType/NormalAcceleration"
+msgid "Normal Acceleration"
+msgstr "通常の加速"
+
+msgctxt "SensorType/NormalAngularSpeed"
+msgid "Normal Angular Speed"
+msgstr "通常の角速度"
+
+msgctxt "SensorType/NormalSpeed"
+msgid "Normal Speed"
+msgstr "通常速度"
+
+msgctxt "SensorType/NumSeekingProjectiles"
+msgid "Number of Heat Seekers"
+msgstr "ヒートシーカーの数"
+
+msgctxt "SensorType/Pitch"
+msgid "Pitch"
+msgstr "ピッチ"
+
+msgctxt "SensorType/Proximity"
+msgid "Proximity"
+msgstr "近接性"
+
+msgctxt "SensorType/Roll"
+msgid "Roll"
+msgstr "ロール"
+
+msgctxt "SensorType/Speed"
+msgid "Speed"
+msgstr "スピード"
+
+msgctxt "SensorType/Time"
+msgid "Time"
+msgstr "時間"
+
+msgctxt "SensorType/Yaw"
+msgid "Yaw"
+msgstr "ヨー"
+
+msgctxt "Settings/bAllowDifferentMods"
+msgid "Allow Different Mods"
+msgstr "導入されているModが合わなくても許可する"
+
+msgctxt "Settings/EditorGridSnappingAngleDesc"
+msgid "Angle to which bricks snap when rotated"
+msgstr "Brickを回転させたときにスナップする角度"
+
+msgctxt "Settings/AAQuality"
+msgid "Anti Aliasing"
+msgstr "アンチエイリアシング"
+
+msgctxt "Settings/AntiAliasingMethod"
+msgid "Anti Aliasing Method"
+msgstr "アンチエイリアス方式"
+
+msgctxt "Settings/ApplyMatchSettings"
+msgid "Apply Settings to current Match"
+msgstr "現在のマッチに設定を適用する"
+
+msgctxt "Settings/AutoCounterSteering"
+msgid "Automatic Counter Steering"
+msgstr "自動カウンターステア"
+
+msgctxt "Settings/InputCategory"
+msgid "Category"
+msgstr "カテゴリ"
+
+msgctxt "Settings/EditorBrickSnappingAngle"
+msgid "Connector Snapping Angle"
+msgstr "コネクタのスナップ角度"
+
+msgctxt "Settings/EditorBrickSnappingDistance"
+msgid "Connector Snapping Distance"
+msgstr "コネクタのスナップ距離"
+
+msgctxt "Settings/bEnableDepthOfField"
+msgid "Depth of Field"
+msgstr "被写界深度"
+
+msgctxt "Settings/EditorSettingsCategory"
+msgid "Editor Settings"
+msgstr "エディターの設定"
+
+msgctxt "Settings/EditorUIScale"
+msgid "Editor UI Scale"
+msgstr "エディターの UI スケール"
+
+msgctxt "Settings/EffectsQuality"
+msgid "Effects"
+msgstr "エフェクト"
+
+msgctxt "Settings/AntiAliasingMethodDesc"
+msgid "FXAA is recommended for the best experience, TAA looks good on screenshots but causes ghosting and blurryness"
+msgstr "最高のエクスペリエンスを得るには FXAA をお勧めします。TAA はスクリーンショットではきれいに見えますが、ゴーストやぼやけが発生します。"
+
+msgctxt "Settings/FieldOfView"
+msgid "Field of View"
+msgstr "視野角"
+
+msgctxt "Settings/InputMappingFilter"
+msgid "Filter"
+msgstr "フィルター"
+
+msgctxt "Settings/FoliageQuality"
+msgid "Foliage"
+msgstr "地面の小物のバラけ具合"
+
+msgctxt "Settings/FrameRateLimit"
+msgid "Frame Rate Limit (FPS)"
+msgstr "フレームレート制限 (FPS)"
+
+msgctxt "Settings/GamepadSensitivity"
+msgid "Gamepad Sensitivity"
+msgstr "ゲームパッドの感度"
+
+msgctxt "Settings/EditorGridSnappingAngle"
+msgid "Grid Snapping Angle"
+msgstr "グリッドスナップ角度"
+
+msgctxt "Settings/EditorGridSnappingDistance"
+msgid "Grid Snapping Distance"
+msgstr "グリッドのスナップ距離"
+
+msgctxt "Settings/EditorGridSnappingDistanceDesc"
+msgid "Grid size to which bricks snap when moved"
+msgstr "移動時にBrickがスナップされるグリッドのサイズ"
+
+msgctxt "Settings/HUDVisibility"
+msgid "HUD Visibility"
+msgstr "HUD の可視性"
+
+msgctxt "Settings/AutoCounterSteeringDesc"
+msgid "Helps you to keep cars under control, may cause issues with some creations"
+msgstr "車を制御するのに役立ちますが、一部の作品では問題が発生する可能性があります"
+
+msgctxt "Settings/HostCategory"
+msgid "Host"
+msgstr "ホスト"
+
+msgctxt "Settings/ServerPasswordDesc"
+msgid "If not empty players will have to enter this password when joining your server"
+msgstr "空でない場合、プレイヤーはサーバーに参加するときにこのパスワードを入力する必要があります"
+
+msgctxt "Settings/InvertViewPitch"
+msgid "Invert View Pitch"
+msgstr "ビューピッチを反転"
+
+msgctxt "Settings/InvertViewPitchDesc"
+msgid "Inverts the vertical view direction"
+msgstr "垂直ビュー方向を反転します"
+
+msgctxt "Settings/Language"
+msgid "Language"
+msgstr "言語"
+
+msgctxt "Settings/MasterVolume"
+msgid "Master Volume"
+msgstr "マスターボリューム"
+
+msgctxt "Settings/MatchSettingsCategory"
+msgid "Match"
+msgstr "マッチ"
+
+msgctxt "Settings/EditorBrickSnappingAngleDesc"
+msgid "Maximum angle between two connectors to snap together"
+msgstr "2 つのコネクタ間のスナップ接続の最大角度"
+
+msgctxt "Settings/EditorBrickSnappingDistanceDesc"
+msgid "Maximum distance between two connectors to snap together"
+msgstr "スナップ接続する 2 つのコネクタ間の最大距離"
+
+msgctxt "Settings/MeasurementSystem"
+msgid "Measurement System"
+msgstr "測定システム"
+
+msgctxt "Settings/EditorMirrorMode"
+msgid "Mirror Mode"
+msgstr "ミラーモード"
+
+msgctxt "Settings/MotionBlurScale"
+msgid "Motion Blur"
+msgstr "モーションブラー"
+
+msgctxt "Settings/EditorMouseMoveSensitivity"
+msgid "Mouse Move Sensitivity"
+msgstr "マウス移動の感度"
+
+msgctxt "Settings/MouseSensitivity"
+msgid "Mouse Sensitivity"
+msgstr "マウスの感度"
+
+msgctxt "Settings/EditorMoveSettingsCategory"
+msgid "Move Settings"
+msgstr "設定の移動"
+
+msgctxt "Settings/HostServerType"
+msgid "Multiplayer"
+msgstr "マルチプレイヤー"
+
+msgctxt "Settings/MusicVolume"
+msgid "Music Volume"
+msgstr "音楽の音量"
+
+msgctxt "Settings/DLSSMode"
+msgid "NVIDIA DLSS"
+msgstr "NVIDIA DLSS"
+
+msgctxt "Settings/DLSSDesc"
+msgid "NVIDIA DLSS uses AI Super Resolution to provide the highest possible frame rates at maximum graphics settings. DLSS requires an NVIDIA RTX graphics card"
+msgstr "NVIDIA DLSS は AI 超解像度を使用して、最大のグラフィックス設定で可能な限り最高のフレーム レートを提供します。 DLSS には NVIDIA RTX グラフィックス カードが必要です"
+
+msgctxt "Settings/PostProcessingQuality"
+msgid "Post Processing"
+msgstr "ポストプロセス"
+
+msgctxt "Settings/OverallScalabilityQuality"
+msgid "Preset"
+msgstr "プリセット"
+
+msgctxt "Settings/ScalabilityCategory"
+msgid "Quality"
+msgstr "品質"
+
+msgctxt "Settings/bEnableRayTracing"
+msgid "Ray Tracing"
+msgstr "レイ トレーシング"
+
+msgctxt "Settings/RenderingFeaturesCategory"
+msgid "Rendering"
+msgstr "レンダリング"
+
+msgctxt "Settings/ScreenResolution"
+msgid "Resolution"
+msgstr "解決"
+
+msgctxt "Settings/ResolutionScale"
+msgid "Resolution Scale"
+msgstr "解像度スケール"
+
+msgctxt "Settings/SearchText"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "Settings/ServerPassword"
+msgid "Server Password"
+msgstr "サーバーのパスワード"
+
+msgctxt "Settings/ShadowQuality"
+msgid "Shadows"
+msgstr "影"
+
+msgctxt "Settings/FadeMatchSettings"
+msgid "Slow Time and Weather Transition"
+msgstr "時間と天気のゆっくりとした変化"
+
+msgctxt "Settings/bEditorSnappingEnabled"
+msgid "Snapping"
+msgstr "スナップ"
+
+msgctxt "Settings/VSyncEnabledDesc"
+msgid "Synchronizes the frame rate with your display to prevent screen tearing"
+msgstr "フレームレートをディスプレイと同期させて画面のティアリングを防ぎます"
+
+msgctxt "Settings/TextureQuality"
+msgid "Textures"
+msgstr "テクスチャ"
+
+msgctxt "Settings/UIStyle"
+msgid "Theme"
+msgstr "テーマ"
+
+msgctxt "Settings/ToggleAim"
+msgid "Toggle Aim"
+msgstr "照準の切り替え"
+
+msgctxt "Settings/ToggleCrouch"
+msgid "Toggle Crouch"
+msgstr "しゃがみの切り替え"
+
+msgctxt "Settings/ToggleSprint"
+msgid "Toggle Sprint"
+msgstr "スプリントの切り替え"
+
+msgctxt "Settings/TransmissionMode"
+msgid "Transmission"
+msgstr "トランスミッション"
+
+msgctxt "Settings/ApplicationScale"
+msgid "UI Scaling"
+msgstr "UIのスケーリング"
+
+msgctxt "Settings/VSyncEnabled"
+msgid "V-Sync"
+msgstr "垂直同期"
+
+msgctxt "Settings/VehicleCameraMode"
+msgid "Vehicle Camera"
+msgstr "車載カメラ"
+
+msgctxt "Settings/ViewDistanceQuality"
+msgid "View Distance"
+msgstr "表示距離"
+
+msgctxt "Settings/EditorViewMode"
+msgid "View Mode"
+msgstr "ビューモード"
+
+msgctxt "Settings/ApplyMatchSettingsDesc"
+msgid "Whether changes you make should take effect immediatelly"
+msgstr "加えた変更をすぐに有効にするかどうか"
+
+msgctxt "Settings/bAllowDifferentModsDesc"
+msgid "Whether players are allowed to join your server with different mods installed"
+msgstr "プレイヤーがさまざまな MOD をインストールしたサーバーに参加できるかどうか"
+
+msgctxt "Settings/FadeMatchSettingsDesc"
+msgid "Whether time and weather settings should transition smoothly"
+msgstr "時間と天気の設定をスムーズに移行するかどうか"
+
+msgctxt "Settings/WindowMode"
+msgid "Window Mode"
+msgstr "ウィンドウモード"
+
+msgctxt "Settings/bWorldSpace"
+msgid "World Space"
+msgstr "ワールド座標系"
+
+msgctxt "Settings/HUDVisibilityDesc"
+msgid "You can hide the HUD partially or fully if you want more immersion or to capture videos"
+msgstr "より没入感を高めたい場合やビデオをキャプチャしたい場合は、HUD を部分的または完全に非表示にすることができます。"
+
+msgctxt "SimpleUGCPackager/SimpleUGCEditor_PackagePluginTaskName"
+msgid "Packaging {0}"
+msgstr "梱包 {0}"
+
+msgctxt "SimpleUGCPackager/PackageUGC"
+msgid "Share..."
+msgstr "共有..."
+
+msgctxt "SimpleUGCPackager/PackageUGCError_UnsavedContent"
+msgid "You must save all assets in {0} before you can share it."
+msgstr "共有する前に、すべてのアセットを {0} に保存する必要があります。"
+
+msgctxt "SimpleUGCPluginWizard/CreateNewUGCPanel"
+msgid "Give your new UGC package a name and Click 'Create Mod' to make a new content only UGC package."
+msgstr "新しい UGC パッケージに名前を付け、「Create Mod」をクリックして新しいコンテンツのみの UGC パッケージを作成します。"
+
+msgctxt "SortMethod/ByDate"
+msgid "Date"
+msgstr "日付"
+
+msgctxt "SortMethod/ByDateAsc"
+msgid "Date Ascending"
+msgstr "日付の昇順"
+
+msgctxt "SortMethod/ByGameMode"
+msgid "Game Mode"
+msgstr "ゲームモード"
+
+msgctxt "SortMethod/ByMap"
+msgid "Map"
+msgstr "地図"
+
+msgctxt "SortMethod/ByName"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "SortMethod/ByNameAsc"
+msgid "Name Ascending"
+msgstr "名前の昇順"
+
+msgctxt "SortMethod/ByCreationOrderDesc"
+msgid "Newest"
+msgstr "最新"
+
+msgctxt "SortMethod/ByCreationOrderAsc"
+msgid "Oldest"
+msgstr "最古の"
+
+msgctxt "SortMethod/ByPing"
+msgid "Ping"
+msgstr "Ping"
+
+msgctxt "SortMethod/ByPlayers"
+msgid "Players"
+msgstr "プレイヤー"
+
+msgctxt "SortMethod/ByPlayersAsc"
+msgid "Players Ascending"
+msgstr "プレイヤーの昇順"
+
+msgctxt "SortMethod/ByTrending"
+msgid "Popular"
+msgstr "人気のある"
+
+msgctxt "SortMethod/BySubscriptionDateDesc"
+msgid "Recently Subscribed"
+msgstr "最近サブスクライブした"
+
+msgctxt "SortMethod/ByLastUpdatedDesc"
+msgid "Recently Updated"
+msgstr "最近更新された"
+
+msgctxt "SortMethod/SearchRelevancy"
+msgid "Search Relevancy"
+msgstr "関連性の検索"
+
+msgctxt "SortMethod/ByTimeRemaining"
+msgid "Time Remaining"
+msgstr "残り時間"
+
+msgctxt "SortMethod/ByTimeRemainingAsc"
+msgid "Time Remaining Ascending"
+msgstr "残り時間の増加"
+
+msgctxt "SortMethod/ByTotalPlaytime"
+msgid "Total Playtime"
+msgstr "総プレイ時間"
+
+msgctxt "SortMethod/ByTotalUniqueSubscriptions"
+msgid "Total Subscriptions"
+msgstr "合計サブスクライブ数"
+
+msgctxt "Time/Infinite"
+msgid "Infinite"
+msgstr "無限"
+
+msgctxt "TransmissionMode/Automatic"
+msgid "Automatic"
+msgstr "オートマ"
+
+msgctxt "TransmissionMode/Manual"
+msgid "Manual"
+msgstr "マニュアル"
+
+msgctxt "TravelErrors/GenericFailure"
+msgid "Travel failure"
+msgstr "トラベルの失敗"
+
+msgctxt "UGCBrowser/Format_DeleteItemWarning"
+msgid "You are about to permanently delete \"{0}\", continue?"
+msgstr "「{0}」を完全に削除しようとしています。続行しますか?"
+
+msgctxt "UGCDepartmentTag/Civil"
+msgid "Civil"
+msgstr "民間"
+
+msgctxt "UGCDepartmentTag/FireDepartment"
+msgid "Fire Department"
+msgstr "消防"
+
+msgctxt "UGCDepartmentTag/Military"
+msgid "Military"
+msgstr "軍隊"
+
+msgctxt "UGCDepartmentTag/None"
+msgid "Other"
+msgstr "その他"
+
+msgctxt "UGCDepartmentTag/Police"
+msgid "Police"
+msgstr "警察"
+
+msgctxt "UGCEraTag/1800s"
+msgid "1800s"
+msgstr "1800年代"
+
+msgctxt "UGCEraTag/1900s"
+msgid "1900s"
+msgstr "1900年代"
+
+msgctxt "UGCEraTag/2000s"
+msgid "2000s"
+msgstr "2000年代"
+
+msgctxt "UGCEraTag/Ancient"
+msgid "Ancient"
+msgstr "古代"
+
+msgctxt "UGCEraTag/Futuristic"
+msgid "Futuristic"
+msgstr "未来的な"
+
+msgctxt "UGCEraTag/None"
+msgid "Other"
+msgstr "その他"
+
+msgctxt "UGCEraTag/WW1"
+msgid "WW1"
+msgstr "第一次世界大戦"
+
+msgctxt "UGCEraTag/WW2"
+msgid "WW2"
+msgstr "第二次世界大戦"
+
+msgctxt "UGCQueryType/Local"
+msgid "Local"
+msgstr "ローカル"
+
+msgctxt "UGCQueryType/RecentlyUsed"
+msgid "Played With"
+msgstr "使用済み"
+
+msgctxt "UGCQueryType/Published"
+msgid "Published"
+msgstr "投稿済み"
+
+msgctxt "UGCQueryType/Selection"
+msgid "Selection"
+msgstr "選択"
+
+msgctxt "UGCQueryType/Subscribed"
+msgid "Subscriptions"
+msgstr "サブスクライブ"
+
+msgctxt "UGCQueryType/Whitelist"
+msgid "Whitelist"
+msgstr "ホワイトリスト"
+
+msgctxt "UGCQueryType/Workshop"
+msgid "Workshop"
+msgstr "ワークショップ"
+
+msgctxt "UGCTags/All"
+msgid "All"
+msgstr "全て"
+
+msgctxt "UGCTags/Department"
+msgid "Department"
+msgstr "部門"
+
+msgctxt "UGCTags/Era"
+msgid "Era"
+msgstr "時代"
+
+msgctxt "UGCTags/Type"
+msgid "Type"
+msgstr "タイプ"
+
+msgctxt "UGCTaskResults/AccessDenied"
+msgid "Access denied"
+msgstr "アクセスが拒否されました"
+
+msgctxt "UGCTaskResults/DuplicateName"
+msgid "An item with the same name already exists"
+msgstr "同じ名前のアイテムがすでに存在します"
+
+msgctxt "UGCTaskResults/LockingFailed"
+msgid "Failed to acquire UGC lock"
+msgstr "UGCロックの取得に失敗しました"
+
+msgctxt "UGCTaskResults/FileNotFound"
+msgid "File not found"
+msgstr "ファイルが見つかりません"
+
+msgctxt "UGCTaskResults/InvalidParam"
+msgid "Invalid parameter"
+msgstr "無効なパラメータ"
+
+msgctxt "UGCTaskResults/DuplicateRequest"
+msgid "The file has already been uploaded"
+msgstr "ファイルはすでにアップロードされています"
+
+msgctxt "UGCTaskResults/Timeout"
+msgid "The operation took too long"
+msgstr "操作に時間がかかりすぎました"
+
+msgctxt "UGCTaskResults/LimitExceeded"
+msgid "The preview file is too large or your cloud storage is full"
+msgstr "プレビュー ファイルが大きすぎるか、クラウド ストレージがいっぱいです"
+
+msgctxt "UGCTaskResults/ServiceUnavailable"
+msgid "The server is currently unreachable"
+msgstr "現在サーバーにアクセスできません"
+
+msgctxt "UGCTaskResults/GenericFailure"
+msgid "Unknown error"
+msgstr "不明なエラー"
+
+msgctxt "UGCTaskResults/Banned"
+msgid "You are currently banned from uploading"
+msgstr "現在アップロードが禁止されています"
+
+msgctxt "UGCTaskResults/ServiceReadOnly"
+msgid "You are currently not allowed to edit files"
+msgstr "現在ファイルを編集することはできません"
+
+msgctxt "UGCTaskResults/NotLoggedOn"
+msgid "You are not logged in"
+msgstr "ログインしていません"
+
+msgctxt "UGCTasks/Success"
+msgid "Completed"
+msgstr "完了しました"
+
+msgctxt "UGCTasks/Download"
+msgid "Downloading"
+msgstr "ダウンロード中"
+
+msgctxt "UGCTasks/Failure"
+msgid "Failed"
+msgstr "失敗した"
+
+msgctxt "UGCTasks/Upload"
+msgid "Uploading"
+msgstr "アップロード中"
+
+msgctxt "UGCTypeTag/Building"
+msgid "Building"
+msgstr "建物"
+
+msgctxt "UGCTypeTag/Bus"
+msgid "Bus"
+msgstr "バス"
+
+msgctxt "UGCTypeTag/Car"
+msgid "Car"
+msgstr "車"
+
+msgctxt "UGCTypeTag/HeavyMachinery"
+msgid "Heavy Machinery"
+msgstr "重機"
+
+msgctxt "UGCTypeTag/Helicopter"
+msgid "Helicopter"
+msgstr "ヘリコプター"
+
+msgctxt "UGCTypeTag/Motorcycle"
+msgid "Motorcycle"
+msgstr "バイク"
+
+msgctxt "UGCTypeTag/None"
+msgid "Other"
+msgstr "その他"
+
+msgctxt "UGCTypeTag/Plane"
+msgid "Plane"
+msgstr "飛行機"
+
+msgctxt "UGCTypeTag/Prop"
+msgid "Prop"
+msgstr "小道具"
+
+msgctxt "UGCTypeTag/RaceCar"
+msgid "Race Car"
+msgstr "レースカー"
+
+msgctxt "UGCTypeTag/Ship"
+msgid "Ship"
+msgstr "船"
+
+msgctxt "UGCTypeTag/SpaceCraft"
+msgid "Space Craft"
+msgstr "宇宙船"
+
+msgctxt "UGCTypeTag/Tank"
+msgid "Tank"
+msgstr "戦車"
+
+msgctxt "UGCTypeTag/Trailer"
+msgid "Trailer"
+msgstr "トレーラー"
+
+msgctxt "UGCTypeTag/Train"
+msgid "Train"
+msgstr "電車"
+
+msgctxt "UGCTypeTag/Truck"
+msgid "Truck"
+msgstr "トラック"
+
+msgctxt "UGCVisibility/FriendsOnly"
+msgid "Friends Only"
+msgstr "フレンド限定"
+
+msgctxt "UGCVisibility/Private"
+msgid "Private"
+msgstr "非公開"
+
+msgctxt "UGCVisibility/Public"
+msgid "Public"
+msgstr "公開"
+
+msgctxt "UGCVisibility/Unlisted"
+msgid "Unlisted"
+msgstr "限定公開"
+
+msgctxt "UI/SpawnedByFormat"
+msgid "Spawned by: {0}"
+msgstr "生成者: {0}"
+
+msgctxt "UI/NumResultsFormat"
+msgid "{0} {1}|plural(one=Result,other=Results)"
+msgstr "{0} {1}|plural(one=件の結果,other=件の結果)"
+
+msgctxt "UICommands.FSimpleUGCEditorModule/CreateUGCAction"
+msgid "Create UGC"
+msgstr "UGCの作成"
+
+msgctxt "UICommands.FSimpleUGCEditorModule/CreateUGCAction_ToolTip"
+msgid "Create a new UGC package in a mod plugin"
+msgstr "MOD プラグインで新しい UGC パッケージを作成する"
+
+msgctxt "UICommands.FSimpleUGCEditorModule/PackageUGCAction"
+msgid "Package UGC"
+msgstr "パッケージUGC"
+
+msgctxt "UICommands.FSimpleUGCEditorModule/PackageUGCAction_ToolTip"
+msgid "Share and distribute your UGC"
+msgstr "UGC を共有して配布する"
+
+msgctxt "UIStringTable/InputAction_InventorySlotHold"
+msgid "Action {0}"
+msgstr "アクション {0}"
+
+msgctxt "UIStringTable/Action_Apply"
+msgid "Apply"
+msgstr "適用する"
+
+msgctxt "UIStringTable/Field_Author"
+msgid "Author"
+msgstr "著者"
+
+msgctxt "UIStringTable/Action_Back"
+msgid "Back"
+msgstr "戻る"
+
+msgctxt "UIStringTable/Direction_Backward"
+msgid "Backward"
+msgstr "後方へ"
+
+msgctxt "UIStringTable/Action_KickPlayer"
+msgid "Ban Player"
+msgstr "プレイヤーをBAN"
+
+msgctxt "UIStringTable/Name_CameraMode"
+msgid "Camera"
+msgstr "カメラ"
+
+msgctxt "UIStringTable/InputAction_CameraMode"
+msgid "Camera Mode"
+msgstr "カメラモード"
+
+msgctxt "UIStringTable/Action_Cancel"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "UIStringTable/Action_Clear"
+msgid "Clear"
+msgstr "クリア"
+
+msgctxt "UIStringTable/Action_ClearSelection"
+msgid "Clear All"
+msgstr "すべてクリア"
+
+msgctxt "UIStringTable/Action_Confirm"
+msgid "Confirm"
+msgstr "確認する"
+
+msgctxt "UIStringTable/Action_Continue"
+msgid "Continue"
+msgstr "続ける"
+
+msgctxt "UIStringTable/Name_Author"
+msgid "Created by"
+msgstr "作成者"
+
+msgctxt "UIStringTable/Action_Delete"
+msgid "Delete"
+msgstr "消去"
+
+msgctxt "UIStringTable/Field_Description"
+msgid "Description"
+msgstr "説明"
+
+msgctxt "UIStringTable/Action_DiscardChanges"
+msgid "Discard Changes"
+msgstr "変更の破棄"
+
+msgctxt "UIStringTable/Direction_Down"
+msgid "Down"
+msgstr "下"
+
+msgctxt "UIStringTable/SpeedIncrease_Down"
+msgid "Down"
+msgstr "下"
+
+msgctxt "UIStringTable/Action_Duplicate"
+msgid "Duplicate"
+msgstr "重複"
+
+msgctxt "UIStringTable/Action_Edit"
+msgid "Edit"
+msgstr "編集"
+
+msgctxt "UIStringTable/Action_EditMetaData"
+msgid "Edit Information"
+msgstr "情報の編集"
+
+msgctxt "UIStringTable/Menu_EditorSettings"
+msgid "Editor"
+msgstr "エディター"
+
+msgctxt "UIStringTable/Action_EnterEditor"
+msgid "Enter Editor"
+msgstr "エディターに入る"
+
+msgctxt "UIStringTable/Hint_EnterPassword"
+msgid "Enter password"
+msgstr "パスワードを入力してください"
+
+msgctxt "UIStringTable/Name_Error"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "UIStringTable/Action_Exit"
+msgid "Exit"
+msgstr "出口"
+
+msgctxt "UIStringTable/Result_Failure"
+msgid "Failure"
+msgstr "失敗"
+
+msgctxt "UIStringTable/Action_Favorite"
+msgid "Favorite"
+msgstr "お気に入り"
+
+msgctxt "UIStringTable/InputAction_FireAction"
+msgid "Fire Action {0}"
+msgstr "ファイアアクション {0}"
+
+msgctxt "UIStringTable/Format_CapturePointName"
+msgid "Flag {0}"
+msgstr "フラグ {0}"
+
+msgctxt "UIStringTable/Format_FlagName"
+msgid "Flag {0}"
+msgstr "フラグ {0}"
+
+msgctxt "UIStringTable/Direction_Forward"
+msgid "Forward"
+msgstr "フォワード"
+
+msgctxt "UIStringTable/Menu_Gameplay"
+msgid "Gameplay"
+msgstr "ゲームプレイ"
+
+msgctxt "UIStringTable/Name_Garage"
+msgid "Garage"
+msgstr "ガレージ"
+
+msgctxt "UIStringTable/ChatContext_Global"
+msgid "Global"
+msgstr "グローバル"
+
+msgctxt "UIStringTable/InputAction_HUDVisibility"
+msgid "HUD Visibility"
+msgstr "HUD の可視性"
+
+msgctxt "UIStringTable/Action_HostOnlineGame"
+msgid "Host Online Game"
+msgstr "オンラインゲームをホストする"
+
+msgctxt "UIStringTable/Action_Import"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "UIStringTable/ZoomDirection_In"
+msgid "In"
+msgstr "で"
+
+msgctxt "UIStringTable/Menu_Credits"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "UIStringTable/Menu_InputMappings"
+msgid "Input Mappings"
+msgstr "入力マッピング"
+
+msgctxt "UIStringTable/Menu_Input"
+msgid "Input Settings"
+msgstr "入力設定"
+
+msgctxt "UIStringTable/InputAction_Interact"
+msgid "Interact"
+msgstr "交流する"
+
+msgctxt "UIStringTable/Action_JoinServer"
+msgid "Join"
+msgstr "参加する"
+
+msgctxt "UIStringTable/Menu_JoinGame"
+msgid "Join Game"
+msgstr "ゲームに参加する"
+
+msgctxt "UIStringTable/Action_JoinTeam"
+msgid "Join Team"
+msgstr "チームに参加する"
+
+msgctxt "UIStringTable/Direction_Left"
+msgid "Left"
+msgstr "左"
+
+msgctxt "UIStringTable/Action_VoteUp"
+msgid "Like"
+msgstr "好き"
+
+msgctxt "UIStringTable/Field_Upvotes"
+msgid "Likes"
+msgstr "いいね！"
+
+msgctxt "UIStringTable/Name_NumUpvotes"
+msgid "Likes"
+msgstr "いいね！"
+
+msgctxt "UIStringTable/Name_LoadoutContainer"
+msgid "Loadout"
+msgstr "装備品"
+
+msgctxt "UIStringTable/ChatContext_Local"
+msgid "Local"
+msgstr "ローカル"
+
+msgctxt "UIStringTable/Menu_Admin"
+msgid "Manage Bans"
+msgstr "BANの管理"
+
+msgctxt "UIStringTable/Menu_Match"
+msgid "Match"
+msgstr "マッチ"
+
+msgctxt "UIStringTable/Field_Name"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "UIStringTable/Action_CreateNewItem"
+msgid "New"
+msgstr "新しい"
+
+msgctxt "UIStringTable/Order_Next"
+msgid "Next"
+msgstr "次"
+
+msgctxt "UIStringTable/Status_No"
+msgid "No"
+msgstr "いいえ"
+
+msgctxt "UIStringTable/Status_Off"
+msgid "Off"
+msgstr "オフ"
+
+msgctxt "UIStringTable/Status_Offline"
+msgid "Offline"
+msgstr "オフライン"
+
+msgctxt "UIStringTable/Status_On"
+msgid "On"
+msgstr "オン"
+
+msgctxt "UIStringTable/Status_Online"
+msgid "Online"
+msgstr "オンライン"
+
+msgctxt "UIStringTable/Menu_Options"
+msgid "Options"
+msgstr "オプション"
+
+msgctxt "UIStringTable/ZoomDirection_Out"
+msgid "Out"
+msgstr "アウト"
+
+msgctxt "UIStringTable/Action_PlaceMarker"
+msgid "Place Marker"
+msgstr "マーカーを配置します"
+
+msgctxt "UIStringTable/Action_HostGame"
+msgid "Play"
+msgstr "遊ぶ"
+
+msgctxt "UIStringTable/Order_Previous"
+msgid "Previous"
+msgstr "前の"
+
+msgctxt "UIStringTable/Name_RandomSpawnArea"
+msgid "Random Spawn"
+msgstr "ランダムスポーン"
+
+msgctxt "UIStringTable/Action_Refresh"
+msgid "Refresh"
+msgstr "リフレッシュ"
+
+msgctxt "UIStringTable/Action_Retry"
+msgid "Retry"
+msgstr "リトライ"
+
+msgctxt "UIStringTable/Action_Revert"
+msgid "Revert"
+msgstr "元に戻す"
+
+msgctxt "UIStringTable/Action_RevokeKick"
+msgid "Revoke Ban"
+msgstr "BANを取り消し"
+
+msgctxt "UIStringTable/Direction_Right"
+msgid "Right"
+msgstr "右"
+
+msgctxt "UIStringTable/Action_Save"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "UIStringTable/Action_SaveAs"
+msgid "Save As"
+msgstr "名前を付けて保存"
+
+msgctxt "UIStringTable/Action_Select"
+msgid "Select"
+msgstr "選択"
+
+msgctxt "UIStringTable/Action_ShowPlayerProfile"
+msgid "Show Profile"
+msgstr "プロフィールを表示"
+
+msgctxt "UIStringTable/InputAction_InventorySlot"
+msgid "Slot {0}"
+msgstr "スロット {0}"
+
+msgctxt "UIStringTable/Action_Spawn"
+msgid "Spawn"
+msgstr "スポーン"
+
+msgctxt "UIStringTable/Format_SpawnTimer"
+msgid "Spawn in {0}"
+msgstr "{0}でスポーン"
+
+msgctxt "UIStringTable/Menu_HostGame"
+msgid "Start Game"
+msgstr "ゲームを開始する"
+
+msgctxt "UIStringTable/Action_Subscribe"
+msgid "Subscribe"
+msgstr "サブスクライブ"
+
+msgctxt "UIStringTable/Result_Success"
+msgid "Success"
+msgstr "成功"
+
+msgctxt "UIStringTable/ChatContext_Team"
+msgid "Team"
+msgstr "チーム"
+
+msgctxt "UIStringTable/Menu_Players"
+msgid "Teams and Players"
+msgstr "チームと選手"
+
+msgctxt "UIStringTable/Hint_EnterText"
+msgid "Type something"
+msgstr "何かを入力してください"
+
+msgctxt "UIStringTable/Action_Unfavorite"
+msgid "Unfavorite"
+msgstr "気に入らない"
+
+msgctxt "UIStringTable/Name_Unknown"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "UIStringTable/Action_Unselect"
+msgid "Unselect"
+msgstr "選択を解除"
+
+msgctxt "UIStringTable/Action_Unsubscribe"
+msgid "Unsubscribe"
+msgstr "サブスクを解除"
+
+msgctxt "UIStringTable/Direction_Up"
+msgid "Up"
+msgstr "上"
+
+msgctxt "UIStringTable/SpeedIncrease_Up"
+msgid "Up"
+msgstr "上"
+
+msgctxt "UIStringTable/Action_Update"
+msgid "Update"
+msgstr "アップデート"
+
+msgctxt "UIStringTable/Action_UpdateItem"
+msgid "Update Creation"
+msgstr "制作物の更新"
+
+msgctxt "UIStringTable/Action_UploadItem"
+msgid "Upload New"
+msgstr "新規アップロード"
+
+msgctxt "UIStringTable/Menu_UserInterface"
+msgid "User Interface"
+msgstr "ユーザーインターフェース"
+
+msgctxt "UIStringTable/Menu_Video"
+msgid "Video"
+msgstr "ビデオ"
+
+msgctxt "UIStringTable/Action_ViewInBrowser"
+msgid "View in Browser"
+msgstr "ブラウザーで見る"
+
+msgctxt "UIStringTable/Status_WaitingForHost"
+msgid "Waiting for host"
+msgstr "ホストを待っています"
+
+msgctxt "UIStringTable/Status_Yes"
+msgid "Yes"
+msgstr "はい"
+
+msgctxt "UIStringTable/Format_TeamBaseName"
+msgid "{0} Base"
+msgstr "{0} ベース"
+
+msgctxt "Units/Bricks"
+msgid "{0} Bricks"
+msgstr "{0} Bricks"
+
+msgctxt "Units/VolumeMetric"
+msgid "{0}L"
+msgstr "{0}L"
+
+msgctxt "Units/RPM"
+msgid "{0}RPM"
+msgstr "{0}RPM"
+
+msgctxt "Units/Days"
+msgid "{0}d"
+msgstr "{0}日"
+
+msgctxt "Units/DistanceImperial"
+msgid "{0}ft"
+msgstr "{0}ft"
+
+msgctxt "Units/VolumeImperial"
+msgid "{0}gal"
+msgstr "{0}gal"
+
+msgctxt "Units/Hours"
+msgid "{0}h"
+msgstr "{0}時間"
+
+msgctxt "Units/MassMetric"
+msgid "{0}kg"
+msgstr "{0}kg"
+
+msgctxt "Units/SpeedMetric"
+msgid "{0}kph"
+msgstr "{0}km/h"
+
+msgctxt "Units/MassImperial"
+msgid "{0}lb"
+msgstr "{0}lb"
+
+msgctxt "Units/DistanceMetric"
+msgid "{0}m"
+msgstr "{0}m"
+
+msgctxt "Units/Minutes"
+msgid "{0}m"
+msgstr "{0}分"
+
+msgctxt "Units/SpeedImperial"
+msgid "{0}mph"
+msgstr "{0}mph"
+
+msgctxt "Units/Seconds"
+msgid "{0}s"
+msgstr "{0} 秒"
+
+msgctxt "VehicleCamera/FirstPersonCamera"
+msgid "First Person"
+msgstr "一人称"
+
+msgctxt "VehicleCamera/ThirdPersonCamera"
+msgid "Third Person"
+msgstr "三人称"
+
+msgctxt "VehicleSpawnInvincibility/Invincible"
+msgid "Invincible"
+msgstr "無敵"
+
+msgctxt "VehicleSpawnInvincibility/None"
+msgid "Normal"
+msgstr "通常"
+
+msgctxt "VehicleSpawnInvincibility/Pinned"
+msgid "Pinned"
+msgstr "固定"
+
+msgctxt "WindowMode/WindowedFullscreen"
+msgid "Borderless"
+msgstr "ボーダーレス"
+
+msgctxt "WindowMode/Fullscreen"
+msgid "Fullscreen"
+msgstr "フルスクリーン"
+
+msgctxt "WindowMode/Windowed"
+msgid "Windowed"
+msgstr "ウィンドウ表示"
+
