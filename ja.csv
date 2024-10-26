@@ -1123,7 +1123,7 @@ TransmissionMode/Automatic,Automatic,オートマ
 TransmissionMode/Manual,Manual,マニュアル
 TravelErrors/GenericFailure,"Travel failure",トラベルの失敗
 UGCBrowser/Format_DeleteItemWarning,"You are about to permanently delete ""{0}"", continue?",「{0}」を完全に削除しようとしています。続行しますか?
-UGCDepartmentTag/Civil,Civil,ｒ円が
+UGCDepartmentTag/Civil,Civil,民間
 UGCDepartmentTag/FireDepartment,"Fire Department",消防
 UGCDepartmentTag/Military,Military,軍隊
 UGCDepartmentTag/None,Other,その他
@@ -1215,7 +1215,7 @@ UIStringTable/Action_EditMetaData,"Edit Information",情報の編集
 UIStringTable/Menu_EditorSettings,Editor,エディター
 UIStringTable/Action_EnterEditor,"Enter Editor",エディターに入る
 UIStringTable/Hint_EnterPassword,"Enter password",パスワードを入力してください
-UIStringTable/Name_Error,Error,
+UIStringTable/Name_Error,Error,エラー
 UIStringTable/Action_Exit,Exit,出口
 UIStringTable/Result_Failure,Failure,失敗
 UIStringTable/Action_Favorite,Favorite,お気に入り
