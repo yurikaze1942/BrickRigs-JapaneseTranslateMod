@@ -14,4 +14,10 @@ pakファイルの構造は以下の通りです。
 1. 配布されているファイルを以下のフォルダー内に入れる  
   `C:\Program Files (x86)\Steam\steamapps\common\Brick Rigs\BrickRigs\Content\Paks`  
   **注意: ゲームをデフォルト以外の場所に入れている場合はその場所へ**  
-2. `Option > User Interface > Language`で`ja`に変更  
+2. `Option > User Interface > Language`で`ja`に変更
+  
+## 注意点
+これはMod扱いになるので、マルチでホストをする際に  
+「導入されているModが合わなくても許可する」  
+(Allow Different Mods)  
+を`はい/Yes`にしないと、日本語Modを導入してる人としていない人で一緒にマルチができない
