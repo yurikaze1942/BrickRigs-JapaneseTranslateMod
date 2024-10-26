@@ -65,7 +65,7 @@ key,source,target
 /ED65C7C641DA133CD154D5A4A15C3C7C,Deathmatch,デスマッチ
 /88FCB5E641895208C5E5E0A93149F451,Decoration,装飾
 /6E689B1E4A83AED135EA55B28E696A54,Default,デフォルト
-/4D9D312E4FD03CECF638778CD9FD44E4,Delete,ｓ
+/4D9D312E4FD03CECF638778CD9FD44E4,Delete,削除
 /7F4196B1478841FD6593D09CF946D1A1,"Delete all empty vehicles from the world",世界中から空の車両をすべて削除する
 /19E240A7453BA268A972628C2C5C9F70,"Delete all vehicles from the world",世界からすべての車両を削除する
 /BD7CEB3449FEEB207DC48191DE6098C2,"Delete your current Bob from the world",現在のボブを世界から削除します
