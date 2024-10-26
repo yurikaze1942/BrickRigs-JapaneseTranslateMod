@@ -17,11 +17,11 @@ msgstr "アクチュエーター"
 
 msgctxt "/171FA1BF4DFFA500C5EE0B89B41F7CD4"
 msgid "Add to Selection"
-msgstr "選択に追加"
+msgstr "選択を追加"
 
 msgctxt "/2923834D4E2D5509AF8C3D88F92B2E66"
 msgid "Admin access granted"
-msgstr "管理者アクセスが許可されました"
+msgstr "管理者権限の付与"
 
 msgctxt "/06CEDF124D1BC4BE740514BC4DB84AF9"
 msgid "Aim"
