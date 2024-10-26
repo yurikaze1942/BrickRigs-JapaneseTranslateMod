@@ -65,7 +65,7 @@ key,source,target
 /ED65C7C641DA133CD154D5A4A15C3C7C,Deathmatch,デスマッチ
 /88FCB5E641895208C5E5E0A93149F451,Decoration,装飾
 /6E689B1E4A83AED135EA55B28E696A54,Default,デフォルト
-/4D9D312E4FD03CECF638778CD9FD44E4,Delete,消去
+/4D9D312E4FD03CECF638778CD9FD44E4,Delete,ｓ
 /7F4196B1478841FD6593D09CF946D1A1,"Delete all empty vehicles from the world",世界中から空の車両をすべて削除する
 /19E240A7453BA268A972628C2C5C9F70,"Delete all vehicles from the world",世界からすべての車両を削除する
 /BD7CEB3449FEEB207DC48191DE6098C2,"Delete your current Bob from the world",現在のボブを世界から削除します
@@ -84,7 +84,7 @@ key,source,target
 /6E3C4E1048371137B19FB18BD66D1992,Dummies,ダミー
 /FAF217394354684C2846ECB2915A6CB3,Duplicate,重複
 /8604442C4729653457FAEA8AC1267030,"Duplicate Mirrored",複製ミラーリング
-/B1BE41F24545E9EB5BA3B29A750DF3B1,"Edit or Revoke Ban",禁止を編集または取り消す
+/B1BE41F24545E9EB5BA3B29A750DF3B1,"Edit or Revoke Ban",BANを編集または取り消す
 /7073B8A14922BAA4A42A888675DBF5F2,"Edit title, description etc.",タイトルや説明などを編集します。
 /12C59E454719E6E9C9DEBD9FD811518C,Editor,エディターで開く
 /2B42C8A24A634E56831CFABB55A1644F,"Electric Motor",電動モーター
@@ -291,7 +291,7 @@ key,source,target
 /D8C4A6E347A76DD352CA9194C878B691,"Save video settings?",ビデオ設定を保存しますか?
 /DAE8E30048452542407108AF1F7505DB,Saved,保存されました
 /328DE4A24C874F5650591D9A2ABE7911,"Saving failed",保存に失敗しました
-/446319C145E3635E9F9F6F8A50E3F870,Scalables,スケーラブル
+/446319C145E3635E9F9F6F8A50E3F870,Scalables,サイズ調整可能
 /235741624E396D8DD2825EB7D4329E4A,Scoreboard,スコアボード
 /200E7AFB4134762554553AA14C37AC80,"Second interaction key","2 番目のインタラクション キー"
 /E41DA3EA446E258D332856B30A9984EE,Secondary,サブスロット
@@ -664,7 +664,7 @@ Bricks/Redirector,Redirector,リダイレクタ
 Bricks/SeatDescription,"Required for players to sit in",プレイヤーが座るには必須
 Bricks/Rod,Rod,ロッド
 Bricks/Rotor,Rotor,ローター
-Bricks/Scalable,"Scalable Brick",スケーラブルなブリック
+Bricks/Scalable,"Scalable Brick",サイズ調整可能なブリック
 Bricks/Seat,Seat,シート
 Bricks/SemiAutoFireMode,"Semi Automatic",半自動
 Bricks/Sensor,Sensor,センサー
@@ -693,11 +693,11 @@ CameraMode/Velocity,Default,デフォルト
 CameraMode/Global,Global,グローバル
 CameraMode/Local,Local,ローカル
 CameraMode/Orbital,Orbital,オービタル
-Chat/PlayerUnbannedFormat,"Player {0} has been unbanned from the server.","プレーヤー {0} はサーバーからの禁止を解除されました。"
+Chat/PlayerUnbannedFormat,"Player {0} has been unbanned from the server.","プレイヤー {0} はサーバーからBANを解除されました"
 Chat/PlayerJoinedFormat,"Player {0} joined the server.","プレーヤー {0} がサーバーに参加しました。"
 Chat/PlayerLeftFormat,"Player {0} left the server.","プレーヤー {0} がサーバーから離れました。"
-Chat/PlayerJoinBannedFormat,"Player {0} tried to join but has an active ban.","プレーヤー {0} は参加しようとしましたが、アクティブな禁止を受けています。"
-Chat/PlayerKickedFormat,"Player {0} was banned from the server.","プレーヤー {0} はサーバーから禁止されました。"
+Chat/PlayerJoinBannedFormat,"Player {0} tried to join but has an active ban.","プレーヤー {0} は参加しようとしましたが、このサーバーからBANされています。"
+Chat/PlayerKickedFormat,"Player {0} was banned from the server.","プレーヤー {0} はサーバーからBANされました。"
 Chat/MatchSettingsChangedFormat,"{0} changed the match settings.","{0} が試合設定を変更しました。"
 Chat/PlayerDiedFormat,"{0} has died.",{0}が亡くなりました。
 Chat/VehicleSpawnFailureFormat,"{Player} failed to spawn vehicle ""{Vehicle}"".","{Player} は車両「{Vehicle}」を生成できませんでした。"
