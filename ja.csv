@@ -1023,7 +1023,7 @@ SensorType/Speed,Speed,スピード
 SensorType/Time,Time,時間
 SensorType/Yaw,Yaw,ヨー
 Settings/bAllowDifferentMods,"Allow Different Mods",導入されているModが合わなくても許可する
-Settings/EditorGridSnappingAngleDesc,"Angle to which bricks snap when rotated",導入されているModが合わなくても許可する
+Settings/EditorGridSnappingAngleDesc,"Angle to which bricks snap when rotated",Brickを回転させたときにスナップする角度
 Settings/AAQuality,"Anti Aliasing",アンチエイリアシング
 Settings/AntiAliasingMethod,"Anti Aliasing Method",アンチエイリアス方式
 Settings/ApplyMatchSettings,"Apply Settings to current Match",現在のマッチに設定を適用する
