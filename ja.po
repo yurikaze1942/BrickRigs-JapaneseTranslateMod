@@ -11,10 +11,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.5\n"
 
-msgctxt "key"
-msgid "source"
-msgstr "target"
-
 msgctxt "/3F311538455E862A56A29B9BF4659409"
 msgid "Actuators"
 msgstr "アクチュエーター"
@@ -217,7 +213,7 @@ msgstr "一般"
 
 msgctxt "/89307B4B4EF8900B1E314D845881678A"
 msgid "Communicate with mutual respect and do not share personal information!"
-msgstr "相互尊重を持ってコミュニケーションをとり、個人情報を共有しないでください。"
+msgstr "相互尊重を持ってコミュニケーションをとり、個人情報を共有しないでください！"
 
 msgctxt "/3D4F84A34FD91923BE78A5BA8320D858"
 msgid "Conquest"
@@ -1281,11 +1277,11 @@ msgstr "値による選択"
 
 msgctxt "/5C6293644EBBE5C27EAC19B7DA313855"
 msgid "Select the next fire action, allows using the primary fire action instead of actions 1-8"
-msgstr "次の発射アクションを選択します。アクション 1 ～ 8 の代わりに主な発射アクションを使用できます。"
+msgstr "次の発射アクションを選択します。アクション 1 ～ 8 の代わりに主な発射アクションを使用できます"
 
 msgctxt "/602F93A24C46938BE037778274C5E066"
 msgid "Select the previous fire action, allows using the primary fire action instead of actions 1-8"
-msgstr "前の射撃アクションを選択すると、アクション 1 ～ 8 の代わりに主な射撃アクションを使用できます。"
+msgstr "前の射撃アクションを選択すると、アクション 1 ～ 8 の代わりに主な射撃アクションを使用できます"
 
 msgctxt "/0196BF234EB36B3855CC898AED80E225"
 msgid "Selection"
@@ -1537,7 +1533,7 @@ msgstr "ライトの切り替え"
 
 msgctxt "/440677704C380B54F92560AF497576B3"
 msgid "Toggle operation (or alt) mode, some vehicles use this for additional input"
-msgstr "操作 (または alt) モードを切り替えます。一部の車両は追加の入力にこれを使用します。"
+msgstr "操作 (または alt) モードを切り替えます。一部の車両は追加の入力にこれを使用します"
 
 msgctxt "/C510F37241D61E2D56EBB880B1CD77B4"
 msgid "Toggle warning/hazard lights"
@@ -1613,7 +1609,7 @@ msgstr "新しい作品をワークショップにアップロードするか、
 
 msgctxt "/219A4A374A78CFF3AB81BAA9164F699C"
 msgid "Used for aircraft pitch input for example"
-msgstr "航空機のピッチ入力などに使用されます。"
+msgstr "航空機のピッチ入力などに使用されます"
 
 msgctxt "/01127E0C48967E5355D53393926454F0"
 msgid "Used for aircraft yaw input for example"
@@ -1985,7 +1981,7 @@ msgstr "設定すると、この座席からのみカメラを使用できます
 
 msgctxt "BrickProperties/InputChannelDesc"
 msgid "If this channel is enabled, it will drive the switch value instead of interaction"
-msgstr "このチャネルが有効な場合、インタラクションの代わりにスイッチ値を駆動します。"
+msgstr "このチャネルが有効な場合、インタラクションの代わりにスイッチ値を駆動します"
 
 msgctxt "BrickProperties/Image"
 msgid "Image"
@@ -2045,7 +2041,7 @@ msgstr "光の方向"
 
 msgctxt "BrickProperties/VotesUp"
 msgid "Likes"
-msgstr "いいね！"
+msgstr "いいね"
 
 msgctxt "BrickProperties/ActuatorLimitsCategory"
 msgid "Limits"
@@ -2253,15 +2249,15 @@ msgstr "文字の色"
 
 msgctxt "BrickProperties/AutoHoverInputChannelDesc"
 msgid "The engine will try to keep the helicopter level while this channel is > 0.5"
-msgstr "このチャンネルが 0.5 以上である間、エンジンはヘリコプターを水平に保とうとします。"
+msgstr "このチャンネルが 0.5 以上である間、エンジンはヘリコプターを水平に保とうとします"
 
 msgctxt "BrickProperties/EnabledInputChannelDesc"
 msgid "The sensor will update its output value while this channel is > 0.5"
-msgstr "このチャンネルが 0.5 以上である間、センサーは出力値を更新します。"
+msgstr "このチャンネルが 0.5 以上である間、センサーは出力値を更新します"
 
 msgctxt "BrickProperties/OutputChannelChildrenDesc"
 msgid "This cannot be modified! Lists other bricks which have an input channel referencing this brick"
-msgstr "これは変更できません。このブリックを参照する入力チャネルを持つ他のブリックをリストします。"
+msgstr "これは変更できません。このブリックを参照する入力チャネルを持つ他のブリックをリストします"
 
 msgctxt "BrickProperties/ThrottleInputChannel"
 msgid "Throttle Input"
@@ -2481,7 +2477,7 @@ msgstr "カスタマイズ可能なテキストを表示します"
 
 msgctxt "Bricks/DisplayDescription"
 msgid "Displays the value of an output channel"
-msgstr "出力チャンネルの値を表示します。"
+msgstr "出力チャンネルの値を表示します"
 
 msgctxt "Bricks/MathBrickDescription"
 msgid "Does mathematical operations on one or two inputs"
@@ -2553,7 +2549,7 @@ msgstr "高速回転時に推力を発生し、車軸に取り付けられ、モ
 
 msgctxt "Bricks/TargetMarkerDescription"
 msgid "Gives a 360� field of vision and shows the predicted impact points of guns"
-msgstr "360 度の視野を提供し、銃の予測着弾点を表示します。"
+msgstr "360 度の視野を提供し、銃の予測着弾点を表示します"
 
 msgctxt "Bricks/LightDescription"
 msgid "Glows and emits light"
@@ -2613,7 +2609,7 @@ msgstr "数学ブロック"
 
 msgctxt "Bricks/SensorDescription"
 msgid "Measures various metrics and outputs them to custom input channels"
-msgstr "さまざまなメトリクスを測定し、カスタム入力チャンネルに出力します。"
+msgstr "さまざまなメトリクスを測定し、カスタム入力チャンネルに出力します"
 
 msgctxt "Bricks/Motor"
 msgid "Motor"
@@ -2629,7 +2625,7 @@ msgstr "特別な動作はありません"
 
 msgctxt "Bricks/TrackWheelDescription"
 msgid "Place multiple idler wheels and a single sprocket wheel. Then select the idler wheels on the sprocket to wrap a track around them"
-msgstr "複数のアイドラー ホイールと 1 つのスプロケット ホイールを配置します。次に、スプ​​ロケット上のアイドラー ホイールを選択して、その周りにトラックを巻き付けます。"
+msgstr "複数のアイドラー ホイールと 1 つのスプロケット ホイールを配置します。次に、スプ​​ロケット上のアイドラー ホイールを選択して、その周りにトラックを巻き付けます"
 
 msgctxt "Bricks/SwitchDescription"
 msgid "Players can walk up to switches to press them"
@@ -2793,7 +2789,7 @@ msgstr "オービタル"
 
 msgctxt "Chat/PlayerUnbannedFormat"
 msgid "Player {0} has been unbanned from the server."
-msgstr "プレイヤー {0} はサーバーからBANを解除されました"
+msgstr "プレイヤー {0} はサーバーからBANを解除されました。"
 
 msgctxt "Chat/PlayerJoinedFormat"
 msgid "Player {0} joined the server."
@@ -2829,7 +2825,7 @@ msgstr "{Player} は「{Vehicle}」をスポーンしようとしています。
 
 msgctxt "Chat/VehicleSpawnSuccessFormat"
 msgid "{Player} spawned vehicle \"{Vehicle}\" with {BrickCount} bricks."
-msgstr "{Player} は「{Vehicle}」をスポーンしようとしています。"
+msgstr "{Player} は {BrickCount} bricksの「{Vehicle}」をスポーンしようとしています。"
 
 msgctxt "Chat/PlayerKilledByFormat"
 msgid "{Victim} was eliminated by {Killer}."
@@ -3041,7 +3037,7 @@ msgstr "プレーヤー「{0}」は名前を「{1}」に変更しました。"
 
 msgctxt "EngineMessage/SpecEnteredFormat"
 msgid "Player \"{0}\" is now spectating,"
-msgstr "プレーヤー「{0}」は現在観戦中です。"
+msgstr "プレーヤー「{0}」は現在観戦中です、"
 
 msgctxt "EngineMessage/EnteredFormat"
 msgid "Player \"{0}\" joined the server!"
@@ -3049,7 +3045,7 @@ msgstr "プレーヤー「{0}」がサーバーに参加しました!"
 
 msgctxt "EngineMessage/LeftFormat"
 msgid "Player \"{0}\" left the server!"
-msgstr "プレーヤー「{0}」がサーバーから離脱しました。"
+msgstr "プレーヤー「{0}」がサーバーから離脱しました！"
 
 msgctxt "FireModes/Auto"
 msgid "Auto"
@@ -3429,7 +3425,7 @@ msgstr "武器を許可する"
 
 msgctxt "MatchSettings/SunAngleDesc"
 msgid "Angle of the sun orbit to the vertical axis, at 0 degrees the sun will pass through the zenith"
-msgstr "垂直軸に対する太陽の軌道の角度。0 度で太陽は天頂を通過します。"
+msgstr "垂直軸に対する太陽の軌道の角度。0 度で太陽は天頂を通過します"
 
 msgctxt "MatchSettings/AtmosphereDensity"
 msgid "Atmosphere"
@@ -3449,7 +3445,7 @@ msgstr "日の長さ"
 
 msgctxt "MatchSettings/VehicleFilterDesc"
 msgid "Determines what type of vehicles are allowed to be spawned. Avoid disabling this as it might allow other players to spawn overpowered or exploitative creations"
-msgstr "どのタイプの車両を生成できるかを決定します。他のプレイヤーが強力な作品や搾取的な作品を生み出す可能性があるため、これを無効にしないでください。"
+msgstr "どのタイプの車両を生成できるかを決定します。他のプレイヤーが強力な作品や搾取的な作品を生み出す可能性があるため、これを無効にしないでください"
 
 msgctxt "MatchSettings/VehicleRemovalDelayDesc"
 msgid "Empty vehicles are despawned automatically after this amount of time. Try to keep this below {0}"
@@ -3697,7 +3693,7 @@ msgstr "定義されたホワイトリストにある車両のみが生成され
 
 msgctxt "MatchVehicleFilter/PublicOnlineDesc"
 msgid "Only vehicles, which have been uploaded to the Workshop and set to public, are allowed to be spawned"
-msgstr "ワークショップにアップロードされ公開設定されている車両のみがスポーンできます。"
+msgstr "ワークショップにアップロードされ公開設定されている車両のみがスポーンできます"
 
 msgctxt "MatchVehicleFilter/PublicOnline"
 msgid "Public Workshop Only"
@@ -4161,7 +4157,7 @@ msgstr "エフェクト"
 
 msgctxt "Settings/AntiAliasingMethodDesc"
 msgid "FXAA is recommended for the best experience, TAA looks good on screenshots but causes ghosting and blurryness"
-msgstr "最高のエクスペリエンスを得るには FXAA をお勧めします。TAA はスクリーンショットではきれいに見えますが、ゴーストやぼやけが発生します。"
+msgstr "最高のエクスペリエンスを得るには FXAA をお勧めします。TAA はスクリーンショットではきれいに見えますが、ゴーストやぼやけが発生します"
 
 msgctxt "Settings/FieldOfView"
 msgid "Field of View"
@@ -4397,7 +4393,7 @@ msgstr "ワールド座標系"
 
 msgctxt "Settings/HUDVisibilityDesc"
 msgid "You can hide the HUD partially or fully if you want more immersion or to capture videos"
-msgstr "より没入感を高めたい場合やビデオをキャプチャしたい場合は、HUD を部分的または完全に非表示にすることができます。"
+msgstr "より没入感を高めたい場合やビデオをキャプチャしたい場合は、HUD を部分的または完全に非表示にすることができます"
 
 msgctxt "SimpleUGCPackager/SimpleUGCEditor_PackagePluginTaskName"
 msgid "Packaging {0}"
@@ -4977,11 +4973,11 @@ msgstr "好き"
 
 msgctxt "UIStringTable/Field_Upvotes"
 msgid "Likes"
-msgstr "いいね！"
+msgstr "いいね数"
 
 msgctxt "UIStringTable/Name_NumUpvotes"
 msgid "Likes"
-msgstr "いいね！"
+msgstr "いいね数"
 
 msgctxt "UIStringTable/Name_LoadoutContainer"
 msgid "Loadout"
@@ -5274,4 +5270,3 @@ msgstr "フルスクリーン"
 msgctxt "WindowMode/Windowed"
 msgid "Windowed"
 msgstr "ウィンドウ表示"
-
