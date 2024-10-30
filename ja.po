@@ -1181,7 +1181,7 @@ msgstr "保存に失敗しました"
 
 msgctxt "/446319C145E3635E9F9F6F8A50E3F870"
 msgid "Scalables"
-msgstr "サイズ調整可能"
+msgstr "スケアブル"
 
 msgctxt "/235741624E396D8DD2825EB7D4329E4A"
 msgid "Scoreboard"
@@ -2673,7 +2673,7 @@ msgstr "ローター"
 
 msgctxt "Bricks/Scalable"
 msgid "Scalable Brick"
-msgstr "サイズ調整可能なブリック"
+msgstr "スケアブルブリック"
 
 msgctxt "Bricks/Seat"
 msgid "Seat"
