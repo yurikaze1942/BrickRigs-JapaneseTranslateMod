@@ -149,7 +149,7 @@ msgstr "サムネイルのキャプチャ"
 
 msgctxt "/76EDB7454F8A5CCA2D96B4805D1F85B6"
 msgid "Capture Vehicle Thumbnail"
-msgstr "車両のサムネイルをキャプチャする"
+msgstr "乗り物のサムネイルをキャプチャする"
 
 msgctxt "/74D28A1F4074D7F2C8D9D7A45F4C2842"
 msgid "Capture a new thumbnail from the current perspective"
@@ -281,11 +281,11 @@ msgstr "削除"
 
 msgctxt "/7F4196B1478841FD6593D09CF946D1A1"
 msgid "Delete all empty vehicles from the world"
-msgstr "世界中から空の車両をすべて削除する"
+msgstr "世界中から空の乗り物をすべて削除する"
 
 msgctxt "/19E240A7453BA268A972628C2C5C9F70"
 msgid "Delete all vehicles from the world"
-msgstr "世界からすべての車両を削除する"
+msgstr "世界からすべての乗り物を削除する"
 
 msgctxt "/BD7CEB3449FEEB207DC48191DE6098C2"
 msgid "Delete your current Bob from the world"
@@ -293,7 +293,7 @@ msgstr "現在のボブを世界から削除します"
 
 msgctxt "/5F3DD8EA4717954FC6EC60A49518CCAE"
 msgid "Delete your current vehicle from the world"
-msgstr "現在の車両を世界から削除します"
+msgstr "現在の乗り物を世界から削除します"
 
 msgctxt "/7B0673F040821907F16141A6E8889E2F"
 msgid "Desert"
@@ -389,11 +389,11 @@ msgstr "管理者パスワードを入力してください"
 
 msgctxt "/AD457A3947895A10374B8CBC7BDA3D05"
 msgid "Enter or exit free camera (allows you to fly around and place vehicles or dummies)"
-msgstr "フリーカメラの出入り（飛び回ったり、車両やダミーを配置したりできます）"
+msgstr "フリーカメラの出入り（飛び回ったり、乗り物やダミーを配置したりできます）"
 
 msgctxt "/E190B0FD43ECE3AB1D6F058013C75048"
 msgid "Enter the vehicle editor to build or modify vehicles"
-msgstr "車両エディターに入って車両を構築または変更します"
+msgstr "乗り物エディターに入って乗り物を作成, 改造します"
 
 msgctxt "/EDE4739A4033EC2E0027B183F1244BA3"
 msgid "Equip the next explosive item"
@@ -429,7 +429,7 @@ msgstr "エディターを終了する"
 
 msgctxt "/A824E5BD4D4D0F1BD250FD8BBA0761B3"
 msgid "Exit Vehicle"
-msgstr "車両の出口"
+msgstr "乗り物から出る"
 
 msgctxt "/EC6A221E4451AE08F7465D8AA6801AB2"
 msgid "Exit the current match?"
@@ -437,23 +437,23 @@ msgstr "現在の試合を終了しますか?"
 
 msgctxt "/A72A6D584316D547847AB68BEF28B95B"
 msgid "Exit the editor with the currently opened vehicle"
-msgstr "現在開いている車両を使用してエディタを終了します"
+msgstr "現在開いている乗り物を使用してエディタを終了します"
 
 msgctxt "/3CA917C44D3AC0A86D90899016CD430F"
 msgid "Exit the editor without a vehicle"
-msgstr "車を持たずにエディターを終了する"
+msgstr "乗り物無しでエディターを終了します"
 
 msgctxt "/321E72A74944F85F3C0723BD859BF9A5"
 msgid "Exit with Vehicle"
-msgstr "車で出る"
+msgstr "乗り物に乗って出る"
 
 msgctxt "/FB0E770245A942262A5F05BE05AC7F00"
 msgid "Explode Vehicle"
-msgstr "車両を爆発させる"
+msgstr "乗り物を爆発させる"
 
 msgctxt "/275BCC014327FAFAFD9A3688ADC08EE8"
 msgid "Explode your current vehicle into pieces"
-msgstr "現在の車両を粉々に分解します"
+msgstr "現在の乗り物を粉々に分解します"
 
 msgctxt "/7DDAB57F4F6060BCCD5BD8A67E20E6B9"
 msgid "Explosive Grenade"
@@ -789,7 +789,7 @@ msgstr "次のスロット"
 
 msgctxt "/B44C36B749605CCECC410CB0CB2C175E"
 msgid "Next Vehicle"
-msgstr "次の車両"
+msgstr "次の乗り物"
 
 msgctxt "/A1CD481B48AC163A5B782C9A873C90A9"
 msgid "Nitro"
@@ -845,7 +845,7 @@ msgstr "トップダウンマップ画面の開閉"
 
 msgctxt "/9833CEAD429AA7DADDB01AAF96B62CA2"
 msgid "Open the vehicle browser to spawn or replace a vehicle"
-msgstr "車両ブラウザを開いて車両を生成または置き換えます"
+msgstr "乗り物ブラウザを開いて乗り物を生成または置き換えます"
 
 msgctxt "/5BE2A7FB4AB0BC8EC3FA819E75B71396"
 msgid "Operation Mode"
@@ -909,7 +909,7 @@ msgstr "ピンビークル"
 
 msgctxt "/398EA83D41DAFBE7D49B198E1C340C30"
 msgid "Pin the main part of the vehicle"
-msgstr "車両の主要部分をピンで固定します"
+msgstr "乗り物の主要部分をピンで固定します"
 
 msgctxt "/2FF4748346AD3E12B0406E8703E46714"
 msgid "Pine"
@@ -973,7 +973,7 @@ msgstr "前のスロット"
 
 msgctxt "/6BD65FDB4C53B2454FC4FBB61BFFCEAE"
 msgid "Previous Vehicle"
-msgstr "前の車両"
+msgstr "前の乗り物"
 
 msgctxt "/50BF9AB44F682ED1E1F4BFA3D61816D7"
 msgid "Primary"
@@ -1041,7 +1041,7 @@ msgstr "現在の銃をリロードする"
 
 msgctxt "/FC84076E4335582F18BC81B427B27D8E"
 msgid "Remove All Vehicles"
-msgstr "すべての車両を削除する"
+msgstr "すべての乗り物を削除する"
 
 msgctxt "/473464A24D51279899F640B0E7A9F731"
 msgid "Remove Bob"
@@ -1053,11 +1053,11 @@ msgstr "ダミーを削除"
 
 msgctxt "/C1418F414BB8C65B7250CCB6E286E5DA"
 msgid "Remove Empty Vehicles"
-msgstr "空車の撤去"
+msgstr "何も乗っていない乗り物の撤去"
 
 msgctxt "/FD239AC146CEF48253762EAA1C1FCEC6"
 msgid "Remove Vehicle"
-msgstr "車両の削除"
+msgstr "乗り物の削除"
 
 msgctxt "/BA2D663A476A4AC89EE08A8E449D189F"
 msgid "Remove all dummies in the world"
@@ -1069,7 +1069,7 @@ msgstr "バインディングを削除する"
 
 msgctxt "/4D5F74564A5354C5D19897B788DEE6D2"
 msgid "Replace Vehicle"
-msgstr "車両を交換する"
+msgstr "乗り物を交換する"
 
 msgctxt "/8E77657648B00B76A3DBC280B95C113B"
 msgid "Reset Pan and Zoom"
@@ -1101,7 +1101,7 @@ msgstr "世界中のすべてのダミーを復活させます"
 
 msgctxt "/069CAAD947412FBE5739EFAC179D6008"
 msgid "Revive yourself and repair your vehicle at the current location"
-msgstr "自分自身を復活させ、現在の場所で車を修理します"
+msgstr "プレイヤーと乗り物をその場で復活させます"
 
 msgctxt "/0A65F9F14ED9B6B2E03FA58552A91E24"
 msgid "Robbers"
@@ -1161,7 +1161,7 @@ msgstr "名前を付けて保存"
 
 msgctxt "/A4A42DA74BD7676C13983FABF1AEFAD6"
 msgid "Save a screenshot as the thumbnail for your current vehicle"
-msgstr "スクリーンショットを現在の車両のサムネイルとして保存します"
+msgstr "スクリーンショットを現在の乗り物のサムネイルとして保存します"
 
 msgctxt "/440023034B95CF0B6160A581BBB91DDD"
 msgid "Save new"
@@ -1345,19 +1345,19 @@ msgstr "宇宙"
 
 msgctxt "/702D16514A6DC809F59E8797D4D7A8FA"
 msgid "Spawn Dummy"
-msgstr "スポーンダミー"
+msgstr "ダミーを生成"
 
 msgctxt "/16C3BF704313360193FF53A7D4B3BB57"
 msgid "Spawn Mode"
-msgstr "スポーンモード"
+msgstr "生成モード"
 
 msgctxt "/184D834047DC0F8AD3D7EEA50C362410"
 msgid "Spawn Vehicle"
-msgstr "スポーン車両"
+msgstr "乗り物を生成"
 
 msgctxt "/EFD74D01485984DB56B47B94120314BC"
 msgid "Spawn Vehicle"
-msgstr "スポーン車両"
+msgstr "乗り物を生成"
 
 msgctxt "/83B258404E1FD4903D593F9847F7A0A7"
 msgid "Spawn a new dummy in free cam"
@@ -1441,19 +1441,19 @@ msgstr "テレポートプレイヤー"
 
 msgctxt "/8CD0F82A46A20E39156527896B947206"
 msgid "Teleport the player and their vehicle in front of the camera"
-msgstr "プレイヤーとその車両をカメラの前にテレポートします"
+msgstr "プレイヤーと乗り物をカメラの前にテレポートします"
 
 msgctxt "/C98005A149654728FD54F8933F304746"
 msgid "Teleport to the next vehicle with a vacant seat"
-msgstr "空席のある次の車両にテレポートします"
+msgstr "空席のある次の乗り物にテレポートします"
 
 msgctxt "/0D3B083D41DAF8AAAE264C9DE3C75092"
 msgid "Teleport to the previous vehicle with a vacant seat"
-msgstr "空席のある前の車両にテレポート"
+msgstr "空席のある前の乗り物にテレポート"
 
 msgctxt "/3A643C9342126E74CC4C4A95BF8908ED"
 msgid "Teleport youself and your vehicle to the nearest garage"
-msgstr "あなた自身とあなたの車を最寄りのガレージにテレポートします"
+msgstr "あなた自身とあなたの乗り物を最寄りのガレージにテレポートします"
 
 msgctxt "/647780E14379426009A98AA64C089056"
 msgid "Tertiary"
@@ -1533,7 +1533,7 @@ msgstr "ライトの切り替え"
 
 msgctxt "/440677704C380B54F92560AF497576B3"
 msgid "Toggle operation (or alt) mode, some vehicles use this for additional input"
-msgstr "操作 (または alt) モードを切り替えます。一部の車両は追加の入力にこれを使用します"
+msgstr "操作 (または alt) モードを切り替えます。一部の乗り物は追加の入力にこれを使用します"
 
 msgctxt "/C510F37241D61E2D56EBB880B1CD77B4"
 msgid "Toggle warning/hazard lights"
@@ -1545,7 +1545,7 @@ msgstr "ボブの無敵状態を切り替える"
 
 msgctxt "/3794F3F54192512E14793D88A0607883"
 msgid "Toggle your vehicle invincibility state"
-msgstr "車両の無敵状態を切り替える"
+msgstr "乗り物の無敵状態を切り替える"
 
 msgctxt "/D0C596B445D63EA7A24B7A85A6D3A619"
 msgid "Tools"
@@ -1625,11 +1625,11 @@ msgstr "ユーザーインターフェース"
 
 msgctxt "/8644856E4FDCB9BD360AEDA0F142B901"
 msgid "Vehicle"
-msgstr "車両"
+msgstr "乗り物"
 
 msgctxt "/AF25AD9C4B6FDF8B01DBB8A479517E35"
 msgid "Vehicle"
-msgstr "車両"
+msgstr "乗り物"
 
 msgctxt "/39A3D4704B0E8EC8B66993919C80475A"
 msgid "Vehicle Advanced"
@@ -1637,11 +1637,11 @@ msgstr "ビークルアドバンスト"
 
 msgctxt "/57BF4285419FCE95C6439DB72EC71127"
 msgid "Vehicle Editor"
-msgstr "車両エディター"
+msgstr "乗り物エディター"
 
 msgctxt "/86290D90480C769C0C084290B75424EE"
 msgid "Vehicle Invincible"
-msgstr "車両無敵"
+msgstr "乗り物の無敵化"
 
 msgctxt "/22EC823F4C55693BB9AB758072233480"
 msgid "Version {0}"
@@ -1657,7 +1657,7 @@ msgstr "ビューモード"
 
 msgctxt "/8278BA21416CACE78F6EDEBF13227F10"
 msgid "View Vehicle in Workshop"
-msgstr "ワークショップで車両を見る"
+msgstr "ワークショップで乗り物を見る"
 
 msgctxt "/530DF77E41FE684A26ED06B595EFD045"
 msgid "Walk"
@@ -2365,7 +2365,7 @@ msgstr "アクチュエーター"
 
 msgctxt "Bricks/ReceiverDescription"
 msgid "Allows controlling parts of the vehicle that are not connected to the driver seat"
-msgstr "運転席に接続されていない車両の部分を制御できるようにします"
+msgstr "運転席に接続されていない乗り物の部分を制御できるようにします"
 
 msgctxt "Bricks/Antenna"
 msgid "Antenna"
@@ -2433,7 +2433,7 @@ msgstr "カスタムホイールやその他のスピニーなものを構築す
 
 msgctxt "Bricks/FlapDescription"
 msgid "Can be used to steer vehicles in air or water"
-msgstr "空中または水中で車両を操縦するために使用可能"
+msgstr "空中または水中で乗り物を操縦するために使用可能"
 
 msgctxt "Bricks/TurbineDescription"
 msgid "Combine this engine with a rotor and blades to build a helicopter"
@@ -2817,7 +2817,7 @@ msgstr "{0}が亡くなりました。"
 
 msgctxt "Chat/VehicleSpawnFailureFormat"
 msgid "{Player} failed to spawn vehicle \"{Vehicle}\"."
-msgstr "{Player} は車両「{Vehicle}」を生成できませんでした。"
+msgstr "{Player} は乗り物「{Vehicle}」を生成できませんでした。"
 
 msgctxt "Chat/VehicleSpawnStartFormat"
 msgid "{Player} is trying to spawn \"{Vehicle}\"."
@@ -3245,7 +3245,7 @@ msgstr "操作する"
 
 msgctxt "Interaction/ScrapVehicle"
 msgid "Remove Vehicle"
-msgstr "車両の削除"
+msgstr "乗り物の削除"
 
 msgctxt "Interaction/AccessInventoryFormat"
 msgid "Search {0}"
@@ -3253,11 +3253,11 @@ msgstr "{0}を検索"
 
 msgctxt "Interaction/Spawn"
 msgid "Spawn"
-msgstr "スポーン"
+msgstr "生成"
 
 msgctxt "Interaction/SpawnVehicle"
 msgid "Spawn Vehicle"
-msgstr "スポーン車両"
+msgstr "乗り物を生成"
 
 msgctxt "Interaction/SpawnTimerFormat"
 msgid "Spawn in {0}"
@@ -3305,7 +3305,7 @@ msgstr "スロット {0}"
 
 msgctxt "Inventory/VehicleInventory"
 msgid "Vehicle"
-msgstr "車両"
+msgstr "乗り物"
 
 msgctxt "ItemNames/Name_AmmoBox"
 msgid "Ammo Box"
@@ -3397,7 +3397,7 @@ msgstr "建物の損傷を許可する"
 
 msgctxt "MatchSettings/bAllowEnterVehicleWithoutSeat"
 msgid "Allow Entering Vehicles without Seats"
-msgstr "座席のない車両の入場を許可する"
+msgstr "座席のない乗り物の入場を許可する"
 
 msgctxt "MatchSettings/bAllowExplosions"
 msgid "Allow Explosions"
@@ -3413,7 +3413,7 @@ msgstr "無敵を許可する"
 
 msgctxt "MatchSettings/bAllowRemoveVehicleFromOtherPlayer"
 msgid "Allow Removing Vehicles from other Players"
-msgstr "他のプレイヤーからの車両の撤去を許可する"
+msgstr "他のプレイヤーからの乗り物の撤去を許可する"
 
 msgctxt "MatchSettings/bAllowSpawnAnywhere"
 msgid "Allow Respawn Anywhere"
@@ -3445,15 +3445,15 @@ msgstr "日の長さ"
 
 msgctxt "MatchSettings/VehicleFilterDesc"
 msgid "Determines what type of vehicles are allowed to be spawned. Avoid disabling this as it might allow other players to spawn overpowered or exploitative creations"
-msgstr "どのタイプの車両を生成できるかを決定します。他のプレイヤーが強力な作品や搾取的な作品を生み出す可能性があるため、これを無効にしないでください"
+msgstr "どのタイプの乗り物を生成できるかを決定します。他のプレイヤーが強力な作品や搾取的な作品を生み出す可能性があるため、これを無効にしないでください"
 
 msgctxt "MatchSettings/VehicleRemovalDelayDesc"
 msgid "Empty vehicles are despawned automatically after this amount of time. Try to keep this below {0}"
-msgstr "この時間が経過すると、空の車両は自動的にデスポーンされます。これを {0} 未満に保つようにしてください"
+msgstr "この時間が経過すると、空の乗り物は自動的にデスポーンされます。これを {0} 未満に保つようにしてください"
 
 msgctxt "MatchSettings/VehicleWhitelistDesc"
 msgid "Exclusive list of vehicles, which are allowed to be spawned"
-msgstr "スポーンが許可されている車両のリスト"
+msgstr "スポーンが許可されている乗り物のリスト"
 
 msgctxt "MatchSettings/bExemptAdminsFromRestrictions"
 msgid "Exempt Admins from Restrictions"
@@ -3497,7 +3497,7 @@ msgstr "マッチ"
 
 msgctxt "MatchSettings/MaxBricksPerVehicle"
 msgid "Maximum Bricks per Vehicle"
-msgstr "車両あたりの最大Brick数"
+msgstr "乗り物あたりの最大Brick数"
 
 msgctxt "MatchSettings/MaxDummies"
 msgid "Maximum Dummies"
@@ -3505,23 +3505,23 @@ msgstr "ダミーの最大数"
 
 msgctxt "MatchSettings/MaxVehicleMass"
 msgid "Maximum Vehicle Mass"
-msgstr "最大車両重量"
+msgstr "最大乗り物重量"
 
 msgctxt "MatchSettings/MaxVehicleSize"
 msgid "Maximum Vehicle Size"
-msgstr "車両の最大サイズ"
+msgstr "乗り物の最大サイズ"
 
 msgctxt "MatchSettings/MaxVehiclesPerPlayer"
 msgid "Maximum Vehicles per Player"
-msgstr "プレイヤーあたりの最大車両数"
+msgstr "プレイヤーが出せる乗り物の最大数"
 
 msgctxt "MatchSettings/MaxVehicleMassDesc"
 msgid "Maximum mass of a vehicle. Try to keep this below {0}"
-msgstr "車両の最大質量。これを {0} 未満に保つようにしてください"
+msgstr "乗り物の最大質量。これを {0} 未満に保つようにしてください"
 
 msgctxt "MatchSettings/MaxBricksPerVehicleDesc"
 msgid "Maximum number of bricks a vehicle may be spawned with. Try to keep this below {0}"
-msgstr "車両が生成できるBrickの最大数。これを {0} 未満に保つようにしてください"
+msgstr "乗り物が生成できるBrickの最大数。これを {0} 未満に保つようにしてください"
 
 msgctxt "MatchSettings/MaxDummiesDesc"
 msgid "Maximum number of dummies allowed to be spawned at once"
@@ -3529,15 +3529,15 @@ msgstr "一度にスポーンできるダミーの最大数"
 
 msgctxt "MatchSettings/MaxVehiclesPerPlayerDesc"
 msgid "Maximum number of vehicles a player is allowed to have spawned at once. Try to keep this below {0}"
-msgstr "プレイヤーが一度にスポーンできる車両の最大数。これを {0} 未満に保つようにしてください"
+msgstr "プレイヤーが一度にスポーンできる乗り物の最大数。これを {0} 未満に保つようにしてください"
 
 msgctxt "MatchSettings/MaxVehicleSizeDesc"
 msgid "Maximum size of a vehicle in any direction. Try to keep this below {0}"
-msgstr "車両のあらゆる方向の最大サイズ。これを {0} 未満に保つようにしてください"
+msgstr "乗り物のあらゆる方向の最大サイズ。これを {0} 未満に保つようにしてください"
 
 msgctxt "MatchSettings/VehiclePriceFactorDesc"
 msgid "Multiplies vehicle prices to make them more affordable or expensive"
-msgstr "車両価格を掛け算して、より手頃な価格または高価な価格にする"
+msgstr "乗り物の価格を掛け算して、より手頃な価格または高価な価格にする"
 
 msgctxt "MatchSettings/NumPlayerSlotsDesc"
 msgid "Number of players allowed to join the server. Too many players can cause high latency and low frame rates"
@@ -3593,19 +3593,19 @@ msgstr "時刻"
 
 msgctxt "MatchSettings/VehicleRemovalDelay"
 msgid "Vehicle Auto Removal Delay"
-msgstr "車両の自動撤去の遅延"
+msgstr "乗り物の自動撤去の遅延"
 
 msgctxt "MatchSettings/VehicleFilter"
 msgid "Vehicle Filter"
-msgstr "車両フィルター"
+msgstr "乗り物フィルター"
 
 msgctxt "MatchSettings/VehiclePriceFactor"
 msgid "Vehicle Price"
-msgstr "車両価格"
+msgstr "乗り物価格"
 
 msgctxt "MatchSettings/VehicleWhitelist"
 msgid "Vehicle Whitelist"
-msgstr "車両のホワイトリスト"
+msgstr "乗り物のホワイトリスト"
 
 msgctxt "MatchSettings/VehicleRestrictionsCategory"
 msgid "Vehicles"
@@ -3625,11 +3625,11 @@ msgstr "プレーヤーがフリーカムに入ることができるかどうか
 
 msgctxt "MatchSettings/bAllowEnterVehicleWithoutSeatVehicles"
 msgid "Whether players are allowed to enter vehicles without any seats"
-msgstr "プレイヤーが座席のない車両に乗車できるかどうか"
+msgstr "プレイヤーが座席のない乗り物に乗車できるかどうか"
 
 msgctxt "MatchSettings/bAllowRemoveVehicleFromOtherPlayerPlayers"
 msgid "Whether players are allowed to remove and/or enter the editor with vehicles they haven't spawned themselves"
-msgstr "プレイヤーが自分で生成していない車両を削除したり、エディターに入ることができるかどうか"
+msgstr "プレイヤーが自分で生成していない乗り物を削除したり、エディターに入ることができるかどうか"
 
 msgctxt "MatchSettings/bAllowSpawnAnywhereDesc"
 msgid "Whether players are allowed to respawn/teleport anywhere in the world"
@@ -3637,11 +3637,11 @@ msgstr "プレイヤーが世界中のどこにでもリスポーン/テレポ�
 
 msgctxt "MatchSettings/bAllowInfiniteAmmoDesc"
 msgid "Whether vehicles and handguns should have infinite ammo"
-msgstr "車両と拳銃の弾薬は無限であるべきかどうか"
+msgstr "乗り物と拳銃の弾薬は無限であるべきかどうか"
 
 msgctxt "MatchSettings/bAllowInfiniteFuelDesc"
 msgid "Whether vehicles should have unlimited fuel"
-msgstr "車両に無制限の燃料を搭載すべきかどうか"
+msgstr "乗り物に無制限の燃料を搭載すべきかどうか"
 
 msgctxt "MatchState/WaitingToStart"
 msgid "Get ready..."
@@ -3689,11 +3689,11 @@ msgstr "無効"
 
 msgctxt "MatchVehicleFilter/WhitelistDesc"
 msgid "Only vehicles from your defined whitelist may be spawned"
-msgstr "定義されたホワイトリストにある車両のみが生成される可能性があります"
+msgstr "定義されたホワイトリストにある乗り物のみが生成される可能性があります"
 
 msgctxt "MatchVehicleFilter/PublicOnlineDesc"
 msgid "Only vehicles, which have been uploaded to the Workshop and set to public, are allowed to be spawned"
-msgstr "ワークショップにアップロードされ公開設定されている車両のみがスポーンできます"
+msgstr "ワークショップにアップロードされ公開設定されている乗り物のみがスポーンできます"
 
 msgctxt "MatchVehicleFilter/PublicOnline"
 msgid "Public Workshop Only"
@@ -3829,7 +3829,7 @@ msgstr "爆発性"
 
 msgctxt "Misc/FailedToSpawnVehicleFormat"
 msgid "Failed to spawn your vehicle: {0}"
-msgstr "車両を生成できませんでした: {0}"
+msgstr "乗り物を生成できませんでした: {0}"
 
 msgctxt "Misc/MaterialFriction"
 msgid "Friction"
@@ -3941,7 +3941,7 @@ msgstr "マルチプレイヤーやワークショップなどのオンライン
 
 msgctxt "PlayerSpawnResult/Failure"
 msgid "Cannot spawn vehicle"
-msgstr "車両をスポーンできません"
+msgstr "乗り物をスポーンできません"
 
 msgctxt "PlayerSpawnResult/CorruptFile"
 msgid "File is corrupt"
@@ -3949,7 +3949,7 @@ msgstr "ファイルが壊れています"
 
 msgctxt "PlayerSpawnResult/OnlyAdminsCanSpawn"
 msgid "Only admins are allowed to spawn vehicles"
-msgstr "管理者のみが車両をスポーンできます"
+msgstr "管理者のみが乗り物をスポーンできます"
 
 msgctxt "PlayerSpawnResult/VehicleNotPublicOnline"
 msgid "Only public Workshop creations can be spawned"
@@ -3965,15 +3965,15 @@ msgstr "ホワイトリストに登録された作成のみを生成できます
 
 msgctxt "PlayerSpawnResult/BrickLimitExceeded"
 msgid "Vehicle has too many bricks"
-msgstr "車両のBrickが多すぎます"
+msgstr "乗り物のBrickが多すぎます"
 
 msgctxt "PlayerSpawnResult/SizeExceeded"
 msgid "Vehicle is too big"
-msgstr "車両が大きすぎる"
+msgstr "乗り物が大きすぎる"
 
 msgctxt "PlayerSpawnResult/MassExceeded"
 msgid "Vehicle is too heavy"
-msgstr "車両が重すぎる"
+msgstr "乗り物が重すぎる"
 
 msgctxt "PlayerSpawnResult/Cooldown"
 msgid "You are on a respawn cooldown"
@@ -3981,7 +3981,7 @@ msgstr "リスポーンのクールダウン中です"
 
 msgctxt "PlayerSpawnResult/VehicleLimitExceeded"
 msgid "You cannot spawn more vehicles"
-msgstr "これ以上車両を生成することはできません"
+msgstr "これ以上乗り物を生成することはできません"
 
 msgctxt "PlayerSpawnResult/InsufficientFunds"
 msgid "You don't have enough money"
@@ -3993,11 +3993,11 @@ msgstr "全て"
 
 msgctxt "ProximitySensorMask/Vehicles"
 msgid "All Vehicles"
-msgstr "すべての車両"
+msgstr "すべての乗り物"
 
 msgctxt "ProximitySensorMask/OtherVehicles"
 msgid "Other Vehicles"
-msgstr "その他の車両"
+msgstr "その他の乗り物"
 
 msgctxt "ProximitySensorMask/Pawn,"
 msgid "Players"
