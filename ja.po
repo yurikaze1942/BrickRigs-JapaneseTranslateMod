@@ -2561,7 +2561,7 @@ msgstr "グリル"
 
 msgctxt "Bricks/Gun"
 msgid "Gun"
-msgstr "銃"
+msgstr "武装"
 
 msgctxt "Bricks/Handle"
 msgid "Handle"
