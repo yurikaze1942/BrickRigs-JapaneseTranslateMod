@@ -25,7 +25,7 @@ msgstr "管理者権限の付与"
 
 msgctxt "/06CEDF124D1BC4BE740514BC4DB84AF9"
 msgid "Aim"
-msgstr "標的"
+msgstr "狙う"
 
 msgctxt "/65E849204944026ED51BD2B2B2DAFAE0"
 msgid "Aim your handheld gun"
@@ -465,7 +465,7 @@ msgstr "ファイル"
 
 msgctxt "/871D6AA54C888FA81F7F1FA2C45A5F38"
 msgid "Fire"
-msgstr "火"
+msgstr "発射"
 
 msgctxt "/FA77288D42B9A244C0ED4C9A9BFC67DC"
 msgid "Fire Fighters"
@@ -961,7 +961,7 @@ msgstr "前の爆発物"
 
 msgctxt "/B8BD787E498ED7AD864EAAAA08E3F84E"
 msgid "Previous Fire Action"
-msgstr "前の火災アクション"
+msgstr "前の発射アクション"
 
 msgctxt "/E615DB6240BC98AF69B49E81FEDD689B"
 msgid "Previous Seat"
@@ -2873,7 +2873,7 @@ msgstr "砂漠"
 
 msgctxt "ColorStringTable/FireCamo"
 msgid "Fire"
-msgstr "火"
+msgstr "発射"
 
 msgctxt "ColorStringTable/ForestCamo"
 msgid "Forest"
@@ -4209,7 +4209,7 @@ msgstr "空でない場合、プレイヤーはサーバーに参加するとき
 
 msgctxt "Settings/InvertViewPitch"
 msgid "Invert View Pitch"
-msgstr "ビューピッチを反転"
+msgstr "縦方向の視点操作を反転"
 
 msgctxt "Settings/InvertViewPitchDesc"
 msgid "Inverts the vertical view direction"
@@ -4793,7 +4793,7 @@ msgstr "戻る"
 
 msgctxt "UIStringTable/Direction_Backward"
 msgid "Backward"
-msgstr "後方へ"
+msgstr "後方"
 
 msgctxt "UIStringTable/Action_KickPlayer"
 msgid "Ban Player"
@@ -4905,7 +4905,7 @@ msgstr "フラグ {0}"
 
 msgctxt "UIStringTable/Direction_Forward"
 msgid "Forward"
-msgstr "フォワード"
+msgstr "前方"
 
 msgctxt "UIStringTable/Menu_Gameplay"
 msgid "Gameplay"
@@ -4949,7 +4949,7 @@ msgstr "入力設定"
 
 msgctxt "UIStringTable/InputAction_Interact"
 msgid "Interact"
-msgstr "交流する"
+msgstr "インタラクト"
 
 msgctxt "UIStringTable/Action_JoinServer"
 msgid "Join"
