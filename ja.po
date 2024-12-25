@@ -2293,7 +2293,7 @@ msgstr "カスタム出口位置を使用する"
 
 msgctxt "BrickProperties/Value"
 msgid "Value"
-msgstr "価値"
+msgstr "値"
 
 msgctxt "BrickProperties/WorkshopVisibility"
 msgid "Visibility"
@@ -2465,11 +2465,11 @@ msgstr "シリンダー"
 
 msgctxt "Bricks/Detonator"
 msgid "Detonator"
-msgstr "雷管"
+msgstr "起爆装置"
 
 msgctxt "Bricks/Display"
 msgid "Display"
-msgstr "画面"
+msgstr "ディスプレイ"
 
 msgctxt "Bricks/TextBrickDescription"
 msgid "Displays customizable text"
@@ -2605,7 +2605,7 @@ msgstr "ライトブリック"
 
 msgctxt "Bricks/MathBrick"
 msgid "Math Brick"
-msgstr "数学ブロック"
+msgstr "計算ブロック"
 
 msgctxt "Bricks/SensorDescription"
 msgid "Measures various metrics and outputs them to custom input channels"
@@ -3129,7 +3129,7 @@ msgstr "いいえ"
 
 msgctxt "HostServerType/Public"
 msgid "Public"
-msgstr "公共"
+msgstr "パブリック"
 
 msgctxt "HUDVisibility/Full"
 msgid "Full"
@@ -3809,7 +3809,7 @@ msgstr "メートル法"
 
 msgctxt "Misc/ExplosiveArmed"
 msgid "Armed"
-msgstr "武器がアクティブ"
+msgstr "起動済み"
 
 msgctxt "Misc/DefaultSource"
 msgid "Auto"
@@ -4297,7 +4297,7 @@ msgstr "レンダリング"
 
 msgctxt "Settings/ScreenResolution"
 msgid "Resolution"
-msgstr "解決"
+msgstr "解像度"
 
 msgctxt "Settings/ResolutionScale"
 msgid "Resolution Scale"
