@@ -3745,11 +3745,11 @@ msgstr "切り捨て"
 
 msgctxt "MathOperations/Greater"
 msgid "Greater"
-msgstr "大なり (上 > 下)"
+msgstr "大なり (上が大きいと1)"
 
 msgctxt "MathOperations/Less"
 msgid "Less"
-msgstr "小なり (上 < 下)"
+msgstr "小なり (上が小さいと1)"
 
 msgctxt "MathOperations/Max"
 msgid "Max"
@@ -3961,7 +3961,7 @@ msgstr "ホワイトリストに登録された作成のみを生成できます
 
 msgctxt "PlayerSpawnResult/NoObjects"
 msgid "Vehicle does not have any bricks"
-msgstr "ホワイトリストに登録された作成のみを生成できます"
+msgstr "乗り物にブロックがありません"
 
 msgctxt "PlayerSpawnResult/BrickLimitExceeded"
 msgid "Vehicle has too many bricks"
@@ -4053,7 +4053,7 @@ msgstr "角速度"
 
 msgctxt "SensorType/Distance"
 msgid "Distance"
-msgstr "距離"
+msgstr "移動距離"
 
 msgctxt "SensorType/SeekingProjectileDistance"
 msgid "Distance of Heat Seeker"
@@ -4085,7 +4085,7 @@ msgstr "ピッチ"
 
 msgctxt "SensorType/Proximity"
 msgid "Proximity"
-msgstr "近接性"
+msgstr "物体の距離"
 
 msgctxt "SensorType/Roll"
 msgid "Roll"
@@ -4493,11 +4493,11 @@ msgstr "無限"
 
 msgctxt "TransmissionMode/Automatic"
 msgid "Automatic"
-msgstr "オートマ"
+msgstr "AT"
 
 msgctxt "TransmissionMode/Manual"
 msgid "Manual"
-msgstr "マニュアル"
+msgstr "MT"
 
 msgctxt "TravelErrors/GenericFailure"
 msgid "Travel failure"
