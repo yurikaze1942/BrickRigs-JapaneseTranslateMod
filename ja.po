@@ -149,11 +149,11 @@ msgstr "サムネイルのキャプチャ"
 
 msgctxt "/76EDB7454F8A5CCA2D96B4805D1F85B6"
 msgid "Capture Vehicle Thumbnail"
-msgstr "乗り物のサムネイルをキャプチャする"
+msgstr "乗り物のサムネイルを撮影する"
 
 msgctxt "/74D28A1F4074D7F2C8D9D7A45F4C2842"
 msgid "Capture a new thumbnail from the current perspective"
-msgstr "現在の視点から新しいサムネイルをキャプチャします"
+msgstr "現在の視点から新しいサムネイルを撮影します"
 
 msgctxt "/8A1525084BA2CA17CED12398DE1D9055"
 msgid "Capture and hold flags to win points for your team"
@@ -1401,7 +1401,7 @@ msgstr "鋼鉄"
 
 msgctxt "/85A4496A419AE32867C0BA908F58510D"
 msgid "Steering"
-msgstr "操舵"
+msgstr "ステアリング"
 
 msgctxt "/BAB4F2474D39923C1217BC91E0FA53A2"
 msgid "Strobe"
@@ -1729,7 +1729,7 @@ msgstr "蓄積された"
 
 msgctxt "ActuatorMode/Cycle"
 msgid "Cycle"
-msgstr "サイクル"
+msgstr "繰り返し"
 
 msgctxt "ActuatorMode/PhysicsDriven"
 msgid "Physics Driven"
@@ -1737,11 +1737,11 @@ msgstr "物理学駆動"
 
 msgctxt "ActuatorMode/Seeking"
 msgid "Seeking"
-msgstr "探しています"
+msgstr "首振り"
 
 msgctxt "ActuatorMode/Spring"
 msgid "Spring"
-msgstr "春"
+msgstr "バネ"
 
 msgctxt "ActuatorMode/Static"
 msgid "Static"
@@ -1753,7 +1753,7 @@ msgstr "爆発物"
 
 msgctxt "AmmoType/TargetSeeking"
 msgid "Heat Seeking"
-msgstr "熱を求める"
+msgstr "熱源探知"
 
 msgctxt "AmmoType/Incendiary"
 msgid "Incendiary"
@@ -2197,7 +2197,7 @@ msgstr "静的"
 
 msgctxt "BrickProperties/SteeringCategory"
 msgid "Steering"
-msgstr "操舵"
+msgstr "ステアリング"
 
 msgctxt "BrickProperties/SteeringAngle"
 msgid "Steering Angle"
@@ -2237,11 +2237,11 @@ msgstr "タグ"
 
 msgctxt "BrickProperties/bTankDrive"
 msgid "Tank Steering"
-msgstr "タンクステアリング"
+msgstr "履帯ステアリング"
 
 msgctxt "BrickProperties/Text"
 msgid "Text"
-msgstr "文章"
+msgstr "テキスト"
 
 msgctxt "BrickProperties/TextColor"
 msgid "Text Color"
@@ -3745,19 +3745,19 @@ msgstr "切り捨て"
 
 msgctxt "MathOperations/Greater"
 msgid "Greater"
-msgstr "大なり (上が大きいと1)"
+msgstr "大なり > (上が大きい)"
 
 msgctxt "MathOperations/Less"
 msgid "Less"
-msgstr "小なり (上が小さいと1)"
+msgstr "小なり < (上が小さい)"
 
 msgctxt "MathOperations/Max"
 msgid "Max"
-msgstr "大きい"
+msgstr "最大"
 
 msgctxt "MathOperations/Min"
 msgid "Min"
-msgstr "小さい"
+msgstr "最小"
 
 msgctxt "MathOperations/Fmod"
 msgid "Modulo"
