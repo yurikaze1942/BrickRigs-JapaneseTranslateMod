@@ -33,7 +33,7 @@ msgstr "手持ち銃を向けてください"
 
 msgctxt "/61ADF5954B3CB9F55B418C81D2214971"
 msgid "Alt"
-msgstr "オルタナティブ"
+msgstr "Alt"
 
 msgctxt "/26E9A72B45048130E6356E9B01D3EA3E"
 msgid "Boost"
@@ -173,7 +173,7 @@ msgstr "カーボン"
 
 msgctxt "/C16FAA4B4DF163215BAE2E8399E85B02"
 msgid "Change the HUD/UI visibility level"
-msgstr "HUD/UI 可視性レベルを変更する"
+msgstr "HUD/UI 表示を変更する"
 
 msgctxt "/6E4FDD8245A55361C659FBB92966AF72"
 msgid "Character"
@@ -1933,7 +1933,7 @@ msgstr "フラッシュパターン"
 
 msgctxt "BrickProperties/bGenerateLift"
 msgid "Fluid Dynamic Surface"
-msgstr "空力と浮力"
+msgstr "空力"
 
 msgctxt "BrickProperties/Font"
 msgid "Font"
@@ -2105,7 +2105,7 @@ msgstr "パターン"
 
 msgctxt "BrickProperties/Ping"
 msgid "Ping"
-msgstr "ピン"
+msgstr "Ping"
 
 msgctxt "BrickProperties/PitchInputChannel"
 msgid "Pitch Input"
