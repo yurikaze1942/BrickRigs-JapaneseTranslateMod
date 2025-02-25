@@ -1065,7 +1065,7 @@ msgstr "世界中のダミーをすべて削除する"
 
 msgctxt "/A3B0F1CF42E33539754C09AA25754F45"
 msgid "Remove binding"
-msgstr "バインディングを削除する"
+msgstr "割り当てを削除する"
 
 msgctxt "/4D5F74564A5354C5D19897B788DEE6D2"
 msgid "Replace Vehicle"
@@ -1573,7 +1573,7 @@ msgstr "USサイレン"
 
 msgctxt "/59D0C1BD42053A67028A2AB746C2A902"
 msgid "Unbound"
-msgstr "縛りなし"
+msgstr "割り当てなし"
 
 msgctxt "/2A52711A4647F95405BC218917EE2D05"
 msgid "Uncategorized"
