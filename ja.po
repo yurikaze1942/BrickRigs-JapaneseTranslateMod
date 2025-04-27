@@ -2553,7 +2553,7 @@ msgstr "360 度の視野を提供し、銃の予測着弾点を表示します"
 
 msgctxt "Bricks/LightDescription"
 msgid "Glows and emits light"
-msgstr "光って発光する"
+msgstr "光る"
 
 msgctxt "Bricks/Grille"
 msgid "Grille"
