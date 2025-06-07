@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 msgctxt "/3F311538455E862A56A29B9BF4659409"
 msgid "Actuators"
@@ -205,7 +205,7 @@ msgstr "コマンド"
 
 msgctxt "/28EA376A400B20ADAA7AB8B646052ACB"
 msgid "Commit"
-msgstr "専念"
+msgstr "決定"
 
 msgctxt "/8D25759648D7B2E071FF08AF76BA7F04"
 msgid "Common"
