@@ -2825,7 +2825,7 @@ msgstr "{Player} は「{Vehicle}」をスポーンしようとしています。
 
 msgctxt "Chat/VehicleSpawnSuccessFormat"
 msgid "{Player} spawned vehicle \"{Vehicle}\" with {BrickCount} bricks."
-msgstr "{Player} は {BrickCount} bricksの「{Vehicle}」をスポーンしようとしています。"
+msgstr "{Player} は {BrickCount} bricksの「{Vehicle}」をスポーンしました。"
 
 msgctxt "Chat/PlayerKilledByFormat"
 msgid "{Victim} was eliminated by {Killer}."
