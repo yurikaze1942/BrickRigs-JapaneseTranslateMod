@@ -2085,7 +2085,7 @@ msgstr "モード"
 
 msgctxt "BrickProperties/MathOperation"
 msgid "Operation"
-msgstr "手術"
+msgstr "演算"
 
 msgctxt "BrickProperties/OutlineThickness"
 msgid "Outline Thickness"
